@@ -67,9 +67,9 @@ export default function Services() {
                     </p>
                   </div>
                   <div className={styles.iconRight}>
-                    <div className={styles.icon3}>
+                    <div className={styles.icon}>
                       <div className={styles.r6}>
-                        <Image className={styles.r34} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                        <Image className={styles.r33} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                       </div>
                     </div>
                   </div>
@@ -80,20 +80,20 @@ export default function Services() {
               <div className={styles.card2} data-border="true">
                 <div className={styles.container3}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r40} src="/assets/media/P83GXAfpnrSwR7n4M9PYngeos0.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/P83GXAfpnrSwR7n4M9PYngeos0.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r41}>
                       Time Frame
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph3}>
-                  <p className={styles.r44}>
+                  <p className={styles.r43}>
                     Varies based on project complexity, typically 6-12 weeks.
                   </p>
                 </div>
@@ -101,20 +101,20 @@ export default function Services() {
               <div className={styles.card3} data-border="true">
                 <div className={styles.container4}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r47} src="/assets/media/nhrnRH5g5GBziHgmwt0pOMKzixo.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r46} src="/assets/media/nhrnRH5g5GBziHgmwt0pOMKzixo.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading4}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r48}>
                       Focus Area
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph4}>
-                  <p className={styles.r44}>
+                  <p className={styles.r50}>
                     Creating visually appealing, functional websites.
                   </p>
                 </div>
@@ -122,20 +122,20 @@ export default function Services() {
               <div className={styles.card2} data-border="true">
                 <div className={styles.container3}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r47} src="/assets/media/gfXBkRMtpcneNYwg9iAONJVVDc.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r46} src="/assets/media/gfXBkRMtpcneNYwg9iAONJVVDc.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r41}>
                       Scope
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph3}>
-                  <p className={styles.r44}>
+                  <p className={styles.r43}>
                     Includes website design, front-end and back-end development.
                   </p>
                 </div>
@@ -149,7 +149,7 @@ export default function Services() {
                   <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r22}>
-                        <Image className={styles.r51} src="/assets/media/JTpykLKaHYU0B6cgqBPTa5MAoM.svg" alt="Icon" width={25} height={24} />
+                        <Image className={styles.r52} src="/assets/media/JTpykLKaHYU0B6cgqBPTa5MAoM.svg" alt="Icon" width={25} height={24} />
                       </div>
                     </div>
                   </div>
@@ -173,9 +173,9 @@ export default function Services() {
                     </p>
                   </div>
                   <div className={styles.iconRight}>
-                    <div className={styles.icon3}>
+                    <div className={styles.icon}>
                       <div className={styles.r6}>
-                        <Image className={styles.r34} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                        <Image className={styles.r33} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                       </div>
                     </div>
                   </div>
@@ -186,20 +186,20 @@ export default function Services() {
               <div className={styles.card2} data-border="true">
                 <div className={styles.container3}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r40} src="/assets/media/P83GXAfpnrSwR7n4M9PYngeos0.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/P83GXAfpnrSwR7n4M9PYngeos0.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r41}>
                       Time Frame
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph3}>
-                  <p className={styles.r44}>
+                  <p className={styles.r43}>
                     Branding projects typically last 4-8 weeks, depending on the scope.
                   </p>
                 </div>
@@ -207,20 +207,20 @@ export default function Services() {
               <div className={styles.card3} data-border="true">
                 <div className={styles.container4}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r47} src="/assets/media/nhrnRH5g5GBziHgmwt0pOMKzixo.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r46} src="/assets/media/nhrnRH5g5GBziHgmwt0pOMKzixo.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading4}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r48}>
                       Focus Area
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph4}>
-                  <p className={styles.r44}>
+                  <p className={styles.r50}>
                     Establishing a unique brand identity and voice.
                   </p>
                 </div>
@@ -228,20 +228,20 @@ export default function Services() {
               <div className={styles.card2} data-border="true">
                 <div className={styles.container3}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r47} src="/assets/media/gfXBkRMtpcneNYwg9iAONJVVDc.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r46} src="/assets/media/gfXBkRMtpcneNYwg9iAONJVVDc.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r41}>
                       Scope
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph3}>
-                  <p className={styles.r44}>
+                  <p className={styles.r43}>
                     Includes brand strategy, logo design, brand guidelines.
                   </p>
                 </div>
@@ -255,7 +255,7 @@ export default function Services() {
                   <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r22}>
-                        <Image className={styles.r51} src="/assets/media/2txGmcOBXehPQnYosck02lNP5DM.svg" alt="Icon" width={25} height={24} />
+                        <Image className={styles.r52} src="/assets/media/2txGmcOBXehPQnYosck02lNP5DM.svg" alt="Icon" width={25} height={24} />
                       </div>
                     </div>
                   </div>
@@ -266,7 +266,7 @@ export default function Services() {
                   </div>
                 </div>
                 <div className={styles.paragraph5}>
-                  <p className={styles.r57}>
+                  <p className={styles.r58}>
                     Boost your online presence with our tailored digital marketing strategies. From SEO and social media to PPC, we&apos;ve got you covered.
                   </p>
                 </div>
@@ -279,9 +279,9 @@ export default function Services() {
                     </p>
                   </div>
                   <div className={styles.iconRight}>
-                    <div className={styles.icon3}>
+                    <div className={styles.icon}>
                       <div className={styles.r6}>
-                        <Image className={styles.r34} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                        <Image className={styles.r33} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                       </div>
                     </div>
                   </div>
@@ -292,20 +292,20 @@ export default function Services() {
               <div className={styles.card2} data-border="true">
                 <div className={styles.container3}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r40} src="/assets/media/P83GXAfpnrSwR7n4M9PYngeos0.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/P83GXAfpnrSwR7n4M9PYngeos0.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r41}>
                       Time Frame
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph3}>
-                  <p className={styles.r44}>
+                  <p className={styles.r43}>
                     Continuing, with initial campaigns usually spanning 3 to 6 months.
                   </p>
                 </div>
@@ -313,20 +313,20 @@ export default function Services() {
               <div className={styles.card3} data-border="true">
                 <div className={styles.container4}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r47} src="/assets/media/nhrnRH5g5GBziHgmwt0pOMKzixo.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r46} src="/assets/media/nhrnRH5g5GBziHgmwt0pOMKzixo.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading4}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r48}>
                       Focus Area
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph4}>
-                  <p className={styles.r44}>
+                  <p className={styles.r50}>
                     Increasing online visibility, driving traffic, and generating leads.
                   </p>
                 </div>
@@ -334,20 +334,20 @@ export default function Services() {
               <div className={styles.card2} data-border="true">
                 <div className={styles.container3}>
                   <div className={styles.iconContainer2} data-border="true">
-                    <div className={styles.icon4}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r47} src="/assets/media/gfXBkRMtpcneNYwg9iAONJVVDc.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r46} src="/assets/media/gfXBkRMtpcneNYwg9iAONJVVDc.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h4 className={styles.r42}>
+                    <h4 className={styles.r41}>
                       Scope
                     </h4>
                   </div>
                 </div>
                 <div className={styles.paragraph3}>
-                  <p className={styles.r44}>
+                  <p className={styles.r43}>
                     Includes SEO, SEM, social media marketing, content marketing.
                   </p>
                 </div>

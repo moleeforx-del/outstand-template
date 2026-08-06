@@ -249,7 +249,7 @@ export default function Hero() {
                     </span>
                   </span>
                   <span className={styles.r16}>
-                    <span className={styles.r52}>
+                    <span className={styles.r42}>
                       a
                     </span>
                   </span>
@@ -257,13 +257,13 @@ export default function Hero() {
                     <span className={styles.r44}>
                       d
                     </span>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
-                    <span className={styles.r54}>
+                    <span className={styles.r53}>
                       g
                     </span>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
                     <span className={styles.r38}>
@@ -272,7 +272,7 @@ export default function Hero() {
                     <span className={styles.r42}>
                       a
                     </span>
-                    <span className={styles.r55}>
+                    <span className={styles.r54}>
                       l
                     </span>
                   </span>
@@ -280,7 +280,7 @@ export default function Hero() {
                     <span className={styles.r42}>
                       a
                     </span>
-                    <span className={styles.r54}>
+                    <span className={styles.r53}>
                       g
                     </span>
                     <span className={styles.r47}>
@@ -289,15 +289,15 @@ export default function Hero() {
                     <span className={styles.r43}>
                       n
                     </span>
-                    <span className={styles.r56}>
+                    <span className={styles.r55}>
                       c
                     </span>
-                    <span className={styles.r57}>
+                    <span className={styles.r56}>
                       y
                     </span>
                   </span>
                   <span className={styles.r16}>
-                    <span className={styles.r52}>
+                    <span className={styles.r57}>
                       -
                     </span>
                   </span>
@@ -321,7 +321,7 @@ export default function Hero() {
                     </span>
                   </span>
                   <span className={styles.r16}>
-                    <span className={styles.r57}>
+                    <span className={styles.r56}>
                       y
                     </span>
                     <span className={styles.r50}>
@@ -361,7 +361,7 @@ export default function Hero() {
                     </span>
                   </span>
                   <span className={styles.r16}>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
                     <span className={styles.r43}>
@@ -375,10 +375,10 @@ export default function Hero() {
                     <span className={styles.r40}>
                       u
                     </span>
-                    <span className={styles.r56}>
+                    <span className={styles.r55}>
                       c
                     </span>
-                    <span className={styles.r56}>
+                    <span className={styles.r55}>
                       c
                     </span>
                     <span className={styles.r47}>
@@ -404,10 +404,10 @@ export default function Hero() {
                     <span className={styles.r44}>
                       d
                     </span>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
-                    <span className={styles.r56}>
+                    <span className={styles.r55}>
                       c
                     </span>
                     <span className={styles.r42}>
@@ -453,13 +453,13 @@ export default function Hero() {
                     <span className={styles.r48}>
                       r
                     </span>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
                     <span className={styles.r43}>
                       n
                     </span>
-                    <span className={styles.r54}>
+                    <span className={styles.r53}>
                       g
                     </span>
                   </span>
@@ -473,7 +473,7 @@ export default function Hero() {
                     <span className={styles.r41}>
                       s
                     </span>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
                     <span className={styles.r43}>
@@ -513,7 +513,7 @@ export default function Hero() {
                     <span className={styles.r48}>
                       r
                     </span>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
                     <span className={styles.r58}>
@@ -524,7 +524,7 @@ export default function Hero() {
                     </span>
                   </span>
                   <span className={styles.r16}>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
                     <span className={styles.r43}>
@@ -546,13 +546,13 @@ export default function Hero() {
                     <span className={styles.r44}>
                       d
                     </span>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
-                    <span className={styles.r54}>
+                    <span className={styles.r53}>
                       g
                     </span>
-                    <span className={styles.r53}>
+                    <span className={styles.r52}>
                       i
                     </span>
                     <span className={styles.r38}>
@@ -561,7 +561,7 @@ export default function Hero() {
                     <span className={styles.r42}>
                       a
                     </span>
-                    <span className={styles.r55}>
+                    <span className={styles.r54}>
                       l
                     </span>
                   </span>
@@ -569,7 +569,7 @@ export default function Hero() {
                     <span className={styles.r42}>
                       a
                     </span>
-                    <span className={styles.r54}>
+                    <span className={styles.r53}>
                       g
                     </span>
                     <span className={styles.r47}>

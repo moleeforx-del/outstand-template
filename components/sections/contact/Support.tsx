@@ -65,9 +65,9 @@ export default function Support() {
                     </p>
                   </div>
                   <div className={styles.iconRight}>
-                    <div className={styles.icon3}>
+                    <div className={styles.icon}>
                       <div className={styles.r6}>
-                        <Image className={styles.r32} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                        <Image className={styles.r31} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                       </div>
                     </div>
                   </div>
@@ -77,36 +77,36 @@ export default function Support() {
           </div>
           <div className={styles.card2} data-border="true">
             <div className={styles.container2}>
-              <div className={styles.subContainer2}>
+              <div className={styles.subContainer3}>
                 <div className={styles.icon2}>
                   <div className={styles.r20}>
                     <Image className={styles.r35} src="/assets/media/JTpykLKaHYU0B6cgqBPTa5MAoM.svg" alt="Icon" width={25} height={24} />
                   </div>
                 </div>
                 <div className={styles.heading3}>
-                  <h3 className={styles.r23}>
+                  <h3 className={styles.r37}>
                     Branding & Identity
                   </h3>
                 </div>
               </div>
-              <div className={styles.paragraph2}>
-                <p className={styles.r25}>
+              <div className={styles.paragraph3}>
+                <p className={styles.r39}>
                   Create a standout brand identity. Let&apos;s craft your brand story together. Contact us today.
                 </p>
               </div>
             </div>
             <div className={styles.r1}>
-              <div className={styles.r37}>
-                <Link className={styles.hoverArrow} data-border="true" href="/contact#hero">
+              <div className={styles.r40}>
+                <Link className={styles.hoverArrow2} data-border="true" href="/contact#hero">
                   <div className={styles.text2}>
                     <p className={styles.r29}>
                       Get in Touch
                     </p>
                   </div>
                   <div className={styles.iconRight}>
-                    <div className={styles.icon3}>
+                    <div className={styles.icon}>
                       <div className={styles.r6}>
-                        <Image className={styles.r32} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                        <Image className={styles.r31} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                       </div>
                     </div>
                   </div>
@@ -116,7 +116,7 @@ export default function Support() {
           </div>
           <div className={styles.card} data-border="true">
             <div className={styles.container}>
-              <div className={styles.subContainer3}>
+              <div className={styles.subContainer4}>
                 <div className={styles.icon2}>
                   <div className={styles.r20}>
                     <Image className={styles.r35} src="/assets/media/2txGmcOBXehPQnYosck02lNP5DM.svg" alt="Icon" width={25} height={24} />
@@ -143,9 +143,9 @@ export default function Support() {
                     </p>
                   </div>
                   <div className={styles.iconRight}>
-                    <div className={styles.icon3}>
+                    <div className={styles.icon}>
                       <div className={styles.r6}>
-                        <Image className={styles.r32} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                        <Image className={styles.r31} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                       </div>
                     </div>
                   </div>

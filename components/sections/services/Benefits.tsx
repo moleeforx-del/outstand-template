@@ -101,13 +101,13 @@ export default function Benefits() {
               </div>
             </div>
             <div className={styles.textContainer3}>
-              <div className={styles.heading2}>
-                <h3 className={styles.r26}>
+              <div className={styles.heading3}>
+                <h3 className={styles.r34}>
                   Result Driven
                 </h3>
               </div>
-              <div className={styles.paragraph2}>
-                <p className={styles.r28}>
+              <div className={styles.paragraph3}>
+                <p className={styles.r36}>
                   Our team brings years of expertise to every project.
                 </p>
               </div>
@@ -179,13 +179,13 @@ export default function Benefits() {
               </div>
             </div>
             <div className={styles.textContainer3}>
-              <div className={styles.heading2}>
-                <h3 className={styles.r26}>
+              <div className={styles.heading3}>
+                <h3 className={styles.r34}>
                   Support
                 </h3>
               </div>
-              <div className={styles.paragraph2}>
-                <p className={styles.r28}>
+              <div className={styles.paragraph3}>
+                <p className={styles.r36}>
                   Our team is always here to assist with any questions or issues.
                 </p>
               </div>

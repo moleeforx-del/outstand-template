@@ -5,7 +5,7 @@
 .cta {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 482.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -20,7 +20,7 @@
 .textContainer {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 92.5938px;
   flex-direction: column;
   justify-content: center;
@@ -47,7 +47,7 @@
   word-break: break-word;
 }
 .r3 {
-  width: 100%;
+  width: 840px;
   height: 57.5938px;
   color: rgb(242, 242, 243);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -70,7 +70,7 @@
   word-break: break-word;
 }
 .r5 {
-  width: 100%;
+  width: 840px;
   height: 27px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -82,7 +82,7 @@
 .subContainer {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 350px;
   justify-content: center;
   align-items: center;
@@ -113,12 +113,12 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 204px;
   height: 150px;
   border-radius: 16px;
 }
 .r10 {
-  width: 100%;
+  width: 204px;
   height: 150px;
   overflow: clip;
   overflow-x: clip;
@@ -194,12 +194,12 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 204px;
   height: 135px;
   border-radius: 16px;
 }
 .r24 {
-  width: 100%;
+  width: 204px;
   height: 135px;
   overflow: clip;
   overflow-x: clip;
@@ -223,12 +223,12 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 204px;
   height: 350px;
   border-radius: 16px;
 }
 .r27 {
-  width: 100%;
+  width: 204px;
   height: 350px;
   overflow: clip;
   overflow-x: clip;
@@ -272,7 +272,7 @@
 .big {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 140px;
   height: 140px;
   flex-direction: column;
   justify-content: center;
@@ -285,7 +285,7 @@
 }
 .ellipse1 {
   position: relative;
-  width: 100%;
+  width: 140px;
   height: 140px;
   background-color: rgb(205, 241, 64);
   flex-shrink: 0;
@@ -307,11 +307,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 40px;
   height: 40px;
 }
 .r34 {
-  width: 100%;
+  width: 40px;
   height: 40px;
   overflow: clip;
   overflow-x: clip;
@@ -332,7 +332,7 @@
 }
 .r36 {
   position: relative;
-  width: 100%;
+  width: 124px;
   height: 124px;
 }
 .r37 {
@@ -341,9 +341,9 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 124px;
   height: 124px;
-  transform: matrix(0.688431, 0.725302, -0.725302, 0.688431, 0, 0);
+  transform: matrix(0.685691, 0.727892, -0.727892, 0.685691, 0, 0);
 }
 .image4 {
   position: relative;
@@ -360,12 +360,12 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 204px;
   height: 135px;
   border-radius: 16px;
 }
 .r40 {
-  width: 100%;
+  width: 204px;
   height: 135px;
   overflow: clip;
   overflow-x: clip;
@@ -393,11 +393,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 44px;
   height: 44px;
 }
 .r43 {
-  width: 100%;
+  width: 44px;
   height: 44px;
   overflow: clip;
   overflow-x: clip;
@@ -433,11 +433,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 40px;
   height: 40px;
 }
 .r54 {
-  width: 100%;
+  width: 40px;
   height: 40px;
   overflow: clip;
   overflow-x: clip;
@@ -452,6 +452,7 @@
     height: 497px;
   }
   .textContainer {
+    width: 780px;
     height: 107px;
     padding-right: 60px;
     padding-left: 60px;
@@ -461,6 +462,7 @@
     height: 48px;
   }
   .r3 {
+    width: 660px;
     height: 48px;
     font-size: 40px;
     line-height: 48px;
@@ -471,12 +473,14 @@
     height: 51px;
   }
   .r5 {
+    width: 660px;
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
   .subContainer {
+    width: 780px;
     gap: 20px;
     row-gap: 20px;
     column-gap: 20px;
@@ -490,12 +494,12 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 100%;
+    width: 140px;
     height: 150px;
     border-radius: 16px;
   }
   .r15 {
-    width: 100%;
+    width: 140px;
     height: 150px;
     overflow: clip;
     overflow-x: clip;
@@ -542,7 +546,19 @@
   .image2 {
     width: 140px;
   }
+  .r23 {
+    width: 140px;
+  }
+  .r24 {
+    width: 140px;
+  }
   .image3 {
+    width: 140px;
+  }
+  .r26 {
+    width: 140px;
+  }
+  .r27 {
     width: 140px;
   }
   .circleWrap {
@@ -560,9 +576,11 @@
     height: 120px;
   }
   .big {
+    width: 120px;
     height: 120px;
   }
   .ellipse1 {
+    width: 120px;
     height: 120px;
     aspect-ratio: 1 / 1;
   }
@@ -577,11 +595,13 @@
     height: 104px;
   }
   .r36 {
+    width: 104px;
     height: 104px;
   }
   .r37 {
+    width: 104px;
     height: 104px;
-    transform: matrix(0.70332, 0.710873, -0.710873, 0.70332, 0, 0);
+    transform: matrix(0.70265, 0.711536, -0.711536, 0.70265, 0, 0);
   }
   .image4 {
     width: 140px;
@@ -592,12 +612,12 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 100%;
+    width: 140px;
     height: 135px;
     border-radius: 16px;
   }
   .r45 {
-    width: 100%;
+    width: 140px;
     height: 135px;
     overflow: clip;
     overflow-x: clip;
@@ -625,11 +645,11 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 100%;
+    width: 44px;
     height: 44px;
   }
   .r48 {
-    width: 100%;
+    width: 44px;
     height: 44px;
     overflow: clip;
     overflow-x: clip;
@@ -659,11 +679,11 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 100%;
+    width: 40px;
     height: 40px;
   }
   .r57 {
-    width: 100%;
+    width: 40px;
     height: 40px;
     overflow: clip;
     overflow-x: clip;
@@ -679,26 +699,30 @@
     height: 358.094px;
   }
   .textContainer {
+    width: 358px;
     height: 118.094px;
   }
   .heading {
-    width: 100%;
+    width: 358px;
     height: 33.5938px;
   }
   .r3 {
+    width: 358px;
     height: 33.5938px;
     font-size: 28px;
     line-height: 33.6px;
     letter-spacing: 0.56px;
   }
   .paragraph {
-    width: 100%;
+    width: 358px;
     height: 76.5px;
   }
   .r5 {
+    width: 358px;
     height: 76.5px;
   }
   .subContainer {
+    width: 358px;
     height: 200px;
     gap: 8px;
     row-gap: 8px;
@@ -715,12 +739,12 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 100%;
+    width: 65.1875px;
     height: 80px;
     border-radius: 8px;
   }
   .r20 {
-    width: 100%;
+    width: 65.1875px;
     height: 80px;
     overflow: clip;
     overflow-x: clip;
@@ -742,10 +766,12 @@
     border-radius: 8px;
   }
   .r23 {
+    width: 65.2031px;
     height: 76px;
     border-radius: 8px;
   }
   .r24 {
+    width: 65.2031px;
     height: 76px;
     border-radius: 8px;
   }
@@ -755,10 +781,12 @@
     border-radius: 8px;
   }
   .r26 {
+    width: 65.2031px;
     height: 200px;
     border-radius: 8px;
   }
   .r27 {
+    width: 65.2031px;
     height: 200px;
     border-radius: 8px;
   }
@@ -777,9 +805,11 @@
     height: 60px;
   }
   .big {
+    width: 60px;
     height: 60px;
   }
   .ellipse1 {
+    width: 60px;
     height: 60px;
   }
   .icon {
@@ -793,9 +823,11 @@
     aspect-ratio: 1 / 1;
   }
   .r33 {
+    width: 20px;
     height: 20px;
   }
   .r34 {
+    width: 20px;
     height: 20px;
   }
   .r35 {
@@ -807,11 +839,13 @@
     height: 52px;
   }
   .r36 {
+    width: 52px;
     height: 52px;
   }
   .r37 {
+    width: 52px;
     height: 52px;
-    transform: matrix(0.702426, 0.711756, -0.711756, 0.702426, 0, 0);
+    transform: matrix(0.702203, 0.711977, -0.711977, 0.702203, 0, 0);
   }
   .image4 {
     width: 65.2031px;
@@ -824,12 +858,12 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 100%;
+    width: 65.2031px;
     height: 76px;
     border-radius: 8px;
   }
   .r50 {
-    width: 100%;
+    width: 65.2031px;
     height: 76px;
     overflow: clip;
     overflow-x: clip;
@@ -841,6 +875,26 @@
   .image5 {
     width: 65.2031px;
     height: 80px;
+    border-radius: 8px;
+  }
+  .r58 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 65.2031px;
+    height: 80px;
+    border-radius: 8px;
+  }
+  .r59 {
+    width: 65.2031px;
+    height: 80px;
+    overflow: clip;
+    overflow-x: clip;
+    overflow-y: clip;
+    object-fit: cover;
+    aspect-ratio: auto 408 / 300;
     border-radius: 8px;
   }
 }

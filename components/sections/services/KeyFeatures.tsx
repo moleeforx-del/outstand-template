@@ -79,12 +79,12 @@ export default function KeyFeatures() {
                     </div>
                     <div className={styles.textContainer3}>
                       <div className={styles.heading3}>
-                        <h3 className={styles.r25}>
+                        <h3 className={styles.r36}>
                           Exceptional Support
                         </h3>
                       </div>
                       <div className={styles.paragraph3}>
-                        <p className={styles.r37}>
+                        <p className={styles.r38}>
                           Our dedicated support team is always available to assist you.
                         </p>
                       </div>
@@ -104,12 +104,12 @@ export default function KeyFeatures() {
                     </div>
                     <div className={styles.textContainer3}>
                       <div className={styles.heading3}>
-                        <h3 className={styles.r25}>
+                        <h3 className={styles.r36}>
                           Diverse Team
                         </h3>
                       </div>
                       <div className={styles.paragraph3}>
-                        <p className={styles.r37}>
+                        <p className={styles.r38}>
                           Our team includes experts in every domain of service we provide.
                         </p>
                       </div>
@@ -122,7 +122,7 @@ export default function KeyFeatures() {
           <div className={styles.container2}>
             <div className={styles.subContainer3}>
               <div className={styles.r1}>
-                <div className={styles.r40}>
+                <div className={styles.r41}>
                   <div className={styles.noImage2} data-border="true">
                     <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
@@ -133,12 +133,12 @@ export default function KeyFeatures() {
                     </div>
                     <div className={styles.textContainer4}>
                       <div className={styles.heading3}>
-                        <h3 className={styles.r25}>
+                        <h3 className={styles.r36}>
                           Scalable Solutions
                         </h3>
                       </div>
                       <div className={styles.paragraph4}>
-                        <p className={styles.r44}>
+                        <p className={styles.r45}>
                           Our solutions are flexible and scalable, allowing them to grow per time.
                         </p>
                       </div>
@@ -147,7 +147,7 @@ export default function KeyFeatures() {
                 </div>
               </div>
               <div className={styles.r1}>
-                <div className={styles.r45}>
+                <div className={styles.r46}>
                   <div className={styles.noImage3} data-border="true">
                     <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
@@ -158,12 +158,12 @@ export default function KeyFeatures() {
                     </div>
                     <div className={styles.textContainer3}>
                       <div className={styles.heading3}>
-                        <h3 className={styles.r25}>
+                        <h3 className={styles.r36}>
                           Creative Innovation
                         </h3>
                       </div>
                       <div className={styles.paragraph3}>
-                        <p className={styles.r37}>
+                        <p className={styles.r38}>
                           We deliver innovative and creative solutions that inspires action.
                         </p>
                       </div>
@@ -173,7 +173,7 @@ export default function KeyFeatures() {
               </div>
             </div>
             <div className={styles.r1}>
-              <div className={styles.r47}>
+              <div className={styles.r48}>
                 <div className={styles.tablet2} data-border="true">
                   <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
@@ -189,14 +189,14 @@ export default function KeyFeatures() {
                       </h3>
                     </div>
                     <div className={styles.paragraph5}>
-                      <p className={styles.r44}>
+                      <p className={styles.r52}>
                         We use data and analytics to inform our decisions and optimize performance.
                       </p>
                     </div>
                   </div>
                   <div className={styles.image2}>
-                    <div className={styles.r52}>
-                      <Image className={styles.r53} src="/assets/media/kNNjNmCjmCdk1p9PDGxhoU28Y0.png" alt="" width={229} height={275} aria-hidden="true" />
+                    <div className={styles.r54}>
+                      <Image className={styles.r55} src="/assets/media/kNNjNmCjmCdk1p9PDGxhoU28Y0.png" alt="" width={229} height={275} aria-hidden="true" />
                     </div>
                   </div>
                 </div>

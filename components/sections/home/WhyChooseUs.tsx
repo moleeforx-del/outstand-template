@@ -62,7 +62,7 @@ export default function WhyChooseUs() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r27}>
-              <div className={styles.whyChooseUs2} data-border="true">
+              <div className={styles.whyChooseUs3} data-border="true">
                 <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
@@ -71,13 +71,13 @@ export default function WhyChooseUs() {
                   </div>
                 </div>
                 <div className={styles.textContainer3}>
-                  <div className={styles.heading2}>
-                    <h3 className={styles.r24}>
+                  <div className={styles.heading3}>
+                    <h3 className={styles.r31}>
                       Putting Users First
                     </h3>
                   </div>
-                  <div className={styles.paragraph2}>
-                    <p className={styles.r26}>
+                  <div className={styles.paragraph3}>
+                    <p className={styles.r33}>
                       We prioritize your needs and goals, working closely with you to create customized solutions that meet your unique requirements.
                     </p>
                   </div>

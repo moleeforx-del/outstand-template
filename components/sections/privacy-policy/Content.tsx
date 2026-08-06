@@ -66,36 +66,36 @@ export default function Content() {
             </div>
             <div className={styles.textContainer3} data-border="true">
               <div className={styles.textContainer4}>
-                <div className={styles.heading3}>
+                <div className={styles.heading2}>
                   <h3 className={styles.r25}>
                     How We Use Your Information
                   </h3>
                 </div>
                 <div className={styles.paragraph3}>
-                  <p className={styles.r32}>
+                  <p className={styles.r31}>
                     We may use the information we collect from you for various purposes, including:
                   </p>
                 </div>
               </div>
               <div className={styles.paragraph4}>
-                <ol className={styles.r34}>
-                  <li className={styles.r35}>
-                    <p className={styles.r36}>
+                <ol className={styles.r33}>
+                  <li className={styles.r34}>
+                    <p className={styles.r35}>
                       Providing and improving our products and services
                     </p>
                   </li>
-                  <li className={styles.r35}>
-                    <p className={styles.r36}>
+                  <li className={styles.r34}>
+                    <p className={styles.r35}>
                       Personalizing your experience on our website
                     </p>
                   </li>
-                  <li className={styles.r37}>
-                    <p className={styles.r38}>
+                  <li className={styles.r36}>
+                    <p className={styles.r37}>
                       Communicating with you about your account and any updates or promotions
                     </p>
                   </li>
-                  <li className={styles.r39}>
-                    <p className={styles.r40}>
+                  <li className={styles.r38}>
+                    <p className={styles.r39}>
                       Analyzing website traffic and user behavior to enhance our offerings
                     </p>
                   </li>
@@ -109,7 +109,7 @@ export default function Content() {
                 </h3>
               </div>
               <div className={styles.paragraph4}>
-                <p className={styles.r42}>
+                <p className={styles.r41}>
                   We take data security seriously and employ industry-standard measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
                 </p>
               </div>
@@ -121,7 +121,7 @@ export default function Content() {
                 </h3>
               </div>
               <div className={styles.paragraph5}>
-                <p className={styles.r45}>
+                <p className={styles.r44}>
                   We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as required by law or as necessary to provide our services. We may share your information with trusted third-party service providers who assist us in operating our website, conducting our business, or servicing you, provided that they agree to keep your information confidential.
                 </p>
               </div>
@@ -133,14 +133,14 @@ export default function Content() {
                 </h3>
               </div>
               <div className={styles.paragraph6}>
-                <p className={styles.r48}>
+                <p className={styles.r47}>
                   Our website may use cookies to enhance your browsing experience and collect information about how you interact with our site. You can adjust your browser settings to refuse cookies or alert you when cookies are being sent, but some features of the site may not function properly without cookies.
                 </p>
               </div>
             </div>
             <div className={styles.textContainer8} data-border="true">
-              <div className={styles.heading4}>
-                <h3 className={styles.r51}>
+              <div className={styles.heading3}>
+                <h3 className={styles.r50}>
                   Changes to this Privacy Policy
                 </h3>
               </div>
@@ -157,10 +157,10 @@ export default function Content() {
                 </h3>
               </div>
               <div className={styles.paragraph7}>
-                <p className={styles.r54}>
+                <p className={styles.r53}>
                   If you have any questions or concerns about our Privacy Policy or the handling of your personal information, please contact us at
-                  <a className={styles.r55} href="mailto:pragadesh37v@gmail.com" target="_blank" rel="noreferrer">
-                    <span className={styles.r56}>
+                  <a className={styles.r54} href="mailto:pragadesh37v@gmail.com" target="_blank" rel="noreferrer">
+                    <span className={styles.r55}>
                       hello@oustand.com
                     </span>
                   </a>

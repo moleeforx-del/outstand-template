@@ -101,14 +101,14 @@ export default function Features() {
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h3 className={styles.r24}>
+                    <h3 className={styles.r32}>
                       Collaboration
                     </h3>
                   </div>
                 </div>
                 <div className={styles.container4}>
                   <div className={styles.paragraph3}>
-                    <p className={styles.r34}>
+                    <p className={styles.r35}>
                       We believe that great work is the result of collaboration between our team and our clients.
                     </p>
                   </div>
@@ -128,14 +128,14 @@ export default function Features() {
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h3 className={styles.r24}>
+                    <h3 className={styles.r32}>
                       Innovation
                     </h3>
                   </div>
                 </div>
                 <div className={styles.container4}>
                   <div className={styles.paragraph3}>
-                    <p className={styles.r34}>
+                    <p className={styles.r35}>
                       At Agency pro, we are committed to staying at the forefront of the ever-evolving digital space.
                     </p>
                   </div>
@@ -155,14 +155,14 @@ export default function Features() {
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h3 className={styles.r24}>
+                    <h3 className={styles.r32}>
                       Integrity
                     </h3>
                   </div>
                 </div>
                 <div className={styles.container4}>
                   <div className={styles.paragraph3}>
-                    <p className={styles.r34}>
+                    <p className={styles.r35}>
                       We uphold the highest standards of integrity and professionalism in everything we do in our business.
                     </p>
                   </div>
@@ -182,14 +182,14 @@ export default function Features() {
                     </div>
                   </div>
                   <div className={styles.heading3}>
-                    <h3 className={styles.r24}>
+                    <h3 className={styles.r32}>
                       Result Driven
                     </h3>
                   </div>
                 </div>
                 <div className={styles.container4}>
                   <div className={styles.paragraph3}>
-                    <p className={styles.r34}>
+                    <p className={styles.r35}>
                       We are dedicated to delivering tangible results that help our clients achieve their goals.
                     </p>
                   </div>

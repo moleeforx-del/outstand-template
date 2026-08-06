@@ -5,7 +5,7 @@
 .ourStory {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 599.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -31,7 +31,7 @@
 .dektop {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 165.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -77,11 +77,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 100%;
+  width: 20px;
   height: 20px;
 }
 .r7 {
-  width: 100%;
+  width: 20px;
   height: 20px;
   overflow: clip;
   overflow-x: clip;
@@ -100,7 +100,7 @@
   place-content: normal flex-start;
 }
 .r9 {
-  width: 100%;
+  width: 73.0938px;
   height: 24px;
   color: rgb(218, 246, 111);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -112,7 +112,7 @@
 .textContainer {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 119.594px;
   flex-direction: column;
   justify-content: center;
@@ -139,7 +139,7 @@
   word-break: break-word;
 }
 .r12 {
-  width: 100%;
+  width: 840px;
   height: 57.5938px;
   color: rgb(255, 255, 255);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -162,7 +162,7 @@
   word-break: break-word;
 }
 .r14 {
-  width: 100%;
+  width: 840px;
   height: 54px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -174,7 +174,7 @@
 .container {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 374px;
   justify-content: center;
   align-items: center;
@@ -191,7 +191,7 @@
 .subContainer {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 374px;
   flex-direction: column;
   justify-content: flex-start;
@@ -206,7 +206,7 @@
 .container2 {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 320px;
   justify-content: flex-start;
   align-items: flex-start;
@@ -256,7 +256,7 @@
   word-break: break-word;
 }
 .r20 {
-  width: 100%;
+  width: 309.328px;
   height: 54px;
   color: rgb(205, 241, 64);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -282,7 +282,7 @@
 .heading2 {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 309.328px;
   height: 33px;
   flex-direction: column;
   justify-content: flex-start;
@@ -292,7 +292,7 @@
   word-break: break-word;
 }
 .r23 {
-  width: 100%;
+  width: 309.328px;
   height: 33px;
   color: rgb(242, 242, 243);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -304,7 +304,7 @@
 .text2 {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 309.328px;
   height: 135px;
   flex-direction: column;
   justify-content: flex-start;
@@ -314,7 +314,7 @@
   word-break: break-word;
 }
 .r25 {
-  width: 100%;
+  width: 309.328px;
   height: 135px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -361,6 +361,15 @@
   place-content: normal center;
   word-break: break-word;
 }
+.r28 {
+  width: 309.344px;
+  height: 54px;
+  color: rgb(205, 241, 64);
+  font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 54px;
+}
 .container4 {
   display: flex;
   position: relative;
@@ -376,10 +385,54 @@
   place-items: flex-start normal;
   place-content: flex-start;
 }
+.heading3 {
+  display: flex;
+  position: relative;
+  width: 309.344px;
+  height: 33px;
+  flex-direction: column;
+  justify-content: flex-start;
+  white-space: pre-wrap;
+  flex-shrink: 0;
+  place-content: normal flex-start;
+  word-break: break-word;
+}
+.r31 {
+  width: 309.344px;
+  height: 33px;
+  color: rgb(242, 242, 243);
+  font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 33px;
+  letter-spacing: 0.44px;
+}
+.text3 {
+  display: flex;
+  position: relative;
+  width: 309.344px;
+  height: 135px;
+  flex-direction: column;
+  justify-content: flex-start;
+  white-space: pre-wrap;
+  flex-shrink: 0;
+  place-content: normal flex-start;
+  word-break: break-word;
+}
+.r33 {
+  width: 309.344px;
+  height: 135px;
+  color: rgb(150, 151, 156);
+  font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0.36px;
+  text-align: left;
+}
 .progressBar {
   display: flex;
   position: relative;
-  width: 100%;
+  width: 1140px;
   height: 14px;
   justify-content: flex-start;
   align-items: center;
@@ -437,20 +490,23 @@
     height: 153px;
   }
   .dektop {
+    width: 780px;
     height: 153px;
   }
   .r9 {
     color: rgb(218, 245, 111);
   }
   .textContainer {
+    width: 780px;
     height: 107px;
     max-width: 1200px;
   }
   .heading {
-    width: 100%;
+    width: 780px;
     height: 48px;
   }
   .r12 {
+    width: 780px;
     height: 48px;
     font-size: 40px;
     line-height: 48px;
@@ -461,18 +517,19 @@
     height: 51px;
   }
   .r14 {
+    width: 686.391px;
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
   .container {
+    width: 780px;
     height: 363.5px;
     justify-content: flex-start;
     place-content: center flex-start;
   }
   .subContainer {
-    width: 1140px;
     height: 363.5px;
   }
   .container2 {
@@ -508,6 +565,24 @@
   .container4 {
     height: 165.5px;
   }
+  .heading3 {
+    height: 30px;
+  }
+  .r31 {
+    height: 30px;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+  }
+  .text3 {
+    height: 127.5px;
+  }
+  .r33 {
+    height: 127.5px;
+    font-size: 17px;
+    line-height: 25.5px;
+    letter-spacing: 0.34px;
+  }
 }
 
 @media (max-width: 809px) {
@@ -523,18 +598,22 @@
     height: 164.094px;
   }
   .dektop {
+    width: 358px;
     height: 164.094px;
     justify-content: center;
     place-content: center;
   }
   .textContainer {
+    width: 358px;
     height: 118.094px;
     max-width: 900px;
   }
   .heading {
+    width: 358px;
     height: 33.5938px;
   }
   .r12 {
+    width: 358px;
     height: 33.5938px;
     color: rgb(242, 242, 243);
     font-size: 28px;
@@ -542,17 +621,19 @@
     letter-spacing: 0.56px;
   }
   .paragraph {
-    width: 100%;
+    width: 358px;
     height: 76.5px;
   }
   .r14 {
+    width: 358px;
     height: 76.5px;
   }
   .container {
+    width: 358px;
     height: 977px;
   }
   .subContainer {
-    width: 100%;
+    width: 358px;
     height: 977px;
     gap: 12px;
     row-gap: 12px;
@@ -568,7 +649,7 @@
     flex-basis: 0px;
   }
   .card {
-    width: 100%;
+    width: 312px;
     height: 315px;
     gap: 24px;
     row-gap: 24px;
@@ -578,6 +659,9 @@
   .number {
     width: 264px;
   }
+  .r20 {
+    width: 264px;
+  }
   .container3 {
     width: 264px;
     height: 189px;
@@ -585,14 +669,22 @@
     row-gap: 6px;
     column-gap: 6px;
   }
+  .heading2 {
+    width: 264px;
+  }
+  .r23 {
+    width: 264px;
+  }
   .text2 {
+    width: 264px;
     height: 153px;
   }
   .r25 {
+    width: 264px;
     height: 153px;
   }
   .card2 {
-    width: 100%;
+    width: 312px;
     height: 315px;
     gap: 24px;
     row-gap: 24px;
@@ -602,12 +694,29 @@
   .number2 {
     width: 264px;
   }
+  .r28 {
+    width: 264px;
+  }
   .container4 {
     width: 264px;
     height: 189px;
     gap: 6px;
     row-gap: 6px;
     column-gap: 6px;
+  }
+  .heading3 {
+    width: 264px;
+  }
+  .r31 {
+    width: 264px;
+  }
+  .text3 {
+    width: 264px;
+    height: 153px;
+  }
+  .r33 {
+    width: 264px;
+    height: 153px;
   }
   .progressBar {
     width: 34px;

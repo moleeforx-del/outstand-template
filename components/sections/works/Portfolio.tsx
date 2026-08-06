@@ -208,14 +208,14 @@ export default function Portfolio() {
                     <div className={styles.r31}>
                       <a className={styles.projectButton} data-border="true" href="https://landfree.framer.website/" target="_blank" rel="noreferrer">
                         <div className={styles.content2}>
-                          <div className={styles.contentWrap}>
+                          <div className={styles.contentWrap2}>
                             <div className={styles.icon}>
                               <div className={styles.r6}>
                                 <Image className={styles.r35} src="/assets/media/32og4odYgYkNqGcAVdQw3vITs0k.svg" alt="Icon" width={20} height={21} />
                               </div>
                             </div>
                             <div className={styles.text7}>
-                              <p className={styles.r37}>
+                              <p className={styles.r84}>
                                 https://landfree.framer.website
                               </p>
                             </div>
@@ -228,7 +228,7 @@ export default function Portfolio() {
                     <div className={`${styles.subContainer9} ${styles.onlyDesktop}`}>
                       <div className={styles.container3}>
                         <div className={styles.heading6}>
-                          <h3 className={styles.r42}>
+                          <h3 className={styles.r88}>
                             Landfree
                           </h3>
                         </div>
@@ -241,7 +241,7 @@ export default function Portfolio() {
                         </div>
                       </div>
                       <div className={styles.pixIsTheUltimateFramerPortfolioTemplateForDesignersAndDevelopersUnveilYourWorkSeamlesslyWithItsSleekDesign4}>
-                        <p className={styles.r87}>
+                        <p className={styles.r90}>
                           LandFree is a dark-themed landing page template for presenting vital information and projects. Ideal for agencies, companies, and startups.
                         </p>
                       </div>
@@ -253,7 +253,7 @@ export default function Portfolio() {
                         </div>
                       </div>
                       <div className={styles.text8}>
-                        <p className={styles.r51}>
+                        <p className={styles.r93}>
                           October 2023 - December 2023
                         </p>
                       </div>
@@ -273,7 +273,7 @@ export default function Portfolio() {
                     <div className={`${styles.subContainer5} ${styles.onlyTablet}`}>
                       <div className={styles.container4}>
                         <div className={styles.heading7}>
-                          <h3 className={styles.r60}>
+                          <h3 className={styles.r95}>
                             Landfree
                           </h3>
                         </div>
@@ -294,7 +294,7 @@ export default function Portfolio() {
                     <div className={`${styles.subContainer7} ${styles.onlyPhone}`}>
                       <div className={styles.container5}>
                         <div className={styles.heading8}>
-                          <h3 className={styles.r69}>
+                          <h3 className={styles.r97}>
                             Landfree
                           </h3>
                         </div>
@@ -317,7 +317,7 @@ export default function Portfolio() {
               </div>
             </div>
             <div className={styles.r1}>
-              <div className={styles.r92}>
+              <div className={styles.r98}>
                 <div className={styles.desktop13} data-border="true">
                   <div className={styles.container6}>
                     <div className={styles.imageContainer2} data-border="true">
@@ -348,14 +348,14 @@ export default function Portfolio() {
                     <div className={styles.r31}>
                       <a className={styles.projectButton} data-border="true" href="https://waitlista.framer.website/" target="_blank" rel="noreferrer">
                         <div className={styles.content3}>
-                          <div className={styles.contentWrap}>
+                          <div className={styles.contentWrap3}>
                             <div className={styles.icon}>
                               <div className={styles.r6}>
                                 <Image className={styles.r35} src="/assets/media/32og4odYgYkNqGcAVdQw3vITs0k.svg" alt="Icon" width={20} height={21} />
                               </div>
                             </div>
                             <div className={styles.text9}>
-                              <p className={styles.r37}>
+                              <p className={styles.r103}>
                                 https://waitlista.framer.website
                               </p>
                             </div>
@@ -368,20 +368,20 @@ export default function Portfolio() {
                     <div className={`${styles.subContainer9} ${styles.onlyDesktop}`}>
                       <div className={styles.container3}>
                         <div className={styles.heading9}>
-                          <h3 className={styles.r42}>
+                          <h3 className={styles.r106}>
                             Waitlista
                           </h3>
                         </div>
                         <div className={styles.subContainer11}>
                           <div className={styles.text10}>
-                            <p className={styles.r45}>
+                            <p className={styles.r109}>
                               Waitlist
                             </p>
                           </div>
                         </div>
                       </div>
                       <div className={styles.pixIsTheUltimateFramerPortfolioTemplateForDesignersAndDevelopersUnveilYourWorkSeamlesslyWithItsSleekDesign4}>
-                        <p className={styles.r87}>
+                        <p className={styles.r90}>
                           Waitlista is a dark-themed landing page template designed specifically for waitlist launches. Build anticipation and excitement around your upcoming products or services using Waitlista.
                         </p>
                       </div>
@@ -393,7 +393,7 @@ export default function Portfolio() {
                         </div>
                       </div>
                       <div className={styles.text11}>
-                        <p className={styles.r51}>
+                        <p className={styles.r112}>
                           Febuary 2024 - April 2024
                         </p>
                       </div>
@@ -413,20 +413,20 @@ export default function Portfolio() {
                     <div className={`${styles.subContainer13} ${styles.onlyTablet}`}>
                       <div className={styles.container4}>
                         <div className={styles.heading10}>
-                          <h3 className={styles.r60}>
+                          <h3 className={styles.r115}>
                             Waitlista
                           </h3>
                         </div>
                         <div className={styles.subContainer14}>
                           <div className={styles.text12}>
-                            <p className={styles.r63}>
+                            <p className={styles.r118}>
                               Waitlist
                             </p>
                           </div>
                         </div>
                       </div>
                       <div className={styles.pixIsTheUltimateFramerPortfolioTemplateForDesignersAndDevelopersUnveilYourWorkSeamlesslyWithItsSleekDesign5}>
-                        <p className={styles.r107}>
+                        <p className={styles.r120}>
                           Waitlista is a dark-themed landing page template designed specifically for waitlist launches. Build anticipation and excitement around your upcoming products or services using Waitlista.
                         </p>
                       </div>
@@ -434,20 +434,20 @@ export default function Portfolio() {
                     <div className={`${styles.subContainer15} ${styles.onlyPhone}`}>
                       <div className={styles.container5}>
                         <div className={styles.heading11}>
-                          <h3 className={styles.r69}>
+                          <h3 className={styles.r123}>
                             Waitlista
                           </h3>
                         </div>
                         <div className={styles.subContainer16}>
                           <div className={styles.text13}>
-                            <p className={styles.r72}>
+                            <p className={styles.r126}>
                               Waitlist
                             </p>
                           </div>
                         </div>
                       </div>
                       <div className={styles.pixIsTheUltimateFramerPortfolioTemplateForDesignersAndDevelopersUnveilYourWorkSeamlesslyWithItsSleekDesign6}>
-                        <p className={styles.r113}>
+                        <p className={styles.r128}>
                           Waitlista is a dark-themed landing page template designed specifically for waitlist launches. Build anticipation and excitement around your upcoming products or services using Waitlista.
                         </p>
                       </div>

@@ -58,18 +58,18 @@ export default function OurStory() {
               </div>
               <div className={styles.card2} data-border="true">
                 <div className={styles.number2}>
-                  <p className={styles.r20}>
+                  <p className={styles.r28}>
                     2012
                   </p>
                 </div>
                 <div className={styles.container4}>
-                  <div className={styles.heading2}>
-                    <h3 className={styles.r23}>
+                  <div className={styles.heading3}>
+                    <h3 className={styles.r31}>
                       12K+ Client Served
                     </h3>
                   </div>
-                  <div className={styles.text2}>
-                    <p className={styles.r25}>
+                  <div className={styles.text3}>
+                    <p className={styles.r33}>
                       In 2012, we reached a significant milestone, serving 12K+ clients worldwide. This achievement is a testament to our dedication and our clients&apos; trust in us.
                     </p>
                   </div>

@@ -190,9 +190,9 @@ export default function PricingPlan() {
                         </p>
                       </div>
                       <div className={styles.iconRight}>
-                        <div className={styles.icon3}>
+                        <div className={styles.icon}>
                           <div className={styles.r6}>
-                            <Image className={styles.r61} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                            <Image className={styles.r60} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                           </div>
                         </div>
                       </div>
@@ -203,12 +203,12 @@ export default function PricingPlan() {
                   <div className={styles.textContainer4}>
                     <div className={styles.container3}>
                       <div className={styles.heading3}>
-                        <h3 className={styles.r37}>
+                        <h3 className={styles.r65}>
                           Growth Plan
                         </h3>
                       </div>
                       <div className={styles.frame856} data-border="true">
-                        <div className={styles.icon4}>
+                        <div className={styles.icon3}>
                           <div className={styles.r6}>
                             <Image className={styles.r68} src="/assets/media/ydUiyw6aFLrc1G7eEVXiBsr8u0.svg" alt="Icon" width={21} height={21} />
                           </div>
@@ -220,9 +220,9 @@ export default function PricingPlan() {
                         </div>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line2} />
                     <div className={styles.paragraph3}>
-                      <p className={styles.r72}>
+                      <p className={styles.r73}>
                         The Growth Plan is designed to accelerate your online growth with all the features.
                       </p>
                     </div>
@@ -240,7 +240,7 @@ export default function PricingPlan() {
                     </div>
                   </div>
                   <div className={styles.itemsContainer2}>
-                    <div className={styles.r74}>
+                    <div className={styles.r75}>
                       <div className={styles.pointer12} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
@@ -250,14 +250,14 @@ export default function PricingPlan() {
                           </div>
                         </div>
                         <div className={styles.text6}>
-                          <p className={styles.r77}>
+                          <p className={styles.r78}>
                             Custom Website Design & Development
                           </p>
                         </div>
                       </div>
                     </div>
-                    <div className={styles.r47}>
-                      <div className={styles.pointer1} data-border="true">
+                    <div className={styles.r79}>
+                      <div className={styles.pointer13} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -266,13 +266,13 @@ export default function PricingPlan() {
                           </div>
                         </div>
                         <div className={styles.text7}>
-                          <p className={styles.r54}>
+                          <p className={styles.r82}>
                             Advanced SEO Strategy
                           </p>
                         </div>
                       </div>
                     </div>
-                    <div className={styles.r74}>
+                    <div className={styles.r75}>
                       <div className={styles.pointer12} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
@@ -282,14 +282,14 @@ export default function PricingPlan() {
                           </div>
                         </div>
                         <div className={styles.text6}>
-                          <p className={styles.r77}>
+                          <p className={styles.r78}>
                             Social Media Management (5 Platforms)
                           </p>
                         </div>
                       </div>
                     </div>
-                    <div className={styles.r47}>
-                      <div className={styles.pointer1} data-border="true">
+                    <div className={styles.r79}>
+                      <div className={styles.pointer13} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -298,24 +298,24 @@ export default function PricingPlan() {
                           </div>
                         </div>
                         <div className={styles.text7}>
-                          <p className={styles.r54}>
+                          <p className={styles.r82}>
                             Monthly Strategy Sessions
                           </p>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div className={styles.r79}>
+                  <div className={styles.r83}>
                     <Link className={styles.iconLeftRight} href="/contact">
                       <div className={styles.text8}>
-                        <p className={styles.r82}>
+                        <p className={styles.r86}>
                           Accelerate Growth
                         </p>
                       </div>
                       <div className={styles.iconRight2}>
-                        <div className={styles.icon5}>
-                          <div className={styles.r85}>
-                            <Image className={styles.r86} src="/assets/media/Z4EozQtdVmroG1HDLS4zKFJeGo.svg" alt="Icon" width={20} height={20} />
+                        <div className={styles.icon4}>
+                          <div className={styles.r89}>
+                            <Image className={styles.r90} src="/assets/media/Z4EozQtdVmroG1HDLS4zKFJeGo.svg" alt="Icon" width={20} height={20} />
                           </div>
                         </div>
                       </div>
@@ -326,13 +326,13 @@ export default function PricingPlan() {
                 <div className={styles.card3} data-border="true">
                   <div className={styles.textContainer5}>
                     <div className={styles.heading4}>
-                      <h3 className={styles.r37}>
+                      <h3 className={styles.r95}>
                         Enterprise Plan
                       </h3>
                     </div>
-                    <div className={styles.line2}>
-                      <div className={styles.r92}>
-                        <svg className={styles.r93} />
+                    <div className={styles.line3}>
+                      <div className={styles.r97}>
+                        <svg className={styles.r98} />
                       </div>
                     </div>
                     <div className={styles.paragraph2}>
@@ -342,7 +342,7 @@ export default function PricingPlan() {
                     </div>
                   </div>
                   <div className={styles.text9}>
-                    <p className={styles.r95}>
+                    <p className={styles.r100}>
                       Custom pricing
                     </p>
                   </div>
@@ -415,14 +415,14 @@ export default function PricingPlan() {
                   <div className={styles.r55}>
                     <Link className={styles.hoverArrow} data-border="true" href="/contact">
                       <div className={styles.text10}>
-                        <p className={styles.r58}>
+                        <p className={styles.r102}>
                           Request Custom Quote
                         </p>
                       </div>
                       <div className={styles.iconRight}>
-                        <div className={styles.icon3}>
+                        <div className={styles.icon}>
                           <div className={styles.r6}>
-                            <Image className={styles.r61} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                            <Image className={styles.r60} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                           </div>
                         </div>
                       </div>

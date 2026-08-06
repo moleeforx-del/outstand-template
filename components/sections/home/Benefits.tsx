@@ -119,22 +119,22 @@ export default function Benefits() {
           <div className={styles.container3}>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.benefitsCard} data-border="true">
+                <div className={styles.benefitsCard2} data-border="true">
                   <div className={styles.container4}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
-                        <Image className={styles.r34} src="/assets/media/5ArU4JBzq9iDcvi22yeWV6N0Kk.svg" alt="Icon" width={25} height={24} />
+                        <Image className={styles.r35} src="/assets/media/5ArU4JBzq9iDcvi22yeWV6N0Kk.svg" alt="Icon" width={25} height={24} />
                       </div>
                     </div>
                     <div className={styles.heading3}>
-                      <h3 className={styles.r24}>
+                      <h3 className={styles.r37}>
                         Improved User Experience
                       </h3>
                     </div>
                   </div>
                   <div className={styles.line2} />
                   <div className={styles.paragraph3}>
-                    <p className={styles.r27}>
+                    <p className={styles.r40}>
                       We prioritize user experience to ensure your audience enjoys a seamless, engaging experience.
                     </p>
                   </div>
@@ -143,22 +143,22 @@ export default function Benefits() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.benefitsCard} data-border="true">
+                <div className={styles.benefitsCard2} data-border="true">
                   <div className={styles.container4}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
-                        <Image className={styles.r34} src="/assets/media/PLVVOTVTah1ufpo8kh2XXw5e5cM.svg" alt="Icon" width={25} height={24} />
+                        <Image className={styles.r35} src="/assets/media/PLVVOTVTah1ufpo8kh2XXw5e5cM.svg" alt="Icon" width={25} height={24} />
                       </div>
                     </div>
                     <div className={styles.heading3}>
-                      <h3 className={styles.r24}>
+                      <h3 className={styles.r37}>
                         Scalability and Flexibility
                       </h3>
                     </div>
                   </div>
                   <div className={styles.line2} />
                   <div className={styles.paragraph3}>
-                    <p className={styles.r27}>
+                    <p className={styles.r40}>
                       Our scalable solutions grow with your business, changing market conditions and demands.
                     </p>
                   </div>
@@ -167,22 +167,22 @@ export default function Benefits() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.benefitsCard} data-border="true">
+                <div className={styles.benefitsCard2} data-border="true">
                   <div className={styles.container4}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
-                        <Image className={styles.r34} src="/assets/media/kqdyyErnJiTqFv0Ucqekn05z27I.svg" alt="Icon" width={25} height={24} />
+                        <Image className={styles.r35} src="/assets/media/kqdyyErnJiTqFv0Ucqekn05z27I.svg" alt="Icon" width={25} height={24} />
                       </div>
                     </div>
                     <div className={styles.heading3}>
-                      <h3 className={styles.r24}>
+                      <h3 className={styles.r37}>
                         Personalized Support
                       </h3>
                     </div>
                   </div>
                   <div className={styles.line2} />
                   <div className={styles.paragraph3}>
-                    <p className={styles.r27}>
+                    <p className={styles.r40}>
                       Get personalized support throughout your journey with us, ensuring assistance every step.
                     </p>
                   </div>

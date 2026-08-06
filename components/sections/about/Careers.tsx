@@ -78,7 +78,7 @@ export default function Careers() {
                       </h3>
                     </div>
                     <div className={styles.heading3}>
-                      <p className={styles.r23}>
+                      <p className={styles.r30}>
                         On-site
                       </p>
                     </div>
@@ -110,7 +110,7 @@ export default function Careers() {
                       </h3>
                     </div>
                     <div className={styles.heading3}>
-                      <p className={styles.r23}>
+                      <p className={styles.r30}>
                         On-site
                       </p>
                     </div>
@@ -167,9 +167,9 @@ export default function Careers() {
           </div>
           <div className={styles.container}>
             <div className={styles.paragraph2}>
-              <p className={styles.r32}>
+              <p className={styles.r33}>
                 Couldn’t find the desired role, Send your resume to
-                <span className={styles.r33}>
+                <span className={styles.r34}>
                   careers@oustand.co
                 </span>
               </p>
