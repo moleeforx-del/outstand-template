@@ -7,7 +7,6 @@ import Excellence from '@/components/sections/works/Excellence';
 import Testimonials from '@/components/sections/works/Testimonials';
 import Partners from '@/components/sections/works/Partners';
 import ContactUs from '@/components/sections/works/ContactUs';
-import ProjectScreens from '@/components/ui/ProjectScreens';
 
 export const metadata: Metadata = {
   title: 'Works',
@@ -25,16 +24,10 @@ export const metadata: Metadata = {
 export default function WorksPage() {
   return (
     <>
-      <ProjectScreens>
-        <ProjectsHero />
-      </ProjectScreens>
+      <ProjectsHero />
       <div className="pageShell pageShellFlush">
-        <ProjectScreens>
-          <Projects />
-        </ProjectScreens>
-        <ProjectScreens>
-          <Portfolio />
-        </ProjectScreens>
+        <Projects />
+        <Portfolio />
         <Excellence />
         <Testimonials />
         <Partners />
