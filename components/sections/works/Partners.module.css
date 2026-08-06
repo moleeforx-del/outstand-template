@@ -14,6 +14,8 @@
   row-gap: 60px;
   column-gap: 60px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .r1 {
   display: contents;
@@ -37,6 +39,8 @@
   gap: 10px;
   row-gap: 10px;
   column-gap: 10px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .tag {
   display: flex;
@@ -50,6 +54,8 @@
   column-gap: 2px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 6px 12px;
   border-radius: 42px;
   --border-top-width: 1px;
@@ -91,6 +97,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r9 {
   width: 63.6094px;
@@ -116,6 +123,8 @@
   padding-right: 150px;
   padding-left: 150px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .heading {
   display: flex;
@@ -126,6 +135,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r12 {
@@ -148,6 +158,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r14 {
@@ -172,6 +183,8 @@
   flex-shrink: 0;
   grid-template-columns: 369.328px 369.328px 369.344px;
   grid-template-rows: 442px 442px;
+  grid-auto-rows: min-content;
+  place-content: normal center;
 }
 .r16 {
   position: relative;
@@ -179,6 +192,7 @@
   height: 442px;
   align-self: start;
   flex-shrink: 0;
+  justify-self: start;
 }
 .patnerCard {
   display: flex;
@@ -195,6 +209,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: flex-start normal;
+  place-content: flex-start center;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -220,6 +236,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 40px;
   border-radius: 12px;
 }
@@ -267,6 +285,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 8px;
   border-radius: 100px;
   --border-top-width: 1px;
@@ -288,6 +308,8 @@
   column-gap: 10px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 14px;
   border-radius: 100px;
   --border-top-width: 1px;
@@ -359,6 +381,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
   border-radius: 12px;
 }
 .container {
@@ -372,6 +396,8 @@
   row-gap: 12px;
   column-gap: 12px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .heading2 {
   display: flex;
@@ -384,6 +410,7 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r33 {
@@ -408,6 +435,8 @@
   column-gap: 8px;
   background-color: rgb(31, 31, 31);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 6px 14px;
   border-radius: 50px;
 }
@@ -420,6 +449,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r36 {
   width: 97.9531px;
@@ -439,6 +469,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r38 {
@@ -468,6 +499,8 @@
   row-gap: 4px;
   column-gap: 4px;
   background-color: rgb(31, 31, 31);
+  place-items: center normal;
+  place-content: center;
   cursor: pointer;
   padding: 14px 24px;
   border-radius: 53px;
@@ -494,6 +527,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .text3 {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -521,6 +555,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .iconRight {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -548,6 +584,7 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r46 {
@@ -572,6 +609,8 @@
   column-gap: 8px;
   background-color: rgb(31, 31, 31);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 6px 14px;
   border-radius: 50px;
 }
@@ -584,6 +623,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r49 {
   width: 71.2656px;
@@ -600,6 +640,7 @@
   height: 442px;
   align-self: start;
   flex-shrink: 0;
+  justify-self: start;
 }
 .patnerCard2 {
   display: flex;
@@ -616,6 +657,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: flex-start normal;
+  place-content: flex-start center;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -641,6 +684,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 40px;
   border-radius: 12px;
 }
@@ -667,6 +712,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
   border-radius: 12px;
 }
 .container4 {
@@ -680,6 +727,8 @@
   row-gap: 12px;
   column-gap: 12px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .heading4 {
   display: flex;
@@ -692,6 +741,7 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r57 {
@@ -713,6 +763,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r59 {
@@ -742,6 +793,8 @@
   row-gap: 4px;
   column-gap: 4px;
   background-color: rgb(31, 31, 31);
+  place-items: center normal;
+  place-content: center;
   cursor: pointer;
   padding: 14px 24px;
   border-radius: 53px;
@@ -765,6 +818,7 @@
   height: 442px;
   align-self: start;
   flex-shrink: 0;
+  justify-self: start;
 }
 .patnerCard3 {
   display: flex;
@@ -781,6 +835,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: flex-start normal;
+  place-content: flex-start center;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -802,6 +858,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
   border-radius: 12px;
 }
 .heading5 {
@@ -815,6 +873,7 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r66 {
@@ -839,6 +898,8 @@
   column-gap: 8px;
   background-color: rgb(31, 31, 31);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 6px 14px;
   border-radius: 50px;
 }
@@ -851,6 +912,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r69 {
   width: 53.9844px;
@@ -870,6 +932,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r71 {
@@ -888,6 +951,7 @@
   height: 442px;
   align-self: start;
   flex-shrink: 0;
+  justify-self: start;
 }
 .patnerCard4 {
   display: flex;
@@ -904,6 +968,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: flex-start normal;
+  place-content: flex-start center;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -925,6 +991,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
   border-radius: 12px;
 }
 .heading6 {
@@ -938,6 +1006,7 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r76 {
@@ -959,6 +1028,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r78 {
@@ -1232,6 +1302,7 @@
     width: 358px;
     height: 223.188px;
     justify-content: center;
+    place-content: center;
   }
   .textContainer {
     width: 358px;

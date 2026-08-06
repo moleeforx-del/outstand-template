@@ -14,6 +14,8 @@
   row-gap: 60px;
   column-gap: 60px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .r1 {
   display: contents;
@@ -37,6 +39,8 @@
   gap: 10px;
   row-gap: 10px;
   column-gap: 10px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .tag {
   display: flex;
@@ -50,6 +54,8 @@
   column-gap: 2px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 6px 12px;
   border-radius: 42px;
   --border-top-width: 1px;
@@ -92,6 +98,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r9 {
   width: 65.5469px;
@@ -117,6 +124,8 @@
   padding-right: 150px;
   padding-left: 150px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .heading {
   display: flex;
@@ -127,6 +136,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r12 {
@@ -149,6 +159,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r14 {
@@ -172,6 +183,8 @@
   row-gap: 50px;
   column-gap: 50px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .card {
   display: flex;
@@ -186,6 +199,8 @@
   column-gap: 30px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -210,6 +225,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .textContainer2 {
   display: flex;
@@ -223,6 +240,8 @@
   row-gap: 8px;
   column-gap: 8px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .heading2 {
   display: flex;
@@ -233,6 +252,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r20 {
@@ -255,6 +275,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r22 {
@@ -279,6 +300,8 @@
   row-gap: 14px;
   column-gap: 14px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .subContainer2 {
   display: flex;
@@ -291,6 +314,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .icon2 {
   display: flex;
@@ -308,6 +333,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .r26 {
   position: absolute;
@@ -336,6 +363,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r29 {
   width: 154.203px;
@@ -358,6 +386,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .text3 {
   display: flex;
@@ -368,6 +398,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r32 {
   width: 247.953px;
@@ -390,6 +421,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .text4 {
   display: flex;
@@ -400,6 +433,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r35 {
   width: 176.203px;
@@ -422,6 +456,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .text5 {
   display: flex;
@@ -432,6 +468,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r38 {
   width: 107.359px;
@@ -460,6 +497,8 @@
   row-gap: 4px;
   column-gap: 4px;
   background-color: rgb(31, 31, 31);
+  place-items: center normal;
+  place-content: center;
   cursor: pointer;
   padding: 14px 24px;
   border-radius: 53px;
@@ -486,6 +525,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .text6 {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -513,6 +553,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .iconRight {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -543,6 +585,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .subContainer6 {
   display: flex;
@@ -555,6 +599,8 @@
   row-gap: 0px;
   column-gap: 0px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start center;
 }
 .card2 {
   display: flex;
@@ -573,6 +619,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
 }
 .icon3 {
@@ -589,6 +637,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .r49 {
   position: absolute;
@@ -620,6 +670,8 @@
   row-gap: 8px;
   column-gap: 8px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .heading3 {
   display: flex;
@@ -630,6 +682,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r53 {
@@ -651,6 +704,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r55 {
@@ -696,6 +750,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
 }
 .textContainer4 {
@@ -710,6 +766,8 @@
   row-gap: 8px;
   column-gap: 8px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .paragraph4 {
   display: flex;
@@ -720,6 +778,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r60 {
@@ -758,6 +817,8 @@
   row-gap: 0px;
   column-gap: 0px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start center;
 }
 .card4 {
   display: flex;
@@ -776,6 +837,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
 }
 .icon4 {
@@ -792,6 +855,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .r65 {
   position: absolute;
@@ -884,6 +949,7 @@
     width: 720px;
     height: 162px;
     justify-content: space-between;
+    place-content: center space-between;
   }
   .textContainer2 {
     height: 138.5px;
@@ -1067,6 +1133,7 @@
     width: 358px;
     height: 197.688px;
     justify-content: center;
+    place-content: center;
   }
   .textContainer {
     width: 358px;
@@ -1109,6 +1176,7 @@
     gap: 17px;
     row-gap: 17px;
     column-gap: 17px;
+    place-content: center flex-start;
   }
   .textContainer2 {
     width: 298px;

@@ -14,6 +14,8 @@
   row-gap: 60px;
   column-gap: 60px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .r1 {
   display: contents;
@@ -37,6 +39,8 @@
   gap: 10px;
   row-gap: 10px;
   column-gap: 10px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .tag {
   display: flex;
@@ -50,6 +54,8 @@
   column-gap: 2px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 6px 12px;
   border-radius: 42px;
   --border-top-width: 1px;
@@ -92,6 +98,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r9 {
   width: 94.5938px;
@@ -117,6 +124,8 @@
   padding-right: 150px;
   padding-left: 150px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .heading {
   display: flex;
@@ -127,6 +136,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r12 {
@@ -149,6 +159,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r14 {
@@ -178,6 +189,8 @@
   gap: 60px;
   row-gap: 60px;
   column-gap: 60px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .container {
   display: grid;
@@ -191,6 +204,8 @@
   flex-shrink: 0;
   grid-template-columns: 369.328px 369.328px 369.344px;
   grid-template-rows: 377px 377px;
+  grid-auto-rows: minmax(0px, 1fr);
+  place-content: normal center;
 }
 .r18 {
   position: relative;
@@ -198,6 +213,7 @@
   height: 377px;
   align-self: start;
   flex-shrink: 0;
+  justify-self: start;
 }
 .variant1 {
   display: flex;
@@ -214,6 +230,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -232,6 +250,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r21 {
@@ -253,6 +272,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r23 {
@@ -283,6 +303,8 @@
   row-gap: 12px;
   column-gap: 12px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .image {
   position: relative;
@@ -331,6 +353,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start center;
 }
 .name {
   display: flex;
@@ -341,6 +365,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r31 {
@@ -361,6 +386,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r33 {
@@ -391,6 +417,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: center normal;
+  place-content: center;
   cursor: pointer;
   padding: 14px;
   border-radius: 100px;
@@ -441,6 +469,7 @@
   height: 377px;
   align-self: start;
   flex-shrink: 0;
+  justify-self: start;
 }
 .variant12 {
   display: flex;
@@ -457,6 +486,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -475,6 +506,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r42 {
@@ -496,6 +528,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r44 {
@@ -526,6 +559,8 @@
   row-gap: 12px;
   column-gap: 12px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .textContainer3 {
   display: flex;
@@ -541,6 +576,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start center;
 }
 .name2 {
   display: flex;
@@ -551,6 +588,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r49 {
@@ -571,6 +609,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r51 {
@@ -759,6 +798,7 @@
     width: 358px;
     height: 197.688px;
     justify-content: center;
+    place-content: center;
   }
   .textContainer {
     width: 358px;
@@ -801,6 +841,7 @@
     height: 2270px;
     grid-template-columns: 358px;
     grid-template-rows: 365px 365px 365px 365px 365px 365px;
+    grid-auto-rows: min-content;
   }
   .r18 {
     width: 358px;

@@ -14,6 +14,8 @@
   row-gap: 60px;
   column-gap: 60px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .r1 {
   display: contents;
@@ -37,6 +39,8 @@
   gap: 10px;
   row-gap: 10px;
   column-gap: 10px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .tag {
   display: flex;
@@ -50,6 +54,8 @@
   column-gap: 2px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 6px 12px;
   border-radius: 42px;
   --border-top-width: 1px;
@@ -92,6 +98,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r9 {
   width: 56px;
@@ -117,6 +124,8 @@
   padding-right: 150px;
   padding-left: 150px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .heading {
   display: flex;
@@ -127,6 +136,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r12 {
@@ -149,6 +159,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r14 {
@@ -175,6 +186,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start center;
 }
 .r16 {
   position: relative;
@@ -199,6 +212,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -223,6 +238,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 14px;
   border-radius: 10px;
   --border-top-width: 1px;
@@ -272,6 +289,8 @@
   row-gap: 6px;
   column-gap: 6px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .heading2 {
   display: flex;
@@ -282,6 +301,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r24 {
@@ -304,6 +324,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r26 {
@@ -339,6 +360,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -360,6 +383,8 @@
   row-gap: 6px;
   column-gap: 6px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .heading3 {
   display: flex;
@@ -370,6 +395,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r31 {
@@ -392,6 +418,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r33 {
@@ -410,6 +437,8 @@
     width: 780px;
     height: 1020.5px;
     align-items: center;
+    place-items: center normal;
+    place-content: center flex-start;
   }
   .r2 {
     width: 780px;
@@ -456,11 +485,14 @@
     max-width: 500px;
     grid-template-columns: 500px;
     grid-template-rows: 258.5px 258.5px 258.5px;
+    grid-auto-rows: min-content;
+    place-content: normal center;
   }
   .r16 {
     width: 500px;
     height: 258.5px;
     align-self: start;
+    justify-self: start;
   }
   .whyChooseUs2 {
     width: 500px;
@@ -496,6 +528,7 @@
     width: 500px;
     height: 258.5px;
     align-self: start;
+    justify-self: start;
   }
   .whyChooseUs3 {
     width: 500px;
@@ -534,6 +567,8 @@
     width: 358px;
     height: 1133.59px;
     align-items: flex-start;
+    place-items: flex-start normal;
+    place-content: flex-start;
   }
   .r2 {
     width: 358px;
@@ -543,6 +578,7 @@
     width: 358px;
     height: 189.594px;
     justify-content: center;
+    place-content: center;
   }
   .textContainer {
     width: 358px;
@@ -575,6 +611,8 @@
     height: 884px;
     flex-direction: column;
     align-items: flex-start;
+    place-items: flex-start normal;
+    place-content: flex-start center;
   }
   .r16 {
     width: 358px;

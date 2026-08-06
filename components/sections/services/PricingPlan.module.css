@@ -14,6 +14,8 @@
   row-gap: 60px;
   column-gap: 60px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .r1 {
   display: contents;
@@ -37,6 +39,8 @@
   gap: 10px;
   row-gap: 10px;
   column-gap: 10px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .tag {
   display: flex;
@@ -50,6 +54,8 @@
   column-gap: 2px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 6px 12px;
   border-radius: 42px;
   --border-top-width: 1px;
@@ -91,6 +97,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r9 {
   width: 96.125px;
@@ -116,6 +123,8 @@
   padding-right: 150px;
   padding-left: 150px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .heading {
   display: flex;
@@ -126,6 +135,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r12 {
@@ -148,6 +158,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r14 {
@@ -177,6 +188,8 @@
   gap: 40px;
   row-gap: 40px;
   column-gap: 40px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .container {
   display: flex;
@@ -190,6 +203,8 @@
   column-gap: 16px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 8px 16px;
   border-radius: 70px;
 }
@@ -202,6 +217,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
   cursor: pointer;
 }
 .r19 {
@@ -226,6 +242,8 @@
   column-gap: 8px;
   background-color: rgb(26, 26, 26);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
   cursor: pointer;
   padding: 6px 28px 6px 6px;
   border-radius: 50px;
@@ -254,6 +272,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
   cursor: pointer;
 }
 .r23 {
@@ -290,6 +309,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r26 {
   width: 95.1406px;
@@ -374,6 +394,8 @@
   row-gap: 16px;
   column-gap: 16px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start center;
 }
 .card {
   display: flex;
@@ -393,6 +415,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -414,6 +438,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .heading2 {
   display: flex;
@@ -424,6 +450,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r37 {
@@ -455,6 +482,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r40 {
@@ -478,6 +506,8 @@
   row-gap: 0px;
   column-gap: 0px;
   flex-shrink: 0;
+  place-items: flex-end normal;
+  place-content: flex-end center;
 }
 .number {
   display: flex;
@@ -488,6 +518,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r43 {
   width: 80.0469px;
@@ -507,6 +538,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r45 {
   width: 60.9219px;
@@ -529,6 +561,8 @@
   row-gap: 16px;
   column-gap: 16px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .r47 {
   position: relative;
@@ -547,6 +581,8 @@
   row-gap: 8px;
   column-gap: 8px;
   background-color: rgba(20, 20, 20, 0);
+  place-items: center normal;
+  place-content: center flex-start;
   border-radius: 8px;
   --border-top-width: 1px;
   --border-right-width: 1px;
@@ -570,6 +606,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
   padding: 6px;
   border-radius: 100px;
 }
@@ -608,6 +646,7 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r54 {
@@ -635,6 +674,8 @@
   row-gap: 4px;
   column-gap: 4px;
   background-color: rgb(31, 31, 31);
+  place-items: center normal;
+  place-content: center;
   cursor: pointer;
   padding: 14px 24px;
   border-radius: 53px;
@@ -661,6 +702,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .text6 {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -688,6 +730,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .iconRight {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -722,6 +766,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -743,6 +789,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .text7 {
   display: flex;
@@ -753,6 +801,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r64 {
@@ -777,6 +826,8 @@
   row-gap: 16px;
   column-gap: 16px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .card3 {
   display: flex;
@@ -796,6 +847,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -817,6 +870,8 @@
   row-gap: 16px;
   column-gap: 16px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .card4 {
   display: flex;
@@ -837,6 +892,8 @@
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 0px;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -858,6 +915,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .r70 {
   width: 213px;
@@ -879,6 +938,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r72 {
@@ -905,6 +965,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r75 {
   width: 122.891px;
@@ -927,6 +988,8 @@
   row-gap: 16px;
   column-gap: 16px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .iconLeftRight {
   display: flex;
@@ -942,6 +1005,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: center normal;
+  place-content: center;
   cursor: pointer;
   padding: 14px 28px;
   border-radius: 53px;
@@ -955,6 +1020,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r79 {
   width: 96.0469px;
@@ -976,6 +1042,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .icon3 {
   position: relative;
@@ -1076,11 +1144,14 @@
     height: 1247.62px;
     grid-template-columns: 382px 382px;
     grid-template-rows: 523.812px 707.812px;
+    grid-auto-rows: min-content;
+    place-content: normal center;
   }
   .card {
     width: 382px;
     height: 406.312px;
     align-self: start;
+    justify-self: start;
   }
   .textContainer2 {
     width: 322px;
@@ -1148,6 +1219,7 @@
     width: 382px;
     height: 523.812px;
     align-self: start;
+    justify-self: start;
   }
   .textContainer4 {
     width: 322px;
@@ -1171,6 +1243,7 @@
     width: 382px;
     height: 615.812px;
     align-self: start;
+    justify-self: start;
   }
   .itemsContainer3 {
     width: 322px;
@@ -1179,6 +1252,7 @@
     width: 382px;
     height: 707.812px;
     align-self: start;
+    justify-self: start;
   }
   .textContainer5 {
     width: 322px;
@@ -1321,6 +1395,8 @@
     height: 2253.75px;
     flex-direction: column;
     align-items: flex-start;
+    place-items: flex-start normal;
+    place-content: flex-start center;
   }
   .card {
     width: 358px;

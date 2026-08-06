@@ -15,6 +15,8 @@
   column-gap: 60px;
   padding-top: 180px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .r1 {
   display: contents;
@@ -38,6 +40,8 @@
   gap: 10px;
   row-gap: 10px;
   column-gap: 10px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .tag {
   display: flex;
@@ -51,6 +55,8 @@
   column-gap: 2px;
   background-color: rgb(20, 20, 20);
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center flex-start;
   padding: 6px 12px;
   border-radius: 42px;
   --border-top-width: 1px;
@@ -92,6 +98,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r9 {
   width: 62.0156px;
@@ -117,6 +124,8 @@
   padding-right: 150px;
   padding-left: 150px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .heading {
   display: flex;
@@ -127,6 +136,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r12 {
@@ -149,6 +159,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r14 {
@@ -178,6 +189,8 @@
   gap: 40px;
   row-gap: 40px;
   column-gap: 40px;
+  place-items: center normal;
+  place-content: center flex-start;
 }
 .r17 {
   display: grid;
@@ -191,6 +204,8 @@
   flex-shrink: 0;
   grid-template-columns: 369.328px 369.328px 369.344px;
   grid-template-rows: 398px;
+  grid-auto-rows: min-content;
+  place-content: normal center;
 }
 .r18 {
   position: relative;
@@ -198,6 +213,7 @@
   height: 398px;
   align-self: start;
   flex-shrink: 0;
+  justify-self: start;
 }
 .openImage1 {
   display: flex;
@@ -214,6 +230,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px 24px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -237,6 +255,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: flex-end normal;
+  place-content: flex-end center;
   border-radius: 12px;
   --border-top-width: 1px;
   --border-right-width: 1px;
@@ -277,6 +297,8 @@
   background-color: rgb(20, 20, 20);
   border-radius: 12px 12px 0px 0px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 8px;
   --border-top-width: 1px;
   --border-right-width: 1px;
@@ -373,6 +395,8 @@
   row-gap: 6px;
   column-gap: 6px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .container {
   display: flex;
@@ -382,6 +406,8 @@
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center space-between;
 }
 .heading2 {
   display: flex;
@@ -392,6 +418,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r34 {
   width: 59.625px;
@@ -419,6 +446,8 @@
   row-gap: 4px;
   column-gap: 4px;
   background-color: rgb(31, 31, 31);
+  place-items: center normal;
+  place-content: center;
   cursor: pointer;
   padding: 6px 14px;
   border-radius: 53px;
@@ -445,6 +474,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .text2 {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -472,6 +502,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .iconRight {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -497,6 +529,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r42 {
@@ -516,6 +549,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r44 {
   width: 80.4531px;
@@ -532,6 +566,7 @@
   height: 398px;
   align-self: start;
   flex-shrink: 0;
+  justify-self: start;
 }
 .openImage12 {
   display: flex;
@@ -548,6 +583,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: flex-start normal;
+  place-content: flex-start;
   padding: 30px 24px;
   border-radius: 16px;
   --border-top-width: 1px;
@@ -571,6 +608,8 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  place-items: flex-end normal;
+  place-content: flex-end center;
   border-radius: 12px;
   --border-top-width: 1px;
   --border-right-width: 1px;
@@ -610,6 +649,8 @@
   row-gap: 6px;
   column-gap: 6px;
   flex-shrink: 0;
+  place-items: flex-start normal;
+  place-content: flex-start;
 }
 .container2 {
   display: flex;
@@ -619,6 +660,8 @@
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center space-between;
 }
 .heading4 {
   display: flex;
@@ -629,6 +672,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r53 {
   width: 78.0625px;
@@ -648,6 +692,7 @@
   justify-content: flex-start;
   white-space: pre-wrap;
   flex-shrink: 0;
+  place-content: normal flex-start;
   word-break: break-word;
 }
 .r55 {
@@ -716,6 +761,8 @@
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
+  place-items: center normal;
+  place-content: center;
   cursor: pointer;
   padding: 14px 28px;
   border-radius: 53px;
@@ -729,6 +776,7 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+  place-content: normal flex-start;
 }
 .r117 {
   width: 132.5px;
@@ -750,6 +798,8 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+  place-items: center normal;
+  place-content: center;
 }
 .icon4 {
   position: relative;
@@ -856,6 +906,7 @@
     height: 396.5px;
     align-self: start;
     flex-shrink: 0;
+    justify-self: start;
   }
   .openImage13 {
     display: flex;
@@ -872,6 +923,8 @@
     overflow: hidden;
     overflow-x: hidden;
     overflow-y: hidden;
+    place-items: flex-start normal;
+    place-content: flex-start;
     padding: 30px 24px;
     border-radius: 16px;
     --border-top-width: 1px;
@@ -895,6 +948,8 @@
     overflow-x: hidden;
     overflow-y: hidden;
     flex-shrink: 0;
+    place-items: flex-end normal;
+    place-content: flex-end center;
     border-radius: 12px;
     --border-top-width: 1px;
     --border-right-width: 1px;
@@ -935,6 +990,8 @@
     background-color: rgb(20, 20, 20);
     border-radius: 12px 12px 0px 0px;
     flex-shrink: 0;
+    place-items: flex-start normal;
+    place-content: flex-start;
     padding: 8px;
     --border-top-width: 1px;
     --border-right-width: 1px;
@@ -1031,6 +1088,8 @@
     row-gap: 6px;
     column-gap: 6px;
     flex-shrink: 0;
+    place-items: flex-start normal;
+    place-content: flex-start;
   }
   .container3 {
     display: flex;
@@ -1040,6 +1099,8 @@
     justify-content: space-between;
     align-items: center;
     flex-shrink: 0;
+    place-items: center normal;
+    place-content: center space-between;
   }
   .heading5 {
     display: flex;
@@ -1050,6 +1111,7 @@
     justify-content: flex-start;
     white-space: pre;
     flex-shrink: 0;
+    place-content: normal flex-start;
   }
   .r72 {
     width: 59.625px;
@@ -1077,6 +1139,8 @@
     row-gap: 4px;
     column-gap: 4px;
     background-color: rgb(31, 31, 31);
+    place-items: center normal;
+    place-content: center;
     cursor: pointer;
     padding: 6px 14px;
     border-radius: 53px;
@@ -1096,6 +1160,7 @@
     justify-content: flex-start;
     white-space: pre;
     flex-shrink: 0;
+    place-content: normal flex-start;
   }
   .r76 {
     width: 43.0469px;
@@ -1117,6 +1182,8 @@
     row-gap: 10px;
     column-gap: 10px;
     flex-shrink: 0;
+    place-items: center normal;
+    place-content: center;
   }
   .icon2 {
     position: relative;
@@ -1151,6 +1218,7 @@
     justify-content: flex-start;
     white-space: pre-wrap;
     flex-shrink: 0;
+    place-content: normal flex-start;
     word-break: break-word;
   }
   .r82 {
@@ -1170,6 +1238,7 @@
     justify-content: flex-start;
     white-space: pre;
     flex-shrink: 0;
+    place-content: normal flex-start;
   }
   .r84 {
     width: 80.4531px;
@@ -1220,6 +1289,7 @@
     width: 358px;
     height: 189.594px;
     justify-content: center;
+    place-content: center;
   }
   .textContainer {
     width: 358px;
@@ -1266,6 +1336,7 @@
     height: 396.5px;
     align-self: start;
     flex-shrink: 0;
+    justify-self: start;
   }
   .openImage14 {
     display: flex;
@@ -1282,6 +1353,8 @@
     overflow: hidden;
     overflow-x: hidden;
     overflow-y: hidden;
+    place-items: flex-start normal;
+    place-content: flex-start;
     padding: 30px 24px;
     border-radius: 16px;
     --border-top-width: 1px;
@@ -1305,6 +1378,8 @@
     overflow-x: hidden;
     overflow-y: hidden;
     flex-shrink: 0;
+    place-items: flex-end normal;
+    place-content: flex-end center;
     border-radius: 12px;
     --border-top-width: 1px;
     --border-right-width: 1px;
@@ -1345,6 +1420,8 @@
     background-color: rgb(20, 20, 20);
     border-radius: 12px 12px 0px 0px;
     flex-shrink: 0;
+    place-items: flex-start normal;
+    place-content: flex-start;
     padding: 8px;
     --border-top-width: 1px;
     --border-right-width: 1px;
@@ -1441,6 +1518,8 @@
     row-gap: 6px;
     column-gap: 6px;
     flex-shrink: 0;
+    place-items: flex-start normal;
+    place-content: flex-start;
   }
   .container4 {
     display: flex;
@@ -1450,6 +1529,8 @@
     justify-content: space-between;
     align-items: center;
     flex-shrink: 0;
+    place-items: center normal;
+    place-content: center space-between;
   }
   .heading7 {
     display: flex;
@@ -1460,6 +1541,7 @@
     justify-content: flex-start;
     white-space: pre;
     flex-shrink: 0;
+    place-content: normal flex-start;
   }
   .r101 {
     width: 59.625px;
@@ -1487,6 +1569,8 @@
     row-gap: 4px;
     column-gap: 4px;
     background-color: rgb(31, 31, 31);
+    place-items: center normal;
+    place-content: center;
     cursor: pointer;
     padding: 6px 14px;
     border-radius: 53px;
@@ -1506,6 +1590,7 @@
     justify-content: flex-start;
     white-space: pre;
     flex-shrink: 0;
+    place-content: normal flex-start;
   }
   .r105 {
     width: 43.0469px;
@@ -1527,6 +1612,8 @@
     row-gap: 10px;
     column-gap: 10px;
     flex-shrink: 0;
+    place-items: center normal;
+    place-content: center;
   }
   .icon3 {
     position: relative;
@@ -1561,6 +1648,7 @@
     justify-content: flex-start;
     white-space: pre-wrap;
     flex-shrink: 0;
+    place-content: normal flex-start;
     word-break: break-word;
   }
   .r111 {
@@ -1580,6 +1668,7 @@
     justify-content: flex-start;
     white-space: pre;
     flex-shrink: 0;
+    place-content: normal flex-start;
   }
   .r113 {
     width: 80.4531px;
