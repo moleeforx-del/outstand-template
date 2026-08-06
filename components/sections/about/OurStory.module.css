@@ -733,3 +733,17 @@
     height: 337.5px;
   }
 }
+
+/* ------------------------------------------------------------------ *
+ * Timeline alignment below the desktop breakpoint.
+ *
+ * The milestone card is narrower than its row (312 inside 358 at phone)
+ * and the original pushes it to the right, leaving the gap the vertical
+ * timeline line and its dots occupy. Defaulting to the left made the
+ * card sit on top of the line and stranded the dots in empty space.
+ * ------------------------------------------------------------------ */
+@media (max-width: 1319px) {
+  .container2 {
+    margin-left: auto;
+  }
+}
