@@ -747,3 +747,26 @@
     margin-left: auto;
   }
 }
+
+/* ------------------------------------------------------------------ *
+ * Drop the timeline rail on phones.
+ *
+ * The vertical line and its dots only line up at the captured width; at
+ * any other phone size the column stayed frozen and the rail drifted
+ * inward, away from the cards it should sit beside. Removing it leaves a
+ * clean stack of milestone cards, and the gutter it occupied is returned
+ * to the cards so they fill the column.
+ * ------------------------------------------------------------------ */
+@media (max-width: 809px) {
+  .line,
+  .line2,
+  .circle {
+    display: none;
+  }
+
+  .container2 {
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0;
+  }
+}
