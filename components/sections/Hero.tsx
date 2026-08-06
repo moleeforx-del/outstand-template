@@ -92,7 +92,7 @@ export default function Hero() {
             <div className={styles.rule} aria-hidden="true" />
             <dl className={styles.stats}>
               {hero.stats.map((stat) => (
-                <div key={stat.label} className={styles.stat}>
+                <div key={stat.label} className={styles.stat} data-border="true">
                   <dt className="sr-only">{stat.label}</dt>
                   <dd className={styles.statValue}>
                     {stat.value}

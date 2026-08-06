@@ -243,6 +243,7 @@
 }
 
 .stat {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -252,6 +253,13 @@
   padding: 40px 20px;
   border-radius: 20px;
   background-color: var(--color-ink-900);
+  /* Painted by the [data-border] ::after rule in globals.css. */
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 
 .statValue {
