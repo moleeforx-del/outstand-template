@@ -5,7 +5,7 @@
 .faqS {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 778.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -31,7 +31,7 @@
 .dektop {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 138.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -77,11 +77,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 20px;
+  width: 100%;
   height: 20px;
 }
 .r7 {
-  width: 20px;
+  width: 100%;
   height: 20px;
   overflow: clip;
   overflow-x: clip;
@@ -101,7 +101,7 @@
   place-content: normal flex-start;
 }
 .r9 {
-  width: 42.4531px;
+  width: 100%;
   height: 24px;
   color: rgb(218, 246, 111);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -113,7 +113,7 @@
 .textContainer {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 92.5938px;
   flex-direction: column;
   justify-content: center;
@@ -140,7 +140,7 @@
   word-break: break-word;
 }
 .r12 {
-  width: 840px;
+  width: 100%;
   height: 57.5938px;
   color: rgb(255, 255, 255);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -163,7 +163,7 @@
   word-break: break-word;
 }
 .r14 {
-  width: 840px;
+  width: 100%;
   height: 27px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -175,7 +175,7 @@
 .subContainer {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 580px;
   justify-content: flex-start;
   align-items: flex-start;
@@ -197,7 +197,7 @@
 .big {
   display: flex;
   position: relative;
-  width: 562px;
+  width: 100%;
   height: 580px;
   flex-direction: column;
   justify-content: flex-start;
@@ -219,7 +219,7 @@
 .subContainer2 {
   display: flex;
   position: relative;
-  width: 562px;
+  width: 100%;
   height: 72px;
   justify-content: flex-start;
   align-items: center;
@@ -252,7 +252,7 @@
   word-break: break-word;
 }
 .r20 {
-  width: 502px;
+  width: 100%;
   height: 24px;
   color: rgb(205, 241, 64);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -264,7 +264,7 @@
 .container {
   display: flex;
   position: relative;
-  width: 562px;
+  width: 100%;
   height: 508px;
   flex-direction: column;
   justify-content: flex-start;
@@ -288,7 +288,7 @@
 .bigClosed {
   display: flex;
   position: relative;
-  width: 502px;
+  width: 100%;
   height: 96px;
   flex-direction: column;
   justify-content: flex-start;
@@ -305,7 +305,7 @@
 .container2 {
   display: flex;
   position: relative;
-  width: 502px;
+  width: 100%;
   height: 96px;
   flex-direction: column;
   justify-content: center;
@@ -323,7 +323,7 @@
 .question {
   display: flex;
   position: relative;
-  width: 502px;
+  width: 100%;
   height: 48px;
   justify-content: flex-start;
   align-items: center;
@@ -351,7 +351,7 @@
   word-break: break-word;
 }
 .r27 {
-  width: 428px;
+  width: 100%;
   height: 48px;
   color: rgb(228, 229, 230);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -395,12 +395,12 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 24px;
+  width: 100%;
   height: 24px;
   border-radius: 10px;
 }
 .r31 {
-  width: 24px;
+  width: 100%;
   height: 24px;
   overflow: clip;
   overflow-x: clip;
@@ -425,7 +425,7 @@
 .bigClosed2 {
   display: flex;
   position: relative;
-  width: 502px;
+  width: 100%;
   height: 96px;
   flex-direction: column;
   justify-content: flex-start;
@@ -442,7 +442,7 @@
 .container3 {
   display: flex;
   position: relative;
-  width: 502px;
+  width: 100%;
   height: 96px;
   flex-direction: column;
   justify-content: center;
@@ -460,7 +460,7 @@
 .question2 {
   display: flex;
   position: relative;
-  width: 502px;
+  width: 100%;
   height: 48px;
   justify-content: flex-start;
   align-items: center;
@@ -488,7 +488,7 @@
   word-break: break-word;
 }
 .r38 {
-  width: 428px;
+  width: 100%;
   height: 48px;
   color: rgb(228, 229, 230);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -508,7 +508,7 @@
 .big2 {
   display: flex;
   position: relative;
-  width: 562px;
+  width: 100%;
   height: 580px;
   flex-direction: column;
   justify-content: flex-start;
@@ -530,7 +530,7 @@
 .container4 {
   display: flex;
   position: relative;
-  width: 562px;
+  width: 100%;
   height: 508px;
   flex-direction: column;
   justify-content: flex-start;
@@ -560,7 +560,7 @@
   word-break: break-word;
 }
 .r43 {
-  width: 428px;
+  width: 100%;
   height: 48px;
   color: rgb(228, 229, 230);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -580,23 +580,20 @@
     height: 127.5px;
   }
   .dektop {
-    width: 780px;
     height: 127.5px;
   }
   .r9 {
     color: rgb(218, 245, 111);
   }
   .textContainer {
-    width: 780px;
     height: 81.5px;
     max-width: 1200px;
   }
   .heading {
-    width: 780px;
+    width: 100%;
     height: 48px;
   }
   .r12 {
-    width: 780px;
     height: 48px;
     font-size: 40px;
     line-height: 48px;
@@ -607,7 +604,6 @@
     height: 25.5px;
   }
   .r14 {
-    width: 686.391px;
     height: 25.5px;
     font-size: 17px;
     line-height: 25.5px;
@@ -624,11 +620,9 @@
     height: 557.594px;
   }
   .big {
-    width: 710px;
     height: 557.594px;
   }
   .subContainer2 {
-    width: 710px;
     height: 69.5938px;
   }
   .heading2 {
@@ -636,14 +630,12 @@
     height: 21.5938px;
   }
   .r20 {
-    width: 650px;
     height: 21.5938px;
     font-size: 18px;
     line-height: 21.6px;
     letter-spacing: 0.36px;
   }
   .container {
-    width: 710px;
     height: 488px;
   }
   .r22 {
@@ -651,15 +643,12 @@
     height: 92px;
   }
   .bigClosed {
-    width: 650px;
     height: 92px;
   }
   .container2 {
-    width: 650px;
     height: 92px;
   }
   .question {
-    width: 650px;
     height: 44px;
   }
   .r26 {
@@ -667,7 +656,6 @@
     height: 21.5938px;
   }
   .r27 {
-    width: 576px;
     height: 21.5938px;
     font-size: 18px;
     line-height: 21.6px;
@@ -681,15 +669,12 @@
     height: 92px;
   }
   .bigClosed2 {
-    width: 650px;
     height: 92px;
   }
   .container3 {
-    width: 650px;
     height: 92px;
   }
   .question2 {
-    width: 650px;
     height: 44px;
   }
   .r37 {
@@ -697,7 +682,6 @@
     height: 21.5938px;
   }
   .r38 {
-    width: 576px;
     height: 21.5938px;
     font-size: 18px;
     line-height: 21.6px;
@@ -708,11 +692,9 @@
     height: 557.594px;
   }
   .big2 {
-    width: 710px;
     height: 557.594px;
   }
   .container4 {
-    width: 710px;
     height: 488px;
   }
   .r42 {
@@ -720,7 +702,6 @@
     height: 43.1875px;
   }
   .r43 {
-    width: 576px;
     height: 43.1875px;
     font-size: 18px;
     line-height: 21.6px;
@@ -738,22 +719,18 @@
     height: 172.188px;
   }
   .dektop {
-    width: 358px;
     height: 172.188px;
     justify-content: center;
     place-content: center;
   }
   .textContainer {
-    width: 358px;
     height: 126.188px;
     max-width: 900px;
   }
   .heading {
-    width: 358px;
     height: 67.1875px;
   }
   .r12 {
-    width: 358px;
     height: 67.1875px;
     color: rgb(242, 242, 243);
     font-size: 28px;
@@ -761,15 +738,14 @@
     letter-spacing: 0.56px;
   }
   .paragraph {
-    width: 358px;
+    width: 100%;
     height: 51px;
   }
   .r14 {
-    width: 358px;
     height: 51px;
   }
   .subContainer {
-    width: 358px;
+    width: 100%;
     height: 1289.44px;
   }
   .r16 {
@@ -777,20 +753,12 @@
     height: 615.938px;
   }
   .big {
-    width: 358px;
     height: 615.938px;
-  }
-  .subContainer2 {
-    width: 358px;
   }
   .heading2 {
     width: 298px;
   }
-  .r20 {
-    width: 298px;
-  }
   .container {
-    width: 358px;
     height: 546.344px;
     padding-right: 24px;
     padding-bottom: 20px;
@@ -799,21 +767,11 @@
   .r22 {
     width: 310px;
   }
-  .bigClosed {
-    width: 310px;
-  }
-  .container2 {
-    width: 310px;
-  }
-  .question {
-    width: 310px;
-  }
   .r26 {
     width: 236px;
     height: 43.1875px;
   }
   .r27 {
-    width: 236px;
     height: 43.1875px;
   }
   .line {
@@ -824,15 +782,12 @@
     height: 112.781px;
   }
   .bigClosed2 {
-    width: 310px;
     height: 112.781px;
   }
   .container3 {
-    width: 310px;
     height: 112.781px;
   }
   .question2 {
-    width: 310px;
     height: 64.7812px;
   }
   .r37 {
@@ -840,7 +795,6 @@
     height: 64.7812px;
   }
   .r38 {
-    width: 236px;
     height: 64.7812px;
   }
   .r39 {
@@ -848,11 +802,9 @@
     height: 657.5px;
   }
   .big2 {
-    width: 358px;
     height: 657.5px;
   }
   .container4 {
-    width: 358px;
     height: 587.906px;
     padding-right: 24px;
     padding-bottom: 20px;
@@ -863,7 +815,6 @@
     height: 64.7812px;
   }
   .r43 {
-    width: 236px;
     height: 64.7812px;
   }
 }

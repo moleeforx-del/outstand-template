@@ -80,9 +80,9 @@ export default function Projects() {
                             </p>
                           </div>
                           <div className={styles.iconRight}>
-                            <div className={styles.icon}>
+                            <div className={styles.icon2}>
                               <div className={styles.r6}>
-                                <Image className={styles.r39} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
+                                <Image className={styles.r40} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
                               </div>
                             </div>
                           </div>
@@ -90,18 +90,18 @@ export default function Projects() {
                       </div>
                     </div>
                     <div className={styles.paragraph2}>
-                      <p className={styles.r41}>
+                      <p className={styles.r42}>
                         Agency Template for business Brand.
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className={`${styles.r42} ${styles.onlyDesktop}`}>
-                <div className={styles.openImage12} data-border="true">
+              <div className={`${styles.r43} ${styles.onlyDesktop}`}>
+                <div className={styles.openImage1} data-border="true">
                   <div className={styles.imageContainer2} data-border="true">
-                    <div className={styles.r45}>
-                      <Image className={styles.r46} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={1092} height={758} />
+                    <div className={styles.r20}>
+                      <Image className={styles.r21} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={1092} height={758} />
                     </div>
                     <div className={styles.tabsContainer} data-border="true">
                       <div className={styles.image} data-border="true">
@@ -125,9 +125,9 @@ export default function Projects() {
                     </div>
                   </div>
                   <div className={styles.textContainer3}>
-                    <div className={styles.container2}>
+                    <div className={styles.container}>
                       <div className={styles.heading3}>
-                        <h3 className={styles.r50}>
+                        <h3 className={styles.r33}>
                           Landfree
                         </h3>
                       </div>
@@ -139,17 +139,17 @@ export default function Projects() {
                             </p>
                           </div>
                           <div className={styles.iconRight}>
-                            <div className={styles.icon}>
+                            <div className={styles.icon2}>
                               <div className={styles.r6}>
-                                <Image className={styles.r39} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
+                                <Image className={styles.r40} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
                               </div>
                             </div>
                           </div>
                         </a>
                       </div>
                     </div>
-                    <div className={styles.paragraph3}>
-                      <p className={styles.r52}>
+                    <div className={styles.paragraph2}>
+                      <p className={styles.r42}>
                         Agency Template for Designers.
                       </p>
                     </div>
@@ -186,7 +186,7 @@ export default function Projects() {
                   <div className={styles.textContainer2}>
                     <div className={styles.container}>
                       <div className={styles.heading4}>
-                        <h3 className={styles.r54}>
+                        <h3 className={styles.r33}>
                           Waitlista
                         </h3>
                       </div>
@@ -198,9 +198,9 @@ export default function Projects() {
                             </p>
                           </div>
                           <div className={styles.iconRight}>
-                            <div className={styles.icon}>
+                            <div className={styles.icon2}>
                               <div className={styles.r6}>
-                                <Image className={styles.r39} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
+                                <Image className={styles.r40} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
                               </div>
                             </div>
                           </div>
@@ -208,243 +208,243 @@ export default function Projects() {
                       </div>
                     </div>
                     <div className={styles.paragraph2}>
-                      <p className={styles.r41}>
+                      <p className={styles.r42}>
                         Waitlist Template for SaaS
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className={`${styles.r55} ${styles.onlyTablet}`}>
-                <div className={styles.openImage13} data-border="true">
+              <div className={`${styles.r48} ${styles.onlyTablet}`}>
+                <div className={styles.openImage12} data-border="true">
                   <div className={styles.imageContainer3} data-border="true">
-                    <div className={styles.r58}>
-                      <Image className={styles.r59} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={732} height={508} />
+                    <div className={styles.r51}>
+                      <Image className={styles.r52} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={732} height={508} />
                     </div>
                     <div className={styles.tabsContainer2} data-border="true">
                       <div className={styles.image3} data-border="true">
-                        <div className={styles.r62}>
-                          <Image className={styles.r63} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r55}>
+                          <Image className={styles.r56} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay3} />
                       </div>
                       <div className={styles.image4}>
-                        <div className={styles.r62}>
-                          <Image className={styles.r66} src="/assets/media/gSsLnjt7WE1u50J7AUBNaOu1hc4.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r55}>
+                          <Image className={styles.r59} src="/assets/media/gSsLnjt7WE1u50J7AUBNaOu1hc4.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay4} />
                       </div>
                       <div className={styles.image4}>
-                        <div className={styles.r62}>
-                          <Image className={styles.r66} src="/assets/media/v8DyMilEVADD4NQlYAGjnOPWyI.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r55}>
+                          <Image className={styles.r59} src="/assets/media/v8DyMilEVADD4NQlYAGjnOPWyI.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay4} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.textContainer4}>
-                    <div className={styles.container3}>
+                    <div className={styles.container2}>
                       <div className={styles.heading5}>
-                        <h3 className={styles.r71}>
+                        <h3 className={styles.r64}>
                           Gency
                         </h3>
                       </div>
-                      <div className={styles.r72}>
+                      <div className={styles.r65}>
                         <a className={styles.iconLeftRight2} data-border="true" href="https://gency.framer.website/" target="_blank" rel="noreferrer">
                           <div className={styles.text3}>
-                            <p className={styles.r75}>
+                            <p className={styles.r68}>
                               Open
                             </p>
                           </div>
                           <div className={styles.iconRight2}>
-                            <div className={styles.icon2}>
-                              <div className={styles.r78}>
-                                <Image className={styles.r79} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
+                            <div className={styles.icon3}>
+                              <div className={styles.r71}>
+                                <Image className={styles.r72} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
                               </div>
                             </div>
                           </div>
                         </a>
                       </div>
                     </div>
-                    <div className={styles.paragraph4}>
-                      <p className={styles.r81}>
+                    <div className={styles.paragraph3}>
+                      <p className={styles.r74}>
                         Agency Template for business Brand.
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className={`${styles.r55} ${styles.onlyTablet}`}>
-                <div className={styles.openImage13} data-border="true">
+              <div className={`${styles.r48} ${styles.onlyTablet}`}>
+                <div className={styles.openImage12} data-border="true">
                   <div className={styles.imageContainer3} data-border="true">
-                    <div className={styles.r58}>
-                      <Image className={styles.r59} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={732} height={508} />
+                    <div className={styles.r51}>
+                      <Image className={styles.r52} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={732} height={508} />
                     </div>
                     <div className={styles.tabsContainer2} data-border="true">
                       <div className={styles.image3} data-border="true">
-                        <div className={styles.r62}>
-                          <Image className={styles.r63} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r55}>
+                          <Image className={styles.r56} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay3} />
                       </div>
                       <div className={styles.image4}>
-                        <div className={styles.r62}>
-                          <Image className={styles.r66} src="/assets/media/fcDvn8yazOfnipQ7d8kEHoqyCCU.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r55}>
+                          <Image className={styles.r59} src="/assets/media/fcDvn8yazOfnipQ7d8kEHoqyCCU.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay4} />
                       </div>
                       <div className={styles.image4}>
-                        <div className={styles.r62}>
-                          <Image className={styles.r66} src="/assets/media/5eqo6wlEl53NuXGE2AApf7gzQ.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r55}>
+                          <Image className={styles.r59} src="/assets/media/5eqo6wlEl53NuXGE2AApf7gzQ.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay4} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.textContainer4}>
-                    <div className={styles.container3}>
+                    <div className={styles.container2}>
                       <div className={styles.heading6}>
-                        <h3 className={styles.r83}>
+                        <h3 className={styles.r64}>
                           Landfree
                         </h3>
                       </div>
-                      <div className={styles.r72}>
+                      <div className={styles.r65}>
                         <a className={styles.iconLeftRight2} data-border="true" href="https://landfree.framer.website/" target="_blank" rel="noreferrer">
                           <div className={styles.text3}>
-                            <p className={styles.r75}>
+                            <p className={styles.r68}>
                               Open
                             </p>
                           </div>
                           <div className={styles.iconRight2}>
-                            <div className={styles.icon2}>
-                              <div className={styles.r78}>
-                                <Image className={styles.r79} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
+                            <div className={styles.icon3}>
+                              <div className={styles.r71}>
+                                <Image className={styles.r72} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
                               </div>
                             </div>
                           </div>
                         </a>
                       </div>
                     </div>
-                    <div className={styles.paragraph4}>
-                      <p className={styles.r81}>
+                    <div className={styles.paragraph3}>
+                      <p className={styles.r74}>
                         Agency Template for Designers.
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className={`${styles.r84} ${styles.onlyPhone}`}>
-                <div className={styles.openImage14} data-border="true">
+              <div className={`${styles.r76} ${styles.onlyPhone}`}>
+                <div className={styles.openImage13} data-border="true">
                   <div className={styles.imageContainer4} data-border="true">
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={310} height={215} />
+                    <div className={styles.r79}>
+                      <Image className={styles.r80} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={310} height={215} />
                     </div>
                     <div className={styles.tabsContainer3} data-border="true">
                       <div className={styles.image5} data-border="true">
-                        <div className={styles.r91}>
-                          <Image className={styles.r92} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r83}>
+                          <Image className={styles.r84} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay5} />
                       </div>
                       <div className={styles.image6}>
-                        <div className={styles.r91}>
-                          <Image className={styles.r95} src="/assets/media/gSsLnjt7WE1u50J7AUBNaOu1hc4.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r83}>
+                          <Image className={styles.r87} src="/assets/media/gSsLnjt7WE1u50J7AUBNaOu1hc4.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay6} />
                       </div>
                       <div className={styles.image6}>
-                        <div className={styles.r91}>
-                          <Image className={styles.r95} src="/assets/media/v8DyMilEVADD4NQlYAGjnOPWyI.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r83}>
+                          <Image className={styles.r87} src="/assets/media/v8DyMilEVADD4NQlYAGjnOPWyI.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay6} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.textContainer5}>
-                    <div className={styles.container4}>
+                    <div className={styles.container3}>
                       <div className={styles.heading7}>
-                        <h3 className={styles.r100}>
+                        <h3 className={styles.r92}>
                           Gency
                         </h3>
                       </div>
-                      <div className={styles.r101}>
+                      <div className={styles.r93}>
                         <a className={styles.iconLeftRight3} data-border="true" href="https://gency.framer.website/" target="_blank" rel="noreferrer">
                           <div className={styles.text4}>
-                            <p className={styles.r104}>
+                            <p className={styles.r96}>
                               Open
                             </p>
                           </div>
                           <div className={styles.iconRight3}>
-                            <div className={styles.icon3}>
-                              <div className={styles.r107}>
-                                <Image className={styles.r108} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
+                            <div className={styles.icon4}>
+                              <div className={styles.r99}>
+                                <Image className={styles.r100} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
                               </div>
                             </div>
                           </div>
                         </a>
                       </div>
                     </div>
-                    <div className={styles.paragraph5}>
-                      <p className={styles.r110}>
+                    <div className={styles.paragraph4}>
+                      <p className={styles.r102}>
                         Agency Template for business Brand.
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className={`${styles.r84} ${styles.onlyPhone}`}>
-                <div className={styles.openImage14} data-border="true">
+              <div className={`${styles.r76} ${styles.onlyPhone}`}>
+                <div className={styles.openImage13} data-border="true">
                   <div className={styles.imageContainer4} data-border="true">
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={310} height={215} />
+                    <div className={styles.r79}>
+                      <Image className={styles.r80} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={310} height={215} />
                     </div>
                     <div className={styles.tabsContainer3} data-border="true">
                       <div className={styles.image5} data-border="true">
-                        <div className={styles.r91}>
-                          <Image className={styles.r92} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r83}>
+                          <Image className={styles.r84} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay5} />
                       </div>
                       <div className={styles.image6}>
-                        <div className={styles.r91}>
-                          <Image className={styles.r95} src="/assets/media/fcDvn8yazOfnipQ7d8kEHoqyCCU.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r83}>
+                          <Image className={styles.r87} src="/assets/media/fcDvn8yazOfnipQ7d8kEHoqyCCU.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay6} />
                       </div>
                       <div className={styles.image6}>
-                        <div className={styles.r91}>
-                          <Image className={styles.r95} src="/assets/media/5eqo6wlEl53NuXGE2AApf7gzQ.png" alt="Project Image" width={76} height={52} />
+                        <div className={styles.r83}>
+                          <Image className={styles.r87} src="/assets/media/5eqo6wlEl53NuXGE2AApf7gzQ.png" alt="Project Image" width={76} height={52} />
                         </div>
                         <div className={styles.overlay6} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.textContainer5}>
-                    <div className={styles.container4}>
+                    <div className={styles.container3}>
                       <div className={styles.heading8}>
-                        <h3 className={styles.r112}>
+                        <h3 className={styles.r92}>
                           Landfree
                         </h3>
                       </div>
-                      <div className={styles.r101}>
+                      <div className={styles.r93}>
                         <a className={styles.iconLeftRight3} data-border="true" href="https://landfree.framer.website/" target="_blank" rel="noreferrer">
                           <div className={styles.text4}>
-                            <p className={styles.r104}>
+                            <p className={styles.r96}>
                               Open
                             </p>
                           </div>
                           <div className={styles.iconRight3}>
-                            <div className={styles.icon3}>
-                              <div className={styles.r107}>
-                                <Image className={styles.r108} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
+                            <div className={styles.icon4}>
+                              <div className={styles.r99}>
+                                <Image className={styles.r100} src="/assets/media/v9veAOneu8HMTkvzXCD0zbLEYcM.svg" alt="Icon" width={21} height={20} />
                               </div>
                             </div>
                           </div>
                         </a>
                       </div>
                     </div>
-                    <div className={styles.paragraph5}>
-                      <p className={styles.r110}>
+                    <div className={styles.paragraph4}>
+                      <p className={styles.r102}>
                         Agency Template for Designers.
                       </p>
                     </div>
@@ -453,17 +453,17 @@ export default function Projects() {
               </div>
             </div>
           </div>
-          <div className={styles.r113}>
+          <div className={styles.r104}>
             <Link className={styles.hoverArrow} data-border="true" href="/works">
               <div className={styles.text5}>
-                <p className={styles.r116}>
+                <p className={styles.r107}>
                   View All Projects
                 </p>
               </div>
               <div className={styles.iconRight}>
-                <div className={styles.icon}>
+                <div className={styles.icon2}>
                   <div className={styles.r6}>
-                    <Image className={styles.r39} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                    <Image className={styles.r40} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                   </div>
                 </div>
               </div>

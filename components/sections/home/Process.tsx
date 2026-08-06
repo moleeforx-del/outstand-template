@@ -209,7 +209,7 @@ export default function Process() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r39}>
-                <div className={styles.processCard3} data-border="true">
+                <div className={styles.processCard} data-border="true">
                   <div className={styles.container3}>
                     <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
@@ -232,8 +232,8 @@ export default function Process() {
                         Feedback
                       </h3>
                     </div>
-                    <div className={styles.paragraph4}>
-                      <p className={styles.r43}>
+                    <div className={styles.paragraph2}>
+                      <p className={styles.r31}>
                         Continuous improvement is key. We value your input and use feedback to refine our processes.
                       </p>
                     </div>
@@ -245,35 +245,35 @@ export default function Process() {
           <div className={styles.card} data-border="true">
             <div className={styles.textContainer5}>
               <div className={styles.text3}>
-                <p className={styles.r47}>
+                <p className={styles.r44}>
                   What are you waiting for?
                 </p>
               </div>
               <div className={styles.r1}>
                 <div className={styles.heading3}>
-                  <h3 className={styles.r49}>
+                  <h3 className={styles.r46}>
                     Get a  and  within the next 10 days.
-                    <span className={styles.r50}>
+                    <span className={styles.r47}>
                       stunning website designed
                     </span>
-                    <span className={styles.r50}>
+                    <span className={styles.r47}>
                       online
                     </span>
                   </h3>
                 </div>
               </div>
             </div>
-            <div className={styles.r51}>
+            <div className={styles.r48}>
               <Link className={styles.iconLeftRight} href="/contact">
                 <div className={styles.text4}>
-                  <p className={styles.r54}>
+                  <p className={styles.r51}>
                     Get in touch
                   </p>
                 </div>
                 <div className={styles.iconRight}>
-                  <div className={styles.icon2}>
+                  <div className={styles.icon3}>
                     <div className={styles.r22}>
-                      <Image className={styles.r56} src="/assets/media/Z4EozQtdVmroG1HDLS4zKFJeGo.svg" alt="Icon" width={20} height={20} />
+                      <Image className={styles.r54} src="/assets/media/Z4EozQtdVmroG1HDLS4zKFJeGo.svg" alt="Icon" width={20} height={20} />
                     </div>
                   </div>
                 </div>

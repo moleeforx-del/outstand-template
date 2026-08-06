@@ -66,9 +66,9 @@ export default function ServicesOverview() {
                       </p>
                     </div>
                     <div className={styles.iconRight}>
-                      <div className={styles.icon}>
+                      <div className={styles.icon3}>
                         <div className={styles.r6}>
-                          <Image className={styles.r32} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                          <Image className={styles.r33} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                         </div>
                       </div>
                     </div>
@@ -80,14 +80,14 @@ export default function ServicesOverview() {
               <div className={styles.container3}>
                 <div className={styles.card2}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r38} src="/assets/media/nTYAqEXN9C0me62zMoI2ff2yOTE.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/nTYAqEXN9C0me62zMoI2ff2yOTE.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text3}>
-                    <p className={styles.r40}>
+                    <p className={styles.r41}>
                       Custom Web Design
                     </p>
                   </div>
@@ -95,14 +95,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/gNOSDtyGW0RDasLw0wjZhN4zIZ0.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/gNOSDtyGW0RDasLw0wjZhN4zIZ0.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Web Development
                     </p>
                   </div>
@@ -110,9 +110,9 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card4}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/zDempxsSq60mkq0dMapR6P5EzBo.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/zDempxsSq60mkq0dMapR6P5EzBo.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
@@ -127,14 +127,14 @@ export default function ServicesOverview() {
               <div className={styles.container4}>
                 <div className={styles.card2}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r38} src="/assets/media/SCJ6J98oOFdoHymkYICgdZkM7E.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/SCJ6J98oOFdoHymkYICgdZkM7E.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text3}>
-                    <p className={styles.r40}>
+                    <p className={styles.r41}>
                       Web Analytics
                     </p>
                   </div>
@@ -142,14 +142,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/ydIz3M4mCTEOuLxZxwJ7lovZtTY.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/ydIz3M4mCTEOuLxZxwJ7lovZtTY.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       App Development
                     </p>
                   </div>
@@ -157,14 +157,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/4gDtrSrlMvO59cIL21ZTNMgdtgU.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/4gDtrSrlMvO59cIL21ZTNMgdtgU.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       CMS Development
                     </p>
                   </div>
@@ -202,9 +202,9 @@ export default function ServicesOverview() {
                       </p>
                     </div>
                     <div className={styles.iconRight}>
-                      <div className={styles.icon}>
+                      <div className={styles.icon3}>
                         <div className={styles.r6}>
-                          <Image className={styles.r32} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                          <Image className={styles.r33} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                         </div>
                       </div>
                     </div>
@@ -216,14 +216,14 @@ export default function ServicesOverview() {
               <div className={styles.container3}>
                 <div className={styles.card5}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r38} src="/assets/media/1mlx3cOqytkIBWGvs9YPljlTbE.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/1mlx3cOqytkIBWGvs9YPljlTbE.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text6}>
-                    <p className={styles.r56}>
+                    <p className={styles.r48}>
                       Logo Design
                     </p>
                   </div>
@@ -231,14 +231,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/EfgJ0MlDOhBAjKx26zL2ZdGTzE.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/EfgJ0MlDOhBAjKx26zL2ZdGTzE.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Brand Strategy
                     </p>
                   </div>
@@ -246,14 +246,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/4HblmCmoovr4TKp3Yb5QovOsQ.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/4HblmCmoovr4TKp3Yb5QovOsQ.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Visual Identity
                     </p>
                   </div>
@@ -263,14 +263,14 @@ export default function ServicesOverview() {
               <div className={styles.container3}>
                 <div className={styles.card5}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r38} src="/assets/media/p0ol2SMUR0ygmKZajUIarElaU.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/p0ol2SMUR0ygmKZajUIarElaU.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text6}>
-                    <p className={styles.r56}>
+                    <p className={styles.r48}>
                       Print Design
                     </p>
                   </div>
@@ -278,14 +278,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/Jalmjnw0Y0kdnIoOOsfJqkXuzs.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/Jalmjnw0Y0kdnIoOOsfJqkXuzs.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Digital Branding
                     </p>
                   </div>
@@ -293,14 +293,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/toNbV6YSTqyjxMcAyanPIWdgHqA.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/toNbV6YSTqyjxMcAyanPIWdgHqA.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Brand Guidelines
                     </p>
                   </div>
@@ -338,9 +338,9 @@ export default function ServicesOverview() {
                       </p>
                     </div>
                     <div className={styles.iconRight}>
-                      <div className={styles.icon}>
+                      <div className={styles.icon3}>
                         <div className={styles.r6}>
-                          <Image className={styles.r32} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                          <Image className={styles.r33} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                         </div>
                       </div>
                     </div>
@@ -352,14 +352,14 @@ export default function ServicesOverview() {
               <div className={styles.container3}>
                 <div className={styles.card5}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r38} src="/assets/media/pCjwKabrD3muBobibi2oESUUKO4.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/pCjwKabrD3muBobibi2oESUUKO4.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text6}>
-                    <p className={styles.r56}>
+                    <p className={styles.r48}>
                       SEO
                     </p>
                   </div>
@@ -367,14 +367,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/D0xEkdihOgMmSjwFfL52dIB1ik.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/D0xEkdihOgMmSjwFfL52dIB1ik.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Content Marketing
                     </p>
                   </div>
@@ -382,14 +382,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/nVqPug6KxPO0ME4U541eGGNr57Q.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/nVqPug6KxPO0ME4U541eGGNr57Q.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Media Marketing
                     </p>
                   </div>
@@ -399,14 +399,14 @@ export default function ServicesOverview() {
               <div className={styles.container4}>
                 <div className={styles.card2}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r38} src="/assets/media/12T3vhvPRSodqGltEzSPIjNJw.svg" alt="Icon" width={20} height={20} />
+                        <Image className={styles.r39} src="/assets/media/12T3vhvPRSodqGltEzSPIjNJw.svg" alt="Icon" width={20} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text3}>
-                    <p className={styles.r40}>
+                    <p className={styles.r41}>
                       Email Marketing
                     </p>
                   </div>
@@ -414,14 +414,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/g2iFX2xv6lpLxWoTs83959PV14.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/g2iFX2xv6lpLxWoTs83959PV14.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Influencer Marketing
                     </p>
                   </div>
@@ -429,14 +429,14 @@ export default function ServicesOverview() {
                 <div className={styles.line} data-border="true" />
                 <div className={styles.card3}>
                   <div className={styles.iconContainer} data-border="true">
-                    <div className={styles.icon3}>
+                    <div className={styles.icon4}>
                       <div className={styles.r6}>
-                        <Image className={styles.r43} src="/assets/media/iC8hhEfX11Ow6AxT84wI21As0.svg" alt="Icon" width={21} height={20} />
+                        <Image className={styles.r44} src="/assets/media/iC8hhEfX11Ow6AxT84wI21As0.svg" alt="Icon" width={21} height={20} />
                       </div>
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r45}>
+                    <p className={styles.r41}>
                       Analytics & Reporting
                     </p>
                   </div>

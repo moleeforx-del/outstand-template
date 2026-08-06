@@ -1113,20 +1113,20 @@ export default function LetsWorkTogether() {
                 <div className={styles.letSWorkCard}>
                   <div className={styles.container4}>
                     <div className={styles.iconContainer}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon3}>
                         <div className={styles.r49}>
-                          <Image className={styles.r58} src="/assets/media/QaGlkYHPOGyjF0vwrrxURYuJ9s.svg" alt="" width={24} height={24} aria-hidden="true" />
+                          <Image className={styles.r59} src="/assets/media/QaGlkYHPOGyjF0vwrrxURYuJ9s.svg" alt="" width={24} height={24} aria-hidden="true" />
                         </div>
                       </div>
                     </div>
                     <div className={styles.heading4}>
-                      <h4 className={styles.r60}>
+                      <h4 className={styles.r61}>
                         Visibility
                       </h4>
                     </div>
                   </div>
                   <div className={styles.paragraph2}>
-                    <p className={styles.r62}>
+                    <p className={styles.r63}>
                       Showcase your brand to a targeted audience.
                     </p>
                   </div>
@@ -1138,20 +1138,20 @@ export default function LetsWorkTogether() {
                 <div className={styles.letSWorkCard}>
                   <div className={styles.container4}>
                     <div className={styles.iconContainer}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon3}>
                         <div className={styles.r49}>
-                          <Image className={styles.r58} src="/assets/media/BAQgNzkGEzulR3qrYiqguRavwM.svg" alt="Icon" width={24} height={24} />
+                          <Image className={styles.r59} src="/assets/media/BAQgNzkGEzulR3qrYiqguRavwM.svg" alt="Icon" width={24} height={24} />
                         </div>
                       </div>
                     </div>
                     <div className={styles.heading4}>
-                      <h4 className={styles.r60}>
+                      <h4 className={styles.r61}>
                         Networking
                       </h4>
                     </div>
                   </div>
                   <div className={styles.paragraph2}>
-                    <p className={styles.r62}>
+                    <p className={styles.r63}>
                       Showcase your brand to a targeted audience.
                     </p>
                   </div>
@@ -1163,20 +1163,20 @@ export default function LetsWorkTogether() {
                 <div className={styles.letSWorkCard}>
                   <div className={styles.container4}>
                     <div className={styles.iconContainer}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon3}>
                         <div className={styles.r49}>
-                          <Image className={styles.r58} src="/assets/media/u0Gdg0d3Hu7pB6arlrfrZvQhkw.svg" alt="Icon" width={24} height={24} />
+                          <Image className={styles.r59} src="/assets/media/u0Gdg0d3Hu7pB6arlrfrZvQhkw.svg" alt="Icon" width={24} height={24} />
                         </div>
                       </div>
                     </div>
                     <div className={styles.heading4}>
-                      <h4 className={styles.r60}>
+                      <h4 className={styles.r61}>
                         Leadership
                       </h4>
                     </div>
                   </div>
                   <div className={styles.paragraph2}>
-                    <p className={styles.r62}>
+                    <p className={styles.r63}>
                       Showcase your brand to a targeted audience.
                     </p>
                   </div>
@@ -1188,20 +1188,20 @@ export default function LetsWorkTogether() {
                 <div className={styles.letSWorkCard}>
                   <div className={styles.container4}>
                     <div className={styles.iconContainer}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon3}>
                         <div className={styles.r49}>
-                          <Image className={styles.r58} src="/assets/media/qbYC3cZiYw5B86DaF8bIQjzOl8.svg" alt="Icon" width={24} height={24} />
+                          <Image className={styles.r59} src="/assets/media/qbYC3cZiYw5B86DaF8bIQjzOl8.svg" alt="Icon" width={24} height={24} />
                         </div>
                       </div>
                     </div>
                     <div className={styles.heading4}>
-                      <h4 className={styles.r60}>
+                      <h4 className={styles.r61}>
                         Marketing
                       </h4>
                     </div>
                   </div>
                   <div className={styles.paragraph2}>
-                    <p className={styles.r62}>
+                    <p className={styles.r63}>
                       Showcase your brand to a targeted audience.
                     </p>
                   </div>
@@ -1209,24 +1209,24 @@ export default function LetsWorkTogether() {
               </div>
             </div>
             <div className={styles.r1}>
-              <div className={styles.r63}>
+              <div className={styles.r64}>
                 <div className={styles.letSWorkCard2}>
                   <div className={styles.container4}>
                     <div className={styles.iconContainer}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon3}>
                         <div className={styles.r49}>
-                          <Image className={styles.r58} src="/assets/media/ykBfYzpeGwvjV8258yN7MFT9kSw.svg" alt="Icon" width={24} height={24} />
+                          <Image className={styles.r59} src="/assets/media/ykBfYzpeGwvjV8258yN7MFT9kSw.svg" alt="Icon" width={24} height={24} />
                         </div>
                       </div>
                     </div>
                     <div className={styles.heading4}>
-                      <h4 className={styles.r60}>
+                      <h4 className={styles.r61}>
                         Branding
                       </h4>
                     </div>
                   </div>
                   <div className={styles.paragraph3}>
-                    <p className={styles.r66}>
+                    <p className={styles.r67}>
                       Maximize your brand&apos;s visibility through logo placement.
                     </p>
                   </div>
@@ -1234,24 +1234,24 @@ export default function LetsWorkTogether() {
               </div>
             </div>
             <div className={styles.r1}>
-              <div className={styles.r63}>
+              <div className={styles.r64}>
                 <div className={styles.letSWorkCard2}>
                   <div className={styles.container4}>
                     <div className={styles.iconContainer}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon3}>
                         <div className={styles.r49}>
-                          <Image className={styles.r58} src="/assets/media/xESHbojrF7JhoRKb84MGUU4p3bI.svg" alt="Icon" width={24} height={24} />
+                          <Image className={styles.r59} src="/assets/media/xESHbojrF7JhoRKb84MGUU4p3bI.svg" alt="Icon" width={24} height={24} />
                         </div>
                       </div>
                     </div>
                     <div className={styles.heading4}>
-                      <h4 className={styles.r60}>
+                      <h4 className={styles.r61}>
                         Impact
                       </h4>
                     </div>
                   </div>
                   <div className={styles.paragraph3}>
-                    <p className={styles.r66}>
+                    <p className={styles.r67}>
                       Support the growth of technology and innovation
                     </p>
                   </div>

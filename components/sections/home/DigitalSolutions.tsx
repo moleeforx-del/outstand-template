@@ -98,9 +98,9 @@ export default function DigitalSolutions() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.big2} data-border="true">
+                <div className={styles.big} data-border="true">
                   <div className={styles.container4}>
-                    <div className={styles.container5}>
+                    <div className={styles.container3}>
                       <div className={styles.iconWrapper}>
                         <div className={styles.icon2}>
                           <div className={styles.r23}>
@@ -108,16 +108,16 @@ export default function DigitalSolutions() {
                           </div>
                         </div>
                       </div>
-                      <div className={styles.heading3}>
-                        <h3 className={styles.r37}>
+                      <div className={styles.heading2}>
+                        <h3 className={styles.r26}>
                           Innovative Tech Solutions
                         </h3>
                       </div>
                     </div>
-                    <div className={styles.line2} />
-                    <div className={styles.textContainer3}>
-                      <div className={styles.paragraph3}>
-                        <p className={styles.r41}>
+                    <div className={styles.line} />
+                    <div className={styles.textContainer2}>
+                      <div className={styles.paragraph2}>
+                        <p className={styles.r30}>
                           Utilize the latest  technologies to ensure that your digital presence leads in innovation.
                         </p>
                       </div>
@@ -188,9 +188,9 @@ export default function DigitalSolutions() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.big2} data-border="true">
+                <div className={styles.big} data-border="true">
                   <div className={styles.container4}>
-                    <div className={styles.container5}>
+                    <div className={styles.container3}>
                       <div className={styles.iconWrapper}>
                         <div className={styles.icon2}>
                           <div className={styles.r23}>
@@ -198,16 +198,16 @@ export default function DigitalSolutions() {
                           </div>
                         </div>
                       </div>
-                      <div className={styles.heading3}>
-                        <h3 className={styles.r37}>
+                      <div className={styles.heading2}>
+                        <h3 className={styles.r26}>
                           Clear & Open Communication
                         </h3>
                       </div>
                     </div>
-                    <div className={styles.line2} />
-                    <div className={styles.textContainer3}>
-                      <div className={styles.paragraph3}>
-                        <p className={styles.r41}>
+                    <div className={styles.line} />
+                    <div className={styles.textContainer2}>
+                      <div className={styles.paragraph2}>
+                        <p className={styles.r30}>
                           Ensure open, transparent communication keeps you informed and involved in projects.
                         </p>
                       </div>

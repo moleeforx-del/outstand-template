@@ -132,7 +132,7 @@ export default function OurSolutionSection() {
                       </div>
                       <div className={styles.textContainer4}>
                         <div className={styles.heading4}>
-                          <h3 className={styles.r46}>
+                          <h3 className={styles.r25}>
                             CMS Integration
                           </h3>
                         </div>
@@ -146,7 +146,7 @@ export default function OurSolutionSection() {
                   </div>
                 </div>
                 <div className={styles.r1}>
-                  <div className={styles.r47}>
+                  <div className={styles.r46}>
                     <div className={styles.noImage2} data-border="true">
                       <div className={styles.iconContainer} data-border="true">
                         <div className={styles.icon2}>
@@ -157,7 +157,7 @@ export default function OurSolutionSection() {
                       </div>
                       <div className={styles.textContainer4}>
                         <div className={styles.heading4}>
-                          <h3 className={styles.r46}>
+                          <h3 className={styles.r25}>
                             Flexible Payment Options
                           </h3>
                         </div>
@@ -176,7 +176,7 @@ export default function OurSolutionSection() {
           <div className={styles.container4}>
             <div className={styles.subContainer3}>
               <div className={styles.r1}>
-                <div className={styles.r50}>
+                <div className={styles.r49}>
                   <div className={styles.noImage3} data-border="true">
                     <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
@@ -186,13 +186,13 @@ export default function OurSolutionSection() {
                       </div>
                     </div>
                     <div className={styles.textContainer5}>
-                      <div className={styles.heading5}>
-                        <h3 className={styles.r54}>
+                      <div className={styles.heading4}>
+                        <h3 className={styles.r25}>
                           Advanced Security
                         </h3>
                       </div>
                       <div className={styles.paragraph4}>
-                        <p className={styles.r56}>
+                        <p className={styles.r53}>
                           Ensure the safety of your data and online transactions.
                         </p>
                       </div>
@@ -201,7 +201,7 @@ export default function OurSolutionSection() {
                 </div>
               </div>
               <div className={styles.r1}>
-                <div className={styles.r50}>
+                <div className={styles.r49}>
                   <div className={styles.noImage3} data-border="true">
                     <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
@@ -211,13 +211,13 @@ export default function OurSolutionSection() {
                       </div>
                     </div>
                     <div className={styles.textContainer5}>
-                      <div className={styles.heading5}>
-                        <h3 className={styles.r54}>
+                      <div className={styles.heading4}>
+                        <h3 className={styles.r25}>
                           E-commerce
                         </h3>
                       </div>
                       <div className={styles.paragraph4}>
-                        <p className={styles.r56}>
+                        <p className={styles.r53}>
                           Expand your business online and reach customers.
                         </p>
                       </div>
@@ -227,7 +227,7 @@ export default function OurSolutionSection() {
               </div>
             </div>
             <div className={styles.r1}>
-              <div className={styles.r57}>
+              <div className={styles.r54}>
                 <div className={styles.tablet} data-border="true">
                   <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
@@ -237,20 +237,20 @@ export default function OurSolutionSection() {
                     </div>
                   </div>
                   <div className={styles.textContainer6}>
-                    <div className={styles.heading6}>
-                      <h3 className={styles.r61}>
+                    <div className={styles.heading5}>
+                      <h3 className={styles.r25}>
                         Advanced Analytics
                       </h3>
                     </div>
                     <div className={styles.paragraph5}>
-                      <p className={styles.r63}>
+                      <p className={styles.r53}>
                         Gain valuable insights into your website&apos;s performance.
                       </p>
                     </div>
                   </div>
                   <div className={styles.image2}>
-                    <div className={styles.r65}>
-                      <Image className={styles.r66} src="/assets/media/kNNjNmCjmCdk1p9PDGxhoU28Y0.png" alt="" width={229} height={275} aria-hidden="true" />
+                    <div className={styles.r60}>
+                      <Image className={styles.r61} src="/assets/media/kNNjNmCjmCdk1p9PDGxhoU28Y0.png" alt="" width={229} height={275} aria-hidden="true" />
                     </div>
                   </div>
                 </div>

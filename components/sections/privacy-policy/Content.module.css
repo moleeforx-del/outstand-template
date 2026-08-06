@@ -79,7 +79,7 @@
 .subContainer {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 264.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -94,7 +94,7 @@
 .container {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 177.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -141,7 +141,7 @@
   place-content: normal flex-start;
 }
 .r10 {
-  width: 104.938px;
+  width: 100%;
   height: 24px;
   color: rgb(218, 246, 111);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -153,7 +153,7 @@
 .textContainer {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 131.594px;
   flex-direction: column;
   justify-content: center;
@@ -180,7 +180,7 @@
   word-break: break-word;
 }
 .r13 {
-  width: 596px;
+  width: 100%;
   height: 57.5938px;
   color: rgb(242, 242, 243);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -203,7 +203,7 @@
   word-break: break-word;
 }
 .r15 {
-  width: 596px;
+  width: 100%;
   height: 54px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -251,11 +251,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 20px;
+  width: 100%;
   height: 20px;
 }
 .r19 {
-  width: 20px;
+  width: 100%;
   height: 20px;
   overflow: clip;
   overflow-x: clip;
@@ -275,7 +275,7 @@
   place-content: normal flex-start;
 }
 .r21 {
-  width: 274.891px;
+  width: 100%;
   height: 27px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -287,7 +287,7 @@
 .subContainer3 {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 2107.58px;
   flex-direction: column;
   justify-content: flex-start;
@@ -309,7 +309,7 @@
 .textContainer2 {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 231.797px;
   flex-direction: column;
   justify-content: center;
@@ -343,7 +343,7 @@
   word-break: break-word;
 }
 .r25 {
-  width: 796px;
+  width: 100%;
   height: 30.7969px;
   color: rgb(228, 229, 230);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -364,7 +364,7 @@
   word-break: break-word;
 }
 .r27 {
-  width: 796px;
+  width: 100%;
   height: 81px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -376,7 +376,7 @@
 .textContainer3 {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 315.797px;
   flex-direction: column;
   justify-content: center;
@@ -412,10 +412,22 @@
   place-items: flex-start normal;
   place-content: flex-start center;
 }
+.heading3 {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 30.7969px;
+  flex-direction: column;
+  justify-content: flex-start;
+  white-space: pre-wrap;
+  flex-shrink: 0;
+  place-content: normal flex-start;
+  word-break: break-word;
+}
 .paragraph3 {
   display: flex;
   position: relative;
-  width: 796px;
+  width: 100%;
   height: 27px;
   flex-direction: column;
   justify-content: flex-start;
@@ -424,8 +436,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r31 {
-  width: 796px;
+.r32 {
+  width: 100%;
   height: 27px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -446,9 +458,9 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r33 {
+.r34 {
   position: relative;
-  width: 796px;
+  width: 100%;
   height: 108px;
   padding-left: 32.4px;
   color: rgb(150, 151, 156);
@@ -459,40 +471,40 @@
   text-align: left;
   list-style-type: decimal;
 }
-.r34 {
+.r35 {
   display: list-item;
   width: 763.609px;
   height: 27px;
   list-style-type: none;
-}
-.r35 {
-  width: 763.609px;
-  height: 27px;
 }
 .r36 {
-  display: list-item;
-  width: 763.609px;
+  width: 100%;
   height: 27px;
-  list-style-type: none;
 }
 .r37 {
-  width: 763.609px;
-  height: 27px;
-}
-.r38 {
   display: list-item;
   width: 763.609px;
   height: 27px;
   list-style-type: none;
 }
+.r38 {
+  width: 100%;
+  height: 27px;
+}
 .r39 {
+  display: list-item;
   width: 763.609px;
+  height: 27px;
+  list-style-type: none;
+}
+.r40 {
+  width: 100%;
   height: 27px;
 }
 .textContainer5 {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 258.797px;
   flex-direction: column;
   justify-content: center;
@@ -513,8 +525,8 @@
   --border-color: rgb(38, 38, 38);
   --border-style: solid;
 }
-.r41 {
-  width: 796px;
+.r42 {
+  width: 100%;
   height: 108px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -526,7 +538,7 @@
 .textContainer6 {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 285.797px;
   flex-direction: column;
   justify-content: center;
@@ -559,8 +571,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r44 {
-  width: 796px;
+.r45 {
+  width: 100%;
   height: 135px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -572,7 +584,7 @@
 .textContainer7 {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 258.797px;
   flex-direction: column;
   justify-content: center;
@@ -605,8 +617,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r47 {
-  width: 796px;
+.r48 {
+  width: 100%;
   height: 108px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -618,7 +630,7 @@
 .textContainer8 {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 231.797px;
   flex-direction: column;
   justify-content: center;
@@ -639,7 +651,7 @@
   --border-color: rgb(38, 38, 38);
   --border-style: solid;
 }
-.heading3 {
+.heading4 {
   display: flex;
   position: relative;
   width: 796px;
@@ -651,8 +663,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r50 {
-  width: 796px;
+.r51 {
+  width: 100%;
   height: 30.7969px;
   color: rgb(228, 229, 230);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -663,7 +675,7 @@
 .textContainer9 {
   display: flex;
   position: relative;
-  width: 896px;
+  width: 100%;
   height: 204.797px;
   flex-direction: column;
   justify-content: center;
@@ -696,8 +708,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r53 {
-  width: 796px;
+.r54 {
+  width: 100%;
   height: 54px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -706,14 +718,14 @@
   letter-spacing: 0.36px;
   text-align: left;
 }
-.r54 {
+.r55 {
   display: inline;
   width: auto;
   height: auto;
   color: rgb(255, 255, 255);
   cursor: pointer;
 }
-.r55 {
+.r56 {
   display: inline;
   width: auto;
   height: auto;
@@ -741,15 +753,12 @@
     max-width: 710px;
   }
   .subContainer {
-    width: 710px;
     height: 250.5px;
   }
   .container {
-    width: 710px;
     height: 165px;
   }
   .textContainer {
-    width: 710px;
     height: 119px;
     padding-right: 60px;
     padding-left: 60px;
@@ -759,7 +768,6 @@
     height: 48px;
   }
   .r13 {
-    width: 590px;
     height: 48px;
     font-size: 40px;
     line-height: 48px;
@@ -770,7 +778,6 @@
     height: 51px;
   }
   .r15 {
-    width: 590px;
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
@@ -785,24 +792,18 @@
     height: 25.5px;
   }
   .r21 {
-    width: 259.609px;
     height: 25.5px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
   .subContainer3 {
-    width: 710px;
     height: 2272.58px;
   }
   .textContainer2 {
-    width: 710px;
     height: 252.797px;
   }
   .heading2 {
-    width: 610px;
-  }
-  .r25 {
     width: 610px;
   }
   .paragraph2 {
@@ -810,14 +811,12 @@
     height: 102px;
   }
   .r27 {
-    width: 610px;
     height: 102px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
   .textContainer3 {
-    width: 710px;
     height: 359.297px;
   }
   .textContainer4 {
@@ -825,11 +824,9 @@
     height: 101.797px;
   }
   .paragraph3 {
-    width: 610px;
     height: 51px;
   }
-  .r31 {
-    width: 610px;
+  .r32 {
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
@@ -839,99 +836,83 @@
     width: 610px;
     height: 127.5px;
   }
-  .r33 {
-    width: 610px;
+  .r34 {
     height: 127.5px;
     padding-left: 30.6px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
-  .r34 {
-    width: 579.406px;
-    height: 25.5px;
-  }
   .r35 {
     width: 579.406px;
     height: 25.5px;
   }
   .r36 {
-    width: 579.406px;
-    height: 51px;
+    height: 25.5px;
   }
   .r37 {
     width: 579.406px;
     height: 51px;
   }
   .r38 {
-    width: 579.406px;
-    height: 25.5px;
+    height: 51px;
   }
   .r39 {
     width: 579.406px;
     height: 25.5px;
   }
+  .r40 {
+    height: 25.5px;
+  }
   .textContainer5 {
-    width: 710px;
     height: 278.297px;
   }
-  .r41 {
-    width: 610px;
+  .r42 {
     height: 127.5px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
   .textContainer6 {
-    width: 710px;
     height: 303.797px;
   }
   .paragraph5 {
     width: 610px;
     height: 153px;
   }
-  .r44 {
-    width: 610px;
+  .r45 {
     height: 153px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
   .textContainer7 {
-    width: 710px;
     height: 278.297px;
   }
   .paragraph6 {
     width: 610px;
     height: 127.5px;
   }
-  .r47 {
-    width: 610px;
+  .r48 {
     height: 127.5px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
   .textContainer8 {
-    width: 710px;
     height: 252.797px;
   }
-  .heading3 {
-    width: 610px;
-  }
-  .r50 {
+  .heading4 {
     width: 610px;
   }
   .textContainer9 {
-    width: 710px;
     height: 227.297px;
   }
   .paragraph7 {
     width: 610px;
     height: 76.5px;
   }
-  .r53 {
-    width: 610px;
+  .r54 {
     height: 76.5px;
     font-size: 17px;
     line-height: 25.5px;
@@ -964,47 +945,41 @@
     column-gap: 50px;
   }
   .subContainer {
-    width: 358px;
     height: 239.594px;
     gap: 30px;
     row-gap: 30px;
     column-gap: 30px;
   }
   .container {
-    width: 358px;
     height: 164.094px;
     gap: 8px;
     row-gap: 8px;
     column-gap: 8px;
   }
   .textContainer {
-    width: 358px;
     height: 120.094px;
     gap: 10px;
     row-gap: 10px;
     column-gap: 10px;
   }
   .heading {
-    width: 358px;
+    width: 100%;
     height: 33.5938px;
   }
   .r13 {
-    width: 358px;
     height: 33.5938px;
     font-size: 28px;
     line-height: 33.6px;
     letter-spacing: 0.56px;
   }
   .paragraph {
-    width: 358px;
+    width: 100%;
     height: 76.5px;
   }
   .r15 {
-    width: 358px;
     height: 76.5px;
   }
   .subContainer3 {
-    width: 358px;
     height: 2609.12px;
     gap: 30px;
     row-gap: 30px;
@@ -1012,7 +987,6 @@
     padding-top: 50px;
   }
   .textContainer2 {
-    width: 358px;
     height: 300.203px;
     gap: 12px;
     row-gap: 12px;
@@ -1024,7 +998,6 @@
     height: 24.2031px;
   }
   .r25 {
-    width: 298px;
     height: 24.2031px;
     font-size: 22px;
     line-height: 24.2px;
@@ -1034,11 +1007,9 @@
     height: 204px;
   }
   .r27 {
-    width: 298px;
     height: 204px;
   }
   .textContainer3 {
-    width: 358px;
     height: 451.703px;
     gap: 24px;
     row-gap: 24px;
@@ -1052,60 +1023,54 @@
     row-gap: 12px;
     column-gap: 12px;
   }
+  .heading3 {
+    height: 24.2031px;
+  }
   .paragraph3 {
-    width: 298px;
     height: 76.5px;
   }
-  .r31 {
-    width: 298px;
+  .r32 {
     height: 76.5px;
   }
   .paragraph4 {
     width: 298px;
     height: 255px;
   }
-  .r33 {
-    width: 298px;
-    height: 255px;
-  }
   .r34 {
-    width: 267.406px;
-    height: 51px;
+    height: 255px;
   }
   .r35 {
     width: 267.406px;
     height: 51px;
   }
   .r36 {
-    width: 267.406px;
-    height: 76.5px;
+    height: 51px;
   }
   .r37 {
     width: 267.406px;
     height: 76.5px;
   }
   .r38 {
-    width: 267.406px;
     height: 76.5px;
   }
   .r39 {
     width: 267.406px;
     height: 76.5px;
   }
+  .r40 {
+    height: 76.5px;
+  }
   .textContainer5 {
-    width: 358px;
     height: 351.203px;
     gap: 12px;
     row-gap: 12px;
     column-gap: 12px;
     padding: 30px;
   }
-  .r41 {
-    width: 298px;
+  .r42 {
     height: 255px;
   }
   .textContainer6 {
-    width: 358px;
     height: 402.203px;
     gap: 12px;
     row-gap: 12px;
@@ -1116,12 +1081,10 @@
     width: 298px;
     height: 306px;
   }
-  .r44 {
-    width: 298px;
+  .r45 {
     height: 306px;
   }
   .textContainer7 {
-    width: 358px;
     height: 325.703px;
     gap: 12px;
     row-gap: 12px;
@@ -1132,30 +1095,26 @@
     width: 298px;
     height: 229.5px;
   }
-  .r47 {
-    width: 298px;
+  .r48 {
     height: 229.5px;
   }
   .textContainer8 {
-    width: 358px;
     height: 324.406px;
     gap: 12px;
     row-gap: 12px;
     column-gap: 12px;
     padding: 30px;
   }
-  .heading3 {
+  .heading4 {
     width: 298px;
     height: 48.4062px;
   }
-  .r50 {
-    width: 298px;
+  .r51 {
     height: 48.4062px;
     font-size: 22px;
     line-height: 24.2px;
   }
   .textContainer9 {
-    width: 358px;
     height: 223.703px;
     gap: 12px;
     row-gap: 12px;
@@ -1166,8 +1125,7 @@
     width: 298px;
     height: 127.5px;
   }
-  .r53 {
-    width: 298px;
+  .r54 {
     height: 127.5px;
   }
 }

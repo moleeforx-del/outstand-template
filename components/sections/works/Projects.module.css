@@ -5,7 +5,7 @@
 .projects {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 898.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -32,7 +32,7 @@
 .dektop {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 165.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -78,11 +78,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 20px;
+  width: 100%;
   height: 20px;
 }
 .r7 {
-  width: 20px;
+  width: 100%;
   height: 20px;
   overflow: clip;
   overflow-x: clip;
@@ -101,7 +101,7 @@
   place-content: normal flex-start;
 }
 .r9 {
-  width: 62.0156px;
+  width: 100%;
   height: 24px;
   color: rgb(218, 246, 111);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -113,7 +113,7 @@
 .textContainer {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 119.594px;
   flex-direction: column;
   justify-content: center;
@@ -140,7 +140,7 @@
   word-break: break-word;
 }
 .r12 {
-  width: 840px;
+  width: 100%;
   height: 57.5938px;
   color: rgb(255, 255, 255);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -163,7 +163,7 @@
   word-break: break-word;
 }
 .r14 {
-  width: 840px;
+  width: 100%;
   height: 54px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -181,7 +181,7 @@
 .desktop {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 493px;
   flex-direction: column;
   justify-content: flex-start;
@@ -195,7 +195,7 @@
 .r17 {
   display: grid;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 398px;
   justify-content: center;
   gap: 16px;
@@ -218,7 +218,7 @@
 .openImage1 {
   display: flex;
   position: relative;
-  width: 369.328px;
+  width: 100%;
   height: 398px;
   flex-direction: column;
   justify-content: flex-start;
@@ -271,12 +271,12 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 321.328px;
+  width: 100%;
   height: 250px;
   border-radius: 12px;
 }
 .r22 {
-  width: 321.328px;
+  width: 100%;
   height: 250px;
   overflow: clip;
   overflow-x: clip;
@@ -329,12 +329,12 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 76px;
+  width: 100%;
   height: 52px;
   border-radius: 6px;
 }
 .r26 {
-  width: 76px;
+  width: 100%;
   height: 52px;
   overflow: clip;
   overflow-x: clip;
@@ -348,7 +348,7 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 76px;
+  width: 100%;
   height: 52px;
   flex-shrink: 0;
   border-radius: 6px;
@@ -364,7 +364,7 @@
   border-radius: 6px;
 }
 .r29 {
-  width: 76px;
+  width: 100%;
   height: 52px;
   overflow: clip;
   overflow-x: clip;
@@ -377,7 +377,7 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 76px;
+  width: 100%;
   height: 52px;
   background-color: rgba(0, 0, 0, 0.3);
   flex-shrink: 0;
@@ -401,7 +401,7 @@
 .container {
   display: flex;
   position: relative;
-  width: 321.328px;
+  width: 100%;
   height: 39px;
   justify-content: space-between;
   align-items: center;
@@ -421,7 +421,7 @@
   place-content: normal flex-start;
 }
 .r34 {
-  width: 59.625px;
+  width: 100%;
   height: 30px;
   color: rgb(255, 255, 255);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -438,7 +438,7 @@
 .iconLeftRight {
   display: flex;
   position: relative;
-  width: 97.5781px;
+  width: 100%;
   height: 39px;
   justify-content: center;
   align-items: center;
@@ -482,7 +482,7 @@
   transform: matrix(1, 0, 0, 1, 0.0150427, 0);
 }
 .r38 {
-  width: 45.5781px;
+  width: 100%;
   height: 27px;
   color: rgb(242, 242, 243);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -510,8 +510,14 @@
 .iconRight:hover {
   transform: matrix(1, 0, 0, 1, -0.0150427, 0);
 }
-.r40 {
-  width: 20px;
+.icon2 {
+  position: relative;
+  width: 100%;
+  height: 20px;
+  flex-shrink: 0;
+}
+.r41 {
+  width: 100%;
   height: 20px;
   overflow: clip;
   overflow-x: clip;
@@ -522,7 +528,7 @@
 .paragraph2 {
   display: flex;
   position: relative;
-  width: 321.328px;
+  width: 100%;
   height: 27px;
   flex-direction: column;
   justify-content: flex-start;
@@ -531,8 +537,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r42 {
-  width: 321.328px;
+.r43 {
+  width: 100%;
   height: 27px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -550,15 +556,6 @@
   flex-shrink: 0;
   place-content: normal flex-start;
 }
-.r44 {
-  width: 80.4531px;
-  height: 30px;
-  color: rgb(255, 255, 255);
-  font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
-  font-size: 20px;
-  font-weight: 600;
-  line-height: 30px;
-}
 .r45 {
   position: relative;
   width: 369.344px;
@@ -566,32 +563,6 @@
   align-self: start;
   flex-shrink: 0;
   justify-self: start;
-}
-.openImage12 {
-  display: flex;
-  position: relative;
-  width: 369.344px;
-  height: 398px;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 16px;
-  row-gap: 16px;
-  column-gap: 16px;
-  background-color: rgb(20, 20, 20);
-  overflow: hidden;
-  overflow-x: hidden;
-  overflow-y: hidden;
-  place-items: flex-start normal;
-  place-content: flex-start;
-  padding: 30px 24px;
-  border-radius: 16px;
-  --border-top-width: 1px;
-  --border-right-width: 1px;
-  --border-bottom-width: 1px;
-  --border-left-width: 1px;
-  --border-color: rgb(31, 31, 31);
-  --border-style: solid;
 }
 .imageContainer2 {
   display: flex;
@@ -617,25 +588,6 @@
   --border-color: rgb(30, 30, 30);
   --border-style: solid;
 }
-.r48 {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  width: 321.344px;
-  height: 250px;
-  border-radius: 12px;
-}
-.r49 {
-  width: 321.344px;
-  height: 250px;
-  overflow: clip;
-  overflow-x: clip;
-  overflow-y: clip;
-  object-fit: cover;
-  border-radius: 12px;
-}
 .textContainer3 {
   display: flex;
   position: relative;
@@ -651,17 +603,6 @@
   place-items: flex-start normal;
   place-content: flex-start;
 }
-.container2 {
-  display: flex;
-  position: relative;
-  width: 321.344px;
-  height: 39px;
-  justify-content: space-between;
-  align-items: center;
-  flex-shrink: 0;
-  place-items: center normal;
-  place-content: center space-between;
-}
 .heading4 {
   display: flex;
   position: relative;
@@ -672,35 +613,6 @@
   white-space: pre;
   flex-shrink: 0;
   place-content: normal flex-start;
-}
-.r53 {
-  width: 78.0625px;
-  height: 30px;
-  color: rgb(255, 255, 255);
-  font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
-  font-size: 20px;
-  font-weight: 600;
-  line-height: 30px;
-}
-.paragraph3 {
-  display: flex;
-  position: relative;
-  width: 321.344px;
-  height: 27px;
-  flex-direction: column;
-  justify-content: flex-start;
-  white-space: pre-wrap;
-  flex-shrink: 0;
-  place-content: normal flex-start;
-  word-break: break-word;
-}
-.r55 {
-  width: 321.344px;
-  height: 27px;
-  color: rgb(150, 151, 156);
-  font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
-  font-size: 18px;
-  line-height: 27px;
 }
 .iconLeftRight2 {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
@@ -738,7 +650,7 @@
 .iconRight3:hover {
   transform: matrix(1, 0, 0, 1, -0.0150427, 0);
 }
-.r114 {
+.r105 {
   position: relative;
   width: 216.5px;
   height: 55px;
@@ -747,7 +659,7 @@
 .iconDown {
   display: flex;
   position: relative;
-  width: 216.5px;
+  width: 100%;
   height: 55px;
   justify-content: center;
   align-items: center;
@@ -775,8 +687,8 @@
   flex-shrink: 0;
   place-content: normal flex-start;
 }
-.r117 {
-  width: 132.5px;
+.r108 {
+  width: 100%;
   height: 27px;
   color: rgb(15, 15, 15);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -798,23 +710,23 @@
   place-items: center normal;
   place-content: center;
 }
-.icon4 {
+.icon5 {
   position: relative;
-  width: 24px;
+  width: 100%;
   height: 24px;
   flex-shrink: 0;
 }
-.r120 {
+.r111 {
   position: absolute;
   top: 0px;
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 24px;
+  width: 100%;
   height: 24px;
 }
-.r121 {
-  width: 24px;
+.r112 {
+  width: 100%;
   height: 24px;
   overflow: clip;
   overflow-x: clip;
@@ -850,23 +762,20 @@
     height: 153px;
   }
   .dektop {
-    width: 780px;
     height: 153px;
   }
   .r9 {
     color: rgb(218, 245, 111);
   }
   .textContainer {
-    width: 780px;
     height: 107px;
     max-width: 1200px;
   }
   .heading {
-    width: 780px;
+    width: 100%;
     height: 48px;
   }
   .r12 {
-    width: 780px;
     height: 48px;
     font-size: 40px;
     line-height: 48px;
@@ -877,7 +786,6 @@
     height: 51px;
   }
   .r14 {
-    width: 686.391px;
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
@@ -888,16 +796,14 @@
     height: 490px;
   }
   .desktop {
-    width: 780px;
     height: 490px;
   }
   .r17 {
-    width: 780px;
     height: 396.5px;
     grid-template-columns: 382px 382px;
     grid-template-rows: 396.5px;
   }
-  .r56 {
+  .r49 {
     position: relative;
     width: 382px;
     height: 396.5px;
@@ -905,10 +811,10 @@
     flex-shrink: 0;
     justify-self: start;
   }
-  .openImage13 {
+  .openImage12 {
     display: flex;
     position: relative;
-    width: 382px;
+    width: 100%;
     height: 396.5px;
     flex-direction: column;
     justify-content: flex-start;
@@ -955,18 +861,18 @@
     --border-color: rgb(30, 30, 30);
     --border-style: solid;
   }
-  .r59 {
+  .r52 {
     position: absolute;
     top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 334px;
+    width: 100%;
     height: 250px;
     border-radius: 12px;
   }
-  .r60 {
-    width: 334px;
+  .r53 {
+    width: 100%;
     height: 250px;
     overflow: clip;
     overflow-x: clip;
@@ -1013,18 +919,18 @@
     --border-color: rgb(46, 46, 46);
     --border-style: solid;
   }
-  .r63 {
+  .r56 {
     position: absolute;
     top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 76px;
+    width: 100%;
     height: 52px;
     border-radius: 6px;
   }
-  .r64 {
-    width: 76px;
+  .r57 {
+    width: 100%;
     height: 52px;
     overflow: clip;
     overflow-x: clip;
@@ -1038,7 +944,7 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 76px;
+    width: 100%;
     height: 52px;
     flex-shrink: 0;
     border-radius: 6px;
@@ -1053,8 +959,8 @@
     cursor: pointer;
     border-radius: 6px;
   }
-  .r67 {
-    width: 76px;
+  .r60 {
+    width: 100%;
     height: 52px;
     overflow: clip;
     overflow-x: clip;
@@ -1067,7 +973,7 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 76px;
+    width: 100%;
     height: 52px;
     background-color: rgba(0, 0, 0, 0.3);
     flex-shrink: 0;
@@ -1088,10 +994,10 @@
     place-items: flex-start normal;
     place-content: flex-start;
   }
-  .container3 {
+  .container2 {
     display: flex;
     position: relative;
-    width: 334px;
+    width: 100%;
     height: 37.5px;
     justify-content: space-between;
     align-items: center;
@@ -1110,8 +1016,8 @@
     flex-shrink: 0;
     place-content: normal flex-start;
   }
-  .r72 {
-    width: 59.625px;
+  .r65 {
+    width: 100%;
     height: 30px;
     color: rgb(255, 255, 255);
     font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -1119,7 +1025,7 @@
     font-weight: 600;
     line-height: 30px;
   }
-  .r73 {
+  .r66 {
     position: relative;
     width: 95.0469px;
     height: 37.5px;
@@ -1128,7 +1034,7 @@
   .iconLeftRight2 {
     display: flex;
     position: relative;
-    width: 95.0469px;
+    width: 100%;
     height: 37.5px;
     justify-content: center;
     align-items: center;
@@ -1159,8 +1065,8 @@
     flex-shrink: 0;
     place-content: normal flex-start;
   }
-  .r76 {
-    width: 43.0469px;
+  .r69 {
+    width: 100%;
     height: 25.5px;
     color: rgb(242, 242, 243);
     font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -1182,23 +1088,23 @@
     place-items: center normal;
     place-content: center;
   }
-  .icon2 {
+  .icon3 {
     position: relative;
-    width: 20px;
+    width: 100%;
     height: 20px;
     flex-shrink: 0;
   }
-  .r79 {
+  .r72 {
     position: absolute;
     top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 20px;
+    width: 100%;
     height: 20px;
   }
-  .r80 {
-    width: 20px;
+  .r73 {
+    width: 100%;
     height: 20px;
     overflow: clip;
     overflow-x: clip;
@@ -1206,10 +1112,10 @@
     object-fit: contain;
     aspect-ratio: auto 21 / 20;
   }
-  .paragraph4 {
+  .paragraph3 {
     display: flex;
     position: relative;
-    width: 334px;
+    width: 100%;
     height: 27px;
     flex-direction: column;
     justify-content: flex-start;
@@ -1218,8 +1124,8 @@
     place-content: normal flex-start;
     word-break: break-word;
   }
-  .r82 {
-    width: 334px;
+  .r75 {
+    width: 100%;
     height: 27px;
     color: rgb(150, 151, 156);
     font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -1237,29 +1143,18 @@
     flex-shrink: 0;
     place-content: normal flex-start;
   }
-  .r84 {
-    width: 80.4531px;
-    height: 30px;
-    color: rgb(255, 255, 255);
-    font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
-    font-size: 20px;
-    font-weight: 600;
-    line-height: 30px;
-  }
-  .r114 {
+  .r105 {
     width: 209.141px;
     height: 53.5px;
   }
   .iconDown {
-    width: 209.141px;
     height: 53.5px;
   }
   .text5 {
     width: 125.141px;
     height: 25.5px;
   }
-  .r117 {
-    width: 125.141px;
+  .r108 {
     height: 25.5px;
     font-size: 17px;
     line-height: 25.5px;
@@ -1283,22 +1178,18 @@
     height: 189.594px;
   }
   .dektop {
-    width: 358px;
     height: 189.594px;
     justify-content: center;
     place-content: center;
   }
   .textContainer {
-    width: 358px;
     height: 143.594px;
     max-width: 900px;
   }
   .heading {
-    width: 358px;
     height: 33.5938px;
   }
   .r12 {
-    width: 358px;
     height: 33.5938px;
     color: rgb(242, 242, 243);
     font-size: 28px;
@@ -1306,11 +1197,10 @@
     letter-spacing: 0.56px;
   }
   .paragraph {
-    width: 358px;
+    width: 100%;
     height: 102px;
   }
   .r14 {
-    width: 358px;
     height: 102px;
   }
   .r15 {
@@ -1318,27 +1208,25 @@
     height: 902.5px;
   }
   .desktop {
-    width: 358px;
     height: 902.5px;
   }
   .r17 {
-    width: 358px;
     height: 809px;
     grid-template-columns: 358px;
     grid-template-rows: 396.5px 396.5px;
   }
-  .r85 {
+  .r77 {
     position: relative;
-    width: 358px;
+    width: 100%;
     height: 396.5px;
     align-self: start;
     flex-shrink: 0;
     justify-self: start;
   }
-  .openImage14 {
+  .openImage13 {
     display: flex;
     position: relative;
-    width: 358px;
+    width: 100%;
     height: 396.5px;
     flex-direction: column;
     justify-content: flex-start;
@@ -1385,18 +1273,18 @@
     --border-color: rgb(30, 30, 30);
     --border-style: solid;
   }
-  .r88 {
+  .r80 {
     position: absolute;
     top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 310px;
+    width: 100%;
     height: 250px;
     border-radius: 12px;
   }
-  .r89 {
-    width: 310px;
+  .r81 {
+    width: 100%;
     height: 250px;
     overflow: clip;
     overflow-x: clip;
@@ -1443,18 +1331,18 @@
     --border-color: rgb(46, 46, 46);
     --border-style: solid;
   }
-  .r92 {
+  .r84 {
     position: absolute;
     top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 76px;
+    width: 100%;
     height: 52px;
     border-radius: 6px;
   }
-  .r93 {
-    width: 76px;
+  .r85 {
+    width: 100%;
     height: 52px;
     overflow: clip;
     overflow-x: clip;
@@ -1468,7 +1356,7 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 76px;
+    width: 100%;
     height: 52px;
     flex-shrink: 0;
     border-radius: 6px;
@@ -1483,8 +1371,8 @@
     cursor: pointer;
     border-radius: 6px;
   }
-  .r96 {
-    width: 76px;
+  .r88 {
+    width: 100%;
     height: 52px;
     overflow: clip;
     overflow-x: clip;
@@ -1497,7 +1385,7 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 76px;
+    width: 100%;
     height: 52px;
     background-color: rgba(0, 0, 0, 0.3);
     flex-shrink: 0;
@@ -1518,10 +1406,10 @@
     place-items: flex-start normal;
     place-content: flex-start;
   }
-  .container4 {
+  .container3 {
     display: flex;
     position: relative;
-    width: 310px;
+    width: 100%;
     height: 37.5px;
     justify-content: space-between;
     align-items: center;
@@ -1540,8 +1428,8 @@
     flex-shrink: 0;
     place-content: normal flex-start;
   }
-  .r101 {
-    width: 59.625px;
+  .r93 {
+    width: 100%;
     height: 30px;
     color: rgb(255, 255, 255);
     font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -1549,7 +1437,7 @@
     font-weight: 600;
     line-height: 30px;
   }
-  .r102 {
+  .r94 {
     position: relative;
     width: 95.0469px;
     height: 37.5px;
@@ -1558,7 +1446,7 @@
   .iconLeftRight3 {
     display: flex;
     position: relative;
-    width: 95.0469px;
+    width: 100%;
     height: 37.5px;
     justify-content: center;
     align-items: center;
@@ -1589,8 +1477,8 @@
     flex-shrink: 0;
     place-content: normal flex-start;
   }
-  .r105 {
-    width: 43.0469px;
+  .r97 {
+    width: 100%;
     height: 25.5px;
     color: rgb(242, 242, 243);
     font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -1612,23 +1500,23 @@
     place-items: center normal;
     place-content: center;
   }
-  .icon3 {
+  .icon4 {
     position: relative;
-    width: 20px;
+    width: 100%;
     height: 20px;
     flex-shrink: 0;
   }
-  .r108 {
+  .r100 {
     position: absolute;
     top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 20px;
+    width: 100%;
     height: 20px;
   }
-  .r109 {
-    width: 20px;
+  .r101 {
+    width: 100%;
     height: 20px;
     overflow: clip;
     overflow-x: clip;
@@ -1636,10 +1524,10 @@
     object-fit: contain;
     aspect-ratio: auto 21 / 20;
   }
-  .paragraph5 {
+  .paragraph4 {
     display: flex;
     position: relative;
-    width: 310px;
+    width: 100%;
     height: 27px;
     flex-direction: column;
     justify-content: flex-start;
@@ -1648,8 +1536,8 @@
     place-content: normal flex-start;
     word-break: break-word;
   }
-  .r111 {
-    width: 310px;
+  .r103 {
+    width: 100%;
     height: 27px;
     color: rgb(150, 151, 156);
     font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -1666,15 +1554,6 @@
     white-space: pre;
     flex-shrink: 0;
     place-content: normal flex-start;
-  }
-  .r113 {
-    width: 80.4531px;
-    height: 30px;
-    color: rgb(255, 255, 255);
-    font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
-    font-size: 20px;
-    font-weight: 600;
-    line-height: 30px;
   }
 }
 

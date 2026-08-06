@@ -70,7 +70,7 @@ export default function FeaturesSection() {
                     </div>
                   </div>
                   <div className={styles.text3}>
-                    <p className={styles.r32}>
+                    <p className={styles.r29}>
                       Transparent Communication
                     </p>
                   </div>
@@ -82,7 +82,7 @@ export default function FeaturesSection() {
                     </div>
                   </div>
                   <div className={styles.text4}>
-                    <p className={styles.r35}>
+                    <p className={styles.r29}>
                       Exceptional Support
                     </p>
                   </div>
@@ -94,7 +94,7 @@ export default function FeaturesSection() {
                     </div>
                   </div>
                   <div className={styles.text5}>
-                    <p className={styles.r38}>
+                    <p className={styles.r29}>
                       Expert Team
                     </p>
                   </div>
@@ -102,17 +102,17 @@ export default function FeaturesSection() {
               </div>
             </div>
             <div className={styles.r1}>
-              <div className={styles.r39}>
+              <div className={styles.r36}>
                 <Link className={styles.iconLeftRight} data-border="true" href="/works">
                   <div className={styles.text6}>
-                    <p className={styles.r42}>
+                    <p className={styles.r39}>
                       Contact Us
                     </p>
                   </div>
                   <div className={styles.iconRight}>
-                    <div className={styles.icon}>
+                    <div className={styles.icon3}>
                       <div className={styles.r6}>
-                        <Image className={styles.r44} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                        <Image className={styles.r42} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                       </div>
                     </div>
                   </div>
@@ -123,21 +123,21 @@ export default function FeaturesSection() {
           <div className={styles.container3}>
             <div className={styles.subContainer6}>
               <div className={styles.card2}>
-                <div className={styles.icon3}>
-                  <div className={styles.r49}>
-                    <Image className={styles.r50} src="/assets/media/jIcWuO1W1WaV9KooReW8RRQC76U.svg" alt="Icon" width={28} height={28} />
+                <div className={styles.icon4}>
+                  <div className={styles.r47}>
+                    <Image className={styles.r48} src="/assets/media/jIcWuO1W1WaV9KooReW8RRQC76U.svg" alt="Icon" width={28} height={28} />
                   </div>
                 </div>
                 <div className={styles.textContainer3}>
                   <div className={styles.r1}>
                     <div className={styles.heading3}>
-                      <h3 className={styles.r53}>
+                      <h3 className={styles.r51}>
                         Custom Solutions
                       </h3>
                     </div>
                   </div>
                   <div className={styles.paragraph3}>
-                    <p className={styles.r55}>
+                    <p className={styles.r53}>
                       Tailored digital solutions meet business needs, ensuring maximum effectiveness and ROI.
                     </p>
                   </div>
@@ -145,21 +145,21 @@ export default function FeaturesSection() {
               </div>
               <div className={styles.line} data-border="true" />
               <div className={styles.card3}>
-                <div className={styles.icon3}>
-                  <div className={styles.r49}>
-                    <Image className={styles.r50} src="/assets/media/RMLMBoeg6AaBvvj9Ri5BysKkMc.svg" alt="Icon" width={28} height={28} />
+                <div className={styles.icon4}>
+                  <div className={styles.r47}>
+                    <Image className={styles.r48} src="/assets/media/RMLMBoeg6AaBvvj9Ri5BysKkMc.svg" alt="Icon" width={28} height={28} />
                   </div>
                 </div>
                 <div className={styles.textContainer4}>
                   <div className={styles.r1}>
                     <div className={styles.heading3}>
-                      <h3 className={styles.r53}>
+                      <h3 className={styles.r51}>
                         Data - Driven Decisions
                       </h3>
                     </div>
                   </div>
                   <div className={styles.paragraph4}>
-                    <p className={styles.r60}>
+                    <p className={styles.r58}>
                       Utilize data to inform strategic decisions, optimize performance, and continuously drive improvements.
                     </p>
                   </div>
@@ -169,21 +169,21 @@ export default function FeaturesSection() {
             <div className={styles.line2} data-border="true" />
             <div className={styles.subContainer7}>
               <div className={styles.card4}>
-                <div className={styles.icon4}>
-                  <div className={styles.r65}>
-                    <Image className={styles.r66} src="/assets/media/9ingRzlfybhYw4nDq2FEvLen0Q.svg" alt="Icon" width={28} height={28} />
+                <div className={styles.icon5}>
+                  <div className={styles.r63}>
+                    <Image className={styles.r64} src="/assets/media/9ingRzlfybhYw4nDq2FEvLen0Q.svg" alt="Icon" width={28} height={28} />
                   </div>
                 </div>
                 <div className={styles.textContainer3}>
                   <div className={styles.r1}>
                     <div className={styles.heading3}>
-                      <h3 className={styles.r53}>
+                      <h3 className={styles.r51}>
                         Adaptable Businesses
                       </h3>
                     </div>
                   </div>
                   <div className={styles.paragraph3}>
-                    <p className={styles.r55}>
+                    <p className={styles.r53}>
                       Flexible solutions are designed to grow and adapt to your evolving needs for long-term success.
                     </p>
                   </div>
@@ -191,21 +191,21 @@ export default function FeaturesSection() {
               </div>
               <div className={styles.line3} data-border="true" />
               <div className={styles.card3}>
-                <div className={styles.icon3}>
-                  <div className={styles.r49}>
-                    <Image className={styles.r50} src="/assets/media/PHiP4RMipNd4mFhYxOMnCoaO3I8.svg" alt="Icon" width={28} height={28} />
+                <div className={styles.icon4}>
+                  <div className={styles.r47}>
+                    <Image className={styles.r48} src="/assets/media/PHiP4RMipNd4mFhYxOMnCoaO3I8.svg" alt="Icon" width={28} height={28} />
                   </div>
                 </div>
                 <div className={styles.textContainer4}>
                   <div className={styles.r1}>
                     <div className={styles.heading3}>
-                      <h3 className={styles.r53}>
+                      <h3 className={styles.r51}>
                         Innovative Tech Solutions
                       </h3>
                     </div>
                   </div>
                   <div className={styles.paragraph4}>
-                    <p className={styles.r60}>
+                    <p className={styles.r58}>
                       Utilize the latest tools and technologies to ensure that your digital presence leads in innovation and functionality.
                     </p>
                   </div>

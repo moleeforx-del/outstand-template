@@ -133,8 +133,8 @@ export default function CallToAction() {
                   <Image className={styles.r57} src="/assets/media/Nb6dW40OdkepW6fD1s1E4SngK8.svg" alt="Design Image" width={41} height={40} />
                 </div>
               </div>
-              <div className={`${styles.r58} ${styles.onlyPhone}`}>
-                <Image className={styles.r59} src="/assets/media/jcv5R35hf7F7LHLQcvTvz65M0mU.png" alt="Team Image" width={408} height={300} />
+              <div className={`${styles.r19} ${styles.onlyPhone}`}>
+                <Image className={styles.r20} src="/assets/media/jcv5R35hf7F7LHLQcvTvz65M0mU.png" alt="Team Image" width={408} height={300} />
               </div>
             </div>
           </div>

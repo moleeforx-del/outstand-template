@@ -75,7 +75,7 @@ export default function CallToAction() {
                 </div>
               </div>
               <div className={styles.text3}>
-                <p className={styles.r33}>
+                <p className={styles.r30}>
                   Digital Marketing
                 </p>
               </div>
@@ -87,24 +87,24 @@ export default function CallToAction() {
                 </div>
               </div>
               <div className={styles.text4}>
-                <p className={styles.r36}>
+                <p className={styles.r30}>
                   Branding & Identity
                 </p>
               </div>
             </div>
           </div>
         </div>
-        <form className={styles.r37}>
-          <label className={styles.r38}>
-            <div className={styles.r39}>
-              <input className={styles.r40} type="email" name="Email" placeholder="Enter your email" required />
+        <form className={styles.r35}>
+          <label className={styles.r36}>
+            <div className={styles.r37}>
+              <input className={styles.r38} type="email" name="Email" placeholder="Enter your email" required />
             </div>
           </label>
           <div className={styles.r7}>
-            <div className={styles.r41}>
+            <div className={styles.r39}>
               <button className={styles.default}>
-                <div className={styles.r43}>
-                  <p className={styles.r44}>
+                <div className={styles.r41}>
+                  <p className={styles.r42}>
                     Subscribe
                   </p>
                 </div>

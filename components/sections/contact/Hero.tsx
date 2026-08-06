@@ -192,7 +192,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.text5}>
-                    <h3 className={styles.r70}>
+                    <h3 className={styles.r55}>
                       USA Office
                     </h3>
                   </div>
@@ -207,7 +207,7 @@ export default function Hero() {
                       </div>
                     </div>
                     <div className={styles.text6}>
-                      <p className={styles.r74}>
+                      <p className={styles.r62}>
                         <a className={styles.r63} href="mailto:Contact@Oustand.co.in" target="_blank" rel="noreferrer">
                           Contact@Oustand.co.in
                         </a>
@@ -223,7 +223,7 @@ export default function Hero() {
                       </div>
                     </div>
                     <div className={styles.text6}>
-                      <p className={styles.r74}>
+                      <p className={styles.r62}>
                         +634-34598484
                       </p>
                     </div>
@@ -237,7 +237,7 @@ export default function Hero() {
                       </div>
                     </div>
                     <div className={styles.text6}>
-                      <p className={styles.r74}>
+                      <p className={styles.r62}>
                         BC01 Downtown, NY.
                       </p>
                     </div>
@@ -251,10 +251,10 @@ export default function Hero() {
                       </div>
                     </div>
                     <div className={styles.text7}>
-                      <p className={styles.r74}>
+                      <p className={styles.r62}>
                         9:00 AM - 6:00 PM EST
                       </p>
-                      <p className={styles.r74}>
+                      <p className={styles.r62}>
                         Sunday Closed
                       </p>
                     </div>

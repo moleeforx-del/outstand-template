@@ -158,9 +158,9 @@ export default function PricingPlan() {
                         </p>
                       </div>
                       <div className={styles.iconRight}>
-                        <div className={styles.icon}>
+                        <div className={styles.icon3}>
                           <div className={styles.r6}>
-                            <Image className={styles.r60} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                            <Image className={styles.r61} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                           </div>
                         </div>
                       </div>
@@ -176,7 +176,7 @@ export default function PricingPlan() {
                     </div>
                     <div className={styles.line} />
                     <div className={styles.text7}>
-                      <p className={styles.r64}>
+                      <p className={styles.r65}>
                         Perfect for businesses looking to expand their digital marketing efforts beyond.
                       </p>
                     </div>
@@ -267,9 +267,9 @@ export default function PricingPlan() {
                         </p>
                       </div>
                       <div className={styles.iconRight}>
-                        <div className={styles.icon}>
+                        <div className={styles.icon3}>
                           <div className={styles.r6}>
-                            <Image className={styles.r60} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                            <Image className={styles.r61} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                           </div>
                         </div>
                       </div>
@@ -285,7 +285,7 @@ export default function PricingPlan() {
                     </div>
                     <div className={styles.line} />
                     <div className={styles.text7}>
-                      <p className={styles.r64}>
+                      <p className={styles.r65}>
                         Designed for businesses looking for a comprehensive digital marketing solution.
                       </p>
                     </div>
@@ -408,9 +408,9 @@ export default function PricingPlan() {
                         </p>
                       </div>
                       <div className={styles.iconRight}>
-                        <div className={styles.icon}>
+                        <div className={styles.icon3}>
                           <div className={styles.r6}>
-                            <Image className={styles.r60} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
+                            <Image className={styles.r61} src="/assets/media/lJSvGFGPhRLFfxcyPg1nppxYdA.svg" alt="" width={20} height={20} aria-hidden="true" />
                           </div>
                         </div>
                       </div>
@@ -420,21 +420,21 @@ export default function PricingPlan() {
                 <div className={styles.card4} data-border="true">
                   <div className={styles.textContainer5}>
                     <div className={styles.heading2}>
-                      <h3 className={styles.r70}>
+                      <h3 className={styles.r71}>
                         Custom Package
                       </h3>
                     </div>
                     <div className={styles.line} />
                     <div className={styles.text8}>
-                      <p className={styles.r72}>
+                      <p className={styles.r73}>
                         Custom package is tailored to meet your specific needs and goals.
-                        <br className={styles.r73} />
-                        <br className={styles.r73} />
+                        <br className={styles.r74} />
+                        <br className={styles.r74} />
                       </p>
                     </div>
                   </div>
                   <div className={styles.text9}>
-                    <p className={styles.r75}>
+                    <p className={styles.r43}>
                       Custom
                     </p>
                   </div>
@@ -576,7 +576,7 @@ export default function PricingPlan() {
                         </p>
                       </div>
                       <div className={styles.iconRight2}>
-                        <div className={styles.icon3}>
+                        <div className={styles.icon4}>
                           <div className={styles.r82}>
                             <Image className={styles.r83} src="/assets/media/Z4EozQtdVmroG1HDLS4zKFJeGo.svg" alt="Icon" width={20} height={20} />
                           </div>

@@ -5,7 +5,7 @@
 .letSWorkTogether {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 820.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -31,7 +31,7 @@
 .dektop {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 165.594px;
   flex-direction: column;
   justify-content: flex-start;
@@ -77,11 +77,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 20px;
+  width: 100%;
   height: 20px;
 }
 .r7 {
-  width: 20px;
+  width: 100%;
   height: 20px;
   overflow: clip;
   overflow-x: clip;
@@ -101,7 +101,7 @@
   place-content: normal flex-start;
 }
 .r9 {
-  width: 147.594px;
+  width: 100%;
   height: 24px;
   color: rgb(218, 246, 111);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -113,7 +113,7 @@
 .textContainer {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 119.594px;
   flex-direction: column;
   justify-content: center;
@@ -140,7 +140,7 @@
   word-break: break-word;
 }
 .r12 {
-  width: 840px;
+  width: 100%;
   height: 57.5938px;
   color: rgb(255, 255, 255);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -163,7 +163,7 @@
   word-break: break-word;
 }
 .r14 {
-  width: 840px;
+  width: 100%;
   height: 54px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -175,7 +175,7 @@
 .subContainer {
   display: flex;
   position: relative;
-  width: 1140px;
+  width: 100%;
   height: 595px;
   justify-content: flex-start;
   align-items: flex-start;
@@ -219,7 +219,7 @@
 .subContainer2 {
   display: flex;
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 365px;
   flex-direction: column;
   justify-content: flex-start;
@@ -234,7 +234,7 @@
 .textContainer2 {
   display: flex;
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 122px;
   flex-direction: column;
   justify-content: flex-start;
@@ -249,7 +249,7 @@
 .heading2 {
   display: flex;
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 33px;
   flex-direction: column;
   justify-content: flex-start;
@@ -259,7 +259,7 @@
   word-break: break-word;
 }
 .r20 {
-  width: 456px;
+  width: 100%;
   height: 33px;
   color: rgb(242, 242, 243);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -271,7 +271,7 @@
 .text2 {
   display: flex;
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 81px;
   flex-direction: column;
   justify-content: flex-start;
@@ -281,7 +281,7 @@
   word-break: break-word;
 }
 .r22 {
-  width: 456px;
+  width: 100%;
   height: 81px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -293,7 +293,7 @@
 .container2 {
   display: flex;
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 213px;
   flex-direction: column;
   justify-content: flex-start;
@@ -308,7 +308,7 @@
 .heading3 {
   display: flex;
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 27px;
   flex-direction: column;
   justify-content: flex-start;
@@ -318,7 +318,7 @@
   word-break: break-word;
 }
 .r25 {
-  width: 456px;
+  width: 100%;
   height: 27px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -329,7 +329,7 @@
 .subContainer3 {
   display: flex;
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 174px;
   flex-direction: column;
   justify-content: flex-start;
@@ -343,13 +343,13 @@
 }
 .r27 {
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 38px;
   flex-shrink: 0;
 }
 .r28 {
   display: flex;
-  width: 456px;
+  width: 100%;
   height: 38px;
   max-width: 100%;
   max-height: 100%;
@@ -373,7 +373,7 @@
   gap: 10px;
   row-gap: 10px;
   column-gap: 10px;
-  transform: matrix(1, 0, 0, 1, -73.002, 0);
+  transform: matrix(1, 0, 0, 1, -66.999, 0);
   place-items: center;
 }
 .r30 {
@@ -383,7 +383,7 @@
 }
 .logo {
   position: relative;
-  width: 108px;
+  width: 100%;
   height: 30px;
   overflow: hidden;
   overflow-x: hidden;
@@ -396,11 +396,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 108px;
+  width: 100%;
   height: 30px;
 }
 .r33 {
-  width: 108px;
+  width: 100%;
   height: 30px;
   overflow: clip;
   overflow-x: clip;
@@ -423,7 +423,7 @@
   gap: 10px;
   row-gap: 10px;
   column-gap: 10px;
-  transform: matrix(1, 0, 0, 1, 73.002, 0);
+  transform: matrix(1, 0, 0, 1, 66.999, 0);
   place-items: center;
 }
 .r43 {
@@ -435,7 +435,7 @@
 .iconLeftRight {
   display: flex;
   position: relative;
-  width: 456px;
+  width: 100%;
   height: 55px;
   justify-content: center;
   align-items: center;
@@ -464,7 +464,7 @@
   place-content: normal flex-start;
 }
 .r46 {
-  width: 107.969px;
+  width: 100%;
   height: 27px;
   color: rgb(15, 15, 15);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -488,7 +488,7 @@
 }
 .icon2 {
   position: relative;
-  width: 24px;
+  width: 100%;
   height: 24px;
   flex-shrink: 0;
 }
@@ -498,11 +498,11 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
-  width: 24px;
+  width: 100%;
   height: 24px;
 }
 .r50 {
-  width: 24px;
+  width: 100%;
   height: 24px;
   overflow: clip;
   overflow-x: clip;
@@ -571,7 +571,7 @@
 .letSWorkCard {
   display: flex;
   position: relative;
-  width: 263.5px;
+  width: 100%;
   height: 152px;
   flex-direction: column;
   justify-content: flex-start;
@@ -620,8 +620,14 @@
   padding: 12px;
   border-radius: 8px;
 }
-.r58 {
+.icon3 {
+  position: relative;
   width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.r59 {
+  width: 100%;
   height: 24px;
   overflow: clip;
   overflow-x: clip;
@@ -643,8 +649,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r60 {
-  width: 165.5px;
+.r61 {
+  width: 100%;
   height: 24px;
   color: rgb(247, 247, 248);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -665,8 +671,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r62 {
-  width: 223.5px;
+.r63 {
+  width: 100%;
   height: 54px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -675,7 +681,7 @@
   letter-spacing: 0.36px;
   text-align: left;
 }
-.r63 {
+.r64 {
   position: relative;
   width: 263.5px;
   height: 179px;
@@ -686,7 +692,7 @@
 .letSWorkCard2 {
   display: flex;
   position: relative;
-  width: 263.5px;
+  width: 100%;
   height: 179px;
   flex-direction: column;
   justify-content: flex-start;
@@ -715,8 +721,8 @@
   place-content: normal flex-start;
   word-break: break-word;
 }
-.r66 {
-  width: 223.5px;
+.r67 {
+  width: 100%;
   height: 81px;
   color: rgb(150, 151, 156);
   font-family: "Rethink Sans", "Rethink Sans Placeholder", sans-serif;
@@ -736,23 +742,20 @@
     height: 153px;
   }
   .dektop {
-    width: 780px;
     height: 153px;
   }
   .r9 {
     color: rgb(218, 245, 111);
   }
   .textContainer {
-    width: 780px;
     height: 107px;
     max-width: 1200px;
   }
   .heading {
-    width: 780px;
+    width: 100%;
     height: 48px;
   }
   .r12 {
-    width: 780px;
     height: 48px;
     font-size: 40px;
     line-height: 48px;
@@ -763,14 +766,12 @@
     height: 51px;
   }
   .r14 {
-    width: 686.391px;
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
   .subContainer {
-    width: 780px;
     height: 1065.5px;
     flex-direction: column;
   }
@@ -779,56 +780,32 @@
     height: 445.5px;
   }
   .subContainer2 {
-    width: 700px;
     height: 332px;
   }
   .textContainer2 {
-    width: 700px;
     height: 89px;
   }
   .heading2 {
-    width: 700px;
     height: 30px;
   }
   .r20 {
-    width: 700px;
     height: 30px;
     font-size: 20px;
     line-height: 30px;
     letter-spacing: 0.4px;
   }
   .text2 {
-    width: 700px;
     height: 51px;
   }
   .r22 {
-    width: 700px;
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
-  .container2 {
-    width: 700px;
-  }
-  .heading3 {
-    width: 700px;
-  }
-  .r25 {
-    width: 700px;
-  }
-  .subContainer3 {
-    width: 700px;
-  }
-  .r27 {
-    width: 700px;
-  }
-  .r28 {
-    width: 700px;
-  }
   .r29 {
     width: 680px;
-    transform: matrix(1, 0, 0, 1, -69.999, 0);
+    transform: matrix(1, 0, 0, 1, -82.497, 0);
   }
   .r34 {
     display: list-item;
@@ -837,7 +814,7 @@
   }
   .logo2 {
     position: relative;
-    width: 108px;
+    width: 100%;
     height: 30px;
     overflow: hidden;
     overflow-x: hidden;
@@ -850,11 +827,11 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 108px;
+    width: 100%;
     height: 30px;
   }
   .r37 {
-    width: 108px;
+    width: 100%;
     height: 30px;
     overflow: clip;
     overflow-x: clip;
@@ -864,14 +841,13 @@
   }
   .r42 {
     width: 680px;
-    transform: matrix(1, 0, 0, 1, 69.999, 0);
+    transform: matrix(1, 0, 0, 1, 82.497, 0);
   }
   .r43 {
     width: 700px;
     height: 53.5px;
   }
   .iconLeftRight {
-    width: 700px;
     height: 53.5px;
   }
   .text3 {
@@ -879,7 +855,6 @@
     height: 25.5px;
   }
   .r46 {
-    width: 101.969px;
     height: 25.5px;
     font-size: 17px;
     line-height: 25.5px;
@@ -903,7 +878,6 @@
     height: 149px;
   }
   .letSWorkCard {
-    width: 342px;
     height: 149px;
   }
   .container4 {
@@ -913,8 +887,7 @@
     width: 244px;
     height: 21.5938px;
   }
-  .r60 {
-    width: 244px;
+  .r61 {
     height: 21.5938px;
     font-size: 18px;
     line-height: 21.6px;
@@ -924,27 +897,24 @@
     width: 302px;
     height: 51px;
   }
-  .r62 {
-    width: 302px;
+  .r63 {
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
-  .r63 {
+  .r64 {
     width: 342px;
     height: 149px;
   }
   .letSWorkCard2 {
-    width: 342px;
     height: 149px;
   }
   .paragraph3 {
     width: 302px;
     height: 51px;
   }
-  .r66 {
-    width: 302px;
+  .r67 {
     height: 51px;
     font-size: 17px;
     line-height: 25.5px;
@@ -965,22 +935,18 @@
     height: 164.094px;
   }
   .dektop {
-    width: 358px;
     height: 164.094px;
     justify-content: center;
     place-content: center;
   }
   .textContainer {
-    width: 358px;
     height: 118.094px;
     max-width: 900px;
   }
   .heading {
-    width: 358px;
     height: 33.5938px;
   }
   .r12 {
-    width: 358px;
     height: 33.5938px;
     color: rgb(242, 242, 243);
     font-size: 28px;
@@ -988,15 +954,13 @@
     letter-spacing: 0.56px;
   }
   .paragraph {
-    width: 358px;
+    width: 100%;
     height: 76.5px;
   }
   .r14 {
-    width: 358px;
     height: 76.5px;
   }
   .subContainer {
-    width: 358px;
     height: 1561px;
     gap: 24px;
     row-gap: 24px;
@@ -1012,53 +976,29 @@
     column-gap: 40px;
   }
   .subContainer2 {
-    width: 310px;
     height: 396.5px;
   }
   .textContainer2 {
-    width: 310px;
     height: 165.5px;
   }
-  .heading2 {
-    width: 310px;
-  }
-  .r20 {
-    width: 310px;
-  }
   .text2 {
-    width: 310px;
     height: 127.5px;
   }
   .r22 {
-    width: 310px;
     height: 127.5px;
   }
   .container2 {
-    width: 310px;
     height: 201px;
   }
-  .heading3 {
-    width: 310px;
-  }
-  .r25 {
-    width: 310px;
-  }
   .subContainer3 {
-    width: 310px;
     height: 162px;
     gap: 24px;
     row-gap: 24px;
     column-gap: 24px;
   }
-  .r27 {
-    width: 310px;
-  }
-  .r28 {
-    width: 310px;
-  }
   .r29 {
     width: 290px;
-    transform: matrix(1, 0, 0, 1, -64.503, 0);
+    transform: matrix(1, 0, 0, 1, -63.999, 0);
   }
   .r38 {
     display: list-item;
@@ -1067,7 +1007,7 @@
   }
   .logo3 {
     position: relative;
-    width: 108px;
+    width: 100%;
     height: 30px;
     overflow: hidden;
     overflow-x: hidden;
@@ -1080,11 +1020,11 @@
     right: 0px;
     bottom: 0px;
     left: 0px;
-    width: 108px;
+    width: 100%;
     height: 30px;
   }
   .r41 {
-    width: 108px;
+    width: 100%;
     height: 30px;
     overflow: clip;
     overflow-x: clip;
@@ -1094,12 +1034,9 @@
   }
   .r42 {
     width: 290px;
-    transform: matrix(1, 0, 0, 1, 64.503, 0);
+    transform: matrix(1, 0, 0, 1, 63.999, 0);
   }
   .r43 {
-    width: 310px;
-  }
-  .iconLeftRight {
     width: 310px;
   }
   .shine {
@@ -1123,34 +1060,19 @@
   .r54 {
     width: 310px;
   }
-  .letSWorkCard {
-    width: 310px;
-  }
   .container4 {
     width: 270px;
   }
   .heading4 {
     width: 212px;
   }
-  .r60 {
-    width: 212px;
-  }
   .paragraph2 {
     width: 270px;
   }
-  .r62 {
-    width: 270px;
-  }
-  .r63 {
-    width: 310px;
-  }
-  .letSWorkCard2 {
+  .r64 {
     width: 310px;
   }
   .paragraph3 {
-    width: 270px;
-  }
-  .r66 {
     width: 270px;
   }
 }

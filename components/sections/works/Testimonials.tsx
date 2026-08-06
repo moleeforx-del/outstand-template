@@ -125,14 +125,14 @@ export default function Testimonials() {
                   </div>
                 </div>
                 <div className={styles.r39}>
-                  <div className={styles.variant12} data-border="true">
+                  <div className={styles.variant1} data-border="true">
                     <div className={styles.tittle2}>
-                      <p className={styles.r42}>
+                      <p className={styles.r21}>
                         Satisfied!
                       </p>
                     </div>
                     <div className={styles.text3}>
-                      <p className={styles.r44}>
+                      <p className={styles.r23}>
                         Working with Outstand has been an incredible experience. Their design quality is top-notch, and I would highly recommend them to anyone seeking professional and intuitive design.
                       </p>
                     </div>
@@ -144,13 +144,13 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <div className={styles.textContainer3}>
-                        <div className={styles.name2}>
-                          <p className={styles.r49}>
+                        <div className={styles.name}>
+                          <p className={styles.r31}>
                             Jason Williams
                           </p>
                         </div>
-                        <div className={styles.role2}>
-                          <p className={styles.r51}>
+                        <div className={styles.role}>
+                          <p className={styles.r33}>
                             Marketing Manager
                           </p>
                         </div>
@@ -254,14 +254,14 @@ export default function Testimonials() {
                   </div>
                 </div>
                 <div className={styles.r39}>
-                  <div className={styles.variant12} data-border="true">
+                  <div className={styles.variant1} data-border="true">
                     <div className={styles.tittle2}>
-                      <p className={styles.r42}>
+                      <p className={styles.r21}>
                         Excellent!
                       </p>
                     </div>
                     <div className={styles.text3}>
-                      <p className={styles.r44}>
+                      <p className={styles.r23}>
                         Their design expertise and attention to detail have resulted in outstanding work. I highly recommend Outstand for anyone in need of high-quality and intuitive design.
                       </p>
                     </div>
@@ -273,13 +273,13 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <div className={styles.textContainer3}>
-                        <div className={styles.name2}>
-                          <p className={styles.r49}>
+                        <div className={styles.name}>
+                          <p className={styles.r31}>
                             Sarah Roberts
                           </p>
                         </div>
-                        <div className={styles.role2}>
-                          <p className={styles.r51}>
+                        <div className={styles.role}>
+                          <p className={styles.r33}>
                             Brand Manager
                           </p>
                         </div>
