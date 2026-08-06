@@ -27,7 +27,7 @@ export default function AboutPage() {
   return (
     <>
       <Hero />
-      <div className="pageShell">
+      <div className="pageShell pageShellTightTop">
         <OurStory />
         <Features />
         <TeamMembers />

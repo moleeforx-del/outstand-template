@@ -372,3 +372,11 @@ html {
 body[data-menu-open='true'] {
   overflow: hidden;
 }
+
+/* Tightens the space between a full-bleed hero and the first section below
+ * it on phones, where the shell's 100px lead-in reads as an empty screen. */
+@media (max-width: 809px) {
+  .pageShellTightTop {
+    padding-top: 40px;
+  }
+}
