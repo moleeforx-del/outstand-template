@@ -16,6 +16,7 @@ import Faq from '@/components/sections/home/Faq';
 import Testimonials from '@/components/sections/home/Testimonials';
 import CallToAction from '@/components/sections/home/CallToAction';
 import ContactUs from '@/components/sections/home/ContactUs';
+import ProjectScreens from '@/components/ui/ProjectScreens';
 
 export default function HomePage() {
   return (
@@ -32,7 +33,11 @@ export default function HomePage() {
         <DigitalSolutions />
         <PricingPlan />
         <Process />
+        <ProjectScreens>
+          <ProjectScreens>
         <Projects />
+      </ProjectScreens>
+        </ProjectScreens>
         <Values />
         <LetsWorkTogether />
         <Faq />
