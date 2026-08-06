@@ -47,7 +47,7 @@ export interface SiteConfig {
 export const site: SiteConfig = {
   name: 'Outstand',
   tagline: 'A digital agency crafting brands that stand out.',
-  url: 'https://example.com',
+  url: 'https://outstand-template.vercel.app',
 
   seo: {
     title: 'Outstand - Dark-Themed Website Template for Agencies',
