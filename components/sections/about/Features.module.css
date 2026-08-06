@@ -690,3 +690,44 @@
     width: 310px;
   }
 }
+
+/* ------------------------------------------------------------------ *
+ * Stack the value cards in one column below the desktop breakpoint.
+ *
+ * The captured grids used fixed column widths (382px x2 at tablet) plus
+ * two cards spanning 2 columns, which overflows any viewport narrower
+ * than the capture width. One fluid column removes both problems.
+ *
+ * Scoped to this grid on purpose: 100% here resolves against a grid
+ * track with a definite width, unlike a shrink-to-fit parent.
+ * ------------------------------------------------------------------ */
+@media (max-width: 1319px) {
+  .subContainer {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: none;
+    grid-auto-rows: min-content;
+  }
+
+  /* Framer wraps each card in a display:contents element, so the real grid
+   * item can be the child or the grandchild. */
+  .subContainer > *,
+  .subContainer > * > * {
+    grid-column: auto;
+    justify-self: stretch;
+  }
+
+  /* The card itself sits below the display:contents wrapper, so it needs
+   * naming directly — r16/medium and r28/medium2 are the two card variants
+   * that carry the captured fixed width. */
+  .subContainer > * > *,
+  .subContainer .r16,
+  .subContainer .medium,
+  .subContainer .r28,
+  .subContainer .medium2 {
+    width: 100%;
+    max-width: 100%;
+  }
+}
