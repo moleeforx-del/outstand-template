@@ -593,7 +593,7 @@
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
 }
 .icon3:hover {
-  transform: matrix(1, 0, 0, 1, -0.297862, 0.297862);
+  transform: matrix(1, 0, 0, 1, -0.286183, 0.286183);
 }
 .r50 {
   width: 20px;
@@ -619,19 +619,19 @@
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
 }
 .icon4:hover {
-  transform: matrix(1, 0, 0, 1, -0.297862, 0.297862);
+  transform: matrix(1, 0, 0, 1, -0.289059, 0.289059);
 }
 .icon6 {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
 }
 .icon6:hover {
-  transform: matrix(1, 0, 0, 1, -0.297862, 0.297862);
+  transform: matrix(1, 0, 0, 1, -0.286183, 0.286183);
 }
 .icon7 {
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
 }
 .icon7:hover {
-  transform: matrix(1, 0, 0, 1, -0.297862, 0.297862);
+  transform: matrix(1, 0, 0, 1, -0.289059, 0.289059);
 }
 
 @media (max-width: 1319px) {

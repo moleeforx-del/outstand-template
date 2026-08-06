@@ -516,7 +516,6 @@
 }
 .hoverArrow:hover {
   background-color: rgb(20, 20, 20);
-  gap: 6px;
 }
 .text3 {
   display: flex;
@@ -533,7 +532,7 @@
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
 }
 .text3:hover {
-  transform: matrix(1, 0, 0, 1, 0.0143091, 0);
+  transform: matrix(1, 0, 0, 1, 0.0150427, 0);
 }
 .r42 {
   width: 106.953px;
@@ -562,7 +561,7 @@
   transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
 }
 .iconRight:hover {
-  transform: matrix(1, 0, 0, 1, -0.0141667, 0);
+  transform: matrix(1, 0, 0, 1, -0.0150427, 0);
 }
 .r44 {
   width: 20px;
@@ -810,7 +809,6 @@
 }
 .hoverArrow2:hover {
   background-color: rgb(20, 20, 20);
-  gap: 6px;
 }
 .r62 {
   position: relative;
