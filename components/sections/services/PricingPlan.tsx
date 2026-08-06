@@ -106,7 +106,7 @@ export default function PricingPlan() {
                   </div>
                   <div className={styles.textContainer3}>
                     <div className={styles.number}>
-                      <p className={styles.r43}>
+                      <p className={`${styles.r43} ${styles.priceValue}`}>
                         {yearly ? '$2999' : '$299'}
                       </p>
                     </div>
@@ -183,7 +183,7 @@ export default function PricingPlan() {
                   </div>
                   <div className={styles.textContainer3}>
                     <div className={styles.number}>
-                      <p className={styles.r43}>
+                      <p className={`${styles.r43} ${styles.priceValue}`}>
                         {yearly ? '$4999' : '$499'}
                       </p>
                     </div>
@@ -292,7 +292,7 @@ export default function PricingPlan() {
                   </div>
                   <div className={styles.textContainer3}>
                     <div className={styles.number}>
-                      <p className={styles.r43}>
+                      <p className={`${styles.r43} ${styles.priceValue}`}>
                         {yearly ? '$9999' : '$999'}
                       </p>
                     </div>

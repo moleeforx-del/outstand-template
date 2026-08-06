@@ -1500,6 +1500,21 @@
 }
 
 /* --- billing toggle state (added post-generation) --- */
+
+/* Price boxes were captured at the monthly string's width, so switching to
+ * the wider yearly figure overflowed into the "/month" suffix. Let the value
+ * and its wrapper size to their content. */
+.priceValue {
+  width: auto !important;
+  white-space: nowrap;
+}
+
+div:has(> .priceValue) {
+  width: auto !important;
+  min-width: max-content;
+  flex: 0 0 auto;
+}
+
 .toggle {
   cursor: pointer;
 }
