@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -211,6 +217,12 @@
   flex-basis: 0px;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .number {
   display: flex;
@@ -304,6 +316,12 @@
   flex-basis: 0px;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .number2 {
   display: flex;

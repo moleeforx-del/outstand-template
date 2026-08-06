@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -200,6 +206,12 @@
   row-gap: 12px;
   column-gap: 12px;
   padding: 40px 20px;
+  --border-top-width: 0px;
+  --border-right-width: 0px;
+  --border-bottom-width: 0px;
+  --border-left-width: 1px;
+  --border-color: rgb(64, 64, 64);
+  --border-style: dashed;
 }
 .subContainer2 {
   display: flex;

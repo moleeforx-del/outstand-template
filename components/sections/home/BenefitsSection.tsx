@@ -7,7 +7,7 @@ export default function BenefitsSection() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/PVDTlXEnoprTyepPVMx4ykyKtQ.svg" alt="Icon" width={20} height={20} />
@@ -37,8 +37,8 @@ export default function BenefitsSection() {
         <div className={styles.subContainer}>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktopTablet}>
-                <div className={styles.r18}>
+              <div className={styles.desktopTablet} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/9iC1X7JDwqWzuUNQ3ygpP830.svg" alt="Icon" width={24} height={24} />
@@ -62,8 +62,8 @@ export default function BenefitsSection() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktopTablet}>
-                <div className={styles.r18}>
+              <div className={styles.desktopTablet2} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/itpCxolE5KEsaFHfgRBr9BogJ24.svg" alt="Icon" width={24} height={24} />
@@ -87,8 +87,8 @@ export default function BenefitsSection() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktopTablet}>
-                <div className={styles.r18}>
+              <div className={styles.desktopTablet} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/xESHbojrF7JhoRKb84MGUU4p3bI.svg" alt="Icon" width={24} height={24} />
@@ -112,8 +112,8 @@ export default function BenefitsSection() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktopTablet}>
-                <div className={styles.r18}>
+              <div className={styles.desktopTablet3} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/D26z0e0j6MwLP1a6aAke8MGbsw.svg" alt="Icon" width={24} height={24} />
@@ -137,8 +137,8 @@ export default function BenefitsSection() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktopTablet}>
-                <div className={styles.r18}>
+              <div className={styles.desktopTablet4} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/EtUt4dE9Qq1CfTNHrv5GlJRIR4.svg" alt="Icon" width={24} height={24} />
@@ -162,8 +162,8 @@ export default function BenefitsSection() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktopTablet}>
-                <div className={styles.r18}>
+              <div className={styles.desktopTablet5} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/Dg6HHu2hOrtKqZ50JFxNhOOE6RI.svg" alt="Icon" width={24} height={24} />
@@ -187,8 +187,8 @@ export default function BenefitsSection() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktopTablet}>
-                <div className={styles.r18}>
+              <div className={styles.desktopTablet6} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/61lBnklRHY5exWG92xSRgTOBFVk.svg" alt="Icon" width={24} height={24} />
@@ -212,8 +212,8 @@ export default function BenefitsSection() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktopTablet}>
-                <div className={styles.r18}>
+              <div className={styles.desktopTablet7} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/1za2KZAbXQ3Vdi3TPz3PO0P6IUg.svg" alt="Icon" width={24} height={24} />

@@ -164,6 +164,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -296,6 +302,12 @@
   flex-shrink: 0;
   padding: 50px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .r33 {
   display: flex;
@@ -512,6 +524,12 @@
   flex-basis: 0px;
   padding: 10px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .subContainer2 {
   display: flex;
@@ -590,6 +608,12 @@
   flex-shrink: 0;
   padding: 24px;
   border-radius: 12px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .container5 {
   display: flex;
@@ -621,6 +645,12 @@
   flex-shrink: 0;
   padding: 12px;
   border-radius: 8px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon2 {
   position: relative;
@@ -714,6 +744,12 @@
   flex-basis: 0px;
   padding: 10px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .subContainer4 {
   display: flex;
@@ -774,6 +810,12 @@
   flex-shrink: 0;
   padding: 24px;
   border-radius: 12px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .container7 {
   display: flex;

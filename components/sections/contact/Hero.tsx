@@ -35,7 +35,7 @@ export default function Hero() {
           <div className={styles.r17}>
             <div className={styles.r18}>
               <div className={styles.dektop}>
-                <div className={styles.tag}>
+                <div className={styles.tag} data-border="true">
                   <div className={styles.icon}>
                     <div className={styles.r22}>
                       <Image className={styles.r23} src="/assets/media/HWcNm843vIM43vGfOMwHLTEe1g4.svg" alt="Icon" width={20} height={20} />
@@ -63,7 +63,7 @@ export default function Hero() {
             </div>
           </div>
           <div className={styles.subContainer}>
-            <div className={styles.container2}>
+            <div className={styles.container2} data-border="true">
               <form className={styles.r33}>
                 <div className={styles.container3}>
                   <label className={styles.r35}>
@@ -107,7 +107,7 @@ export default function Hero() {
               </div>
             </div>
             <div className={styles.container4}>
-              <div className={styles.card}>
+              <div className={styles.card} data-border="true">
                 <div className={styles.subContainer2}>
                   <div className={styles.image}>
                     <div className={styles.r52}>
@@ -120,9 +120,9 @@ export default function Hero() {
                     </h3>
                   </div>
                 </div>
-                <div className={styles.subContainer3}>
+                <div className={styles.subContainer3} data-border="true">
                   <div className={styles.container5}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/BpGNZUwZB4zbfVqnfUTdzKBkiys.svg" alt="Icon" width={20} height={20} />
@@ -138,7 +138,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container5}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/jQ6Eg1qjHCZZfRHMXiKzl6QUQ.svg" alt="Icon" width={20} height={20} />
@@ -152,7 +152,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container5}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/GATgFNt2br0fr9FKQPvsBuf5lHI.svg" alt="Icon" width={20} height={20} />
@@ -166,7 +166,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container6}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/9OzCvAuO5LtZCTxMHScGyFJlQx0.svg" alt="Icon" width={20} height={20} />
@@ -184,7 +184,7 @@ export default function Hero() {
                   </div>
                 </div>
               </div>
-              <div className={styles.card2}>
+              <div className={styles.card2} data-border="true">
                 <div className={styles.subContainer4}>
                   <div className={styles.image2}>
                     <div className={styles.r52}>
@@ -197,9 +197,9 @@ export default function Hero() {
                     </h3>
                   </div>
                 </div>
-                <div className={styles.subContainer5}>
+                <div className={styles.subContainer5} data-border="true">
                   <div className={styles.container7}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/BpGNZUwZB4zbfVqnfUTdzKBkiys.svg" alt="Icon" width={20} height={20} />
@@ -215,7 +215,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container7}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/jQ6Eg1qjHCZZfRHMXiKzl6QUQ.svg" alt="Icon" width={20} height={20} />
@@ -229,7 +229,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container7}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/GATgFNt2br0fr9FKQPvsBuf5lHI.svg" alt="Icon" width={20} height={20} />
@@ -243,7 +243,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container8}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/9OzCvAuO5LtZCTxMHScGyFJlQx0.svg" alt="Icon" width={20} height={20} />
@@ -261,7 +261,7 @@ export default function Hero() {
                   </div>
                 </div>
               </div>
-              <div className={styles.card}>
+              <div className={styles.card} data-border="true">
                 <div className={styles.subContainer2}>
                   <div className={styles.image2}>
                     <div className={styles.r52}>
@@ -274,9 +274,9 @@ export default function Hero() {
                     </h3>
                   </div>
                 </div>
-                <div className={styles.subContainer3}>
+                <div className={styles.subContainer3} data-border="true">
                   <div className={styles.container5}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/BpGNZUwZB4zbfVqnfUTdzKBkiys.svg" alt="Icon" width={20} height={20} />
@@ -292,7 +292,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container5}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/jQ6Eg1qjHCZZfRHMXiKzl6QUQ.svg" alt="Icon" width={20} height={20} />
@@ -306,7 +306,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container5}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/GATgFNt2br0fr9FKQPvsBuf5lHI.svg" alt="Icon" width={20} height={20} />
@@ -320,7 +320,7 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className={styles.container6}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r60} src="/assets/media/9OzCvAuO5LtZCTxMHScGyFJlQx0.svg" alt="Icon" width={20} height={20} />

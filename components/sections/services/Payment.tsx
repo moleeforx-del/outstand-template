@@ -8,7 +8,7 @@ export default function Payment() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/6KIRt4wbHNcmicxkoePtJDGaHgM.svg" alt="Icon" width={21} height={20} />
@@ -39,9 +39,9 @@ export default function Payment() {
           <div className={styles.container}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.medium}>
+                <div className={styles.medium} data-border="true">
                   <div className={styles.container2}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/oUvN49Ctu2IChXmom9uSHgXwUE.svg" alt="" width={24} height={24} aria-hidden="true" />
@@ -66,9 +66,9 @@ export default function Payment() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.medium}>
+                <div className={styles.medium} data-border="true">
                   <div className={styles.container2}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/oUvN49Ctu2IChXmom9uSHgXwUE.svg" alt="" width={24} height={24} aria-hidden="true" />
@@ -93,9 +93,9 @@ export default function Payment() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r29}>
-                <div className={styles.medium2}>
+                <div className={styles.medium2} data-border="true">
                   <div className={styles.container4}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/oUvN49Ctu2IChXmom9uSHgXwUE.svg" alt="" width={24} height={24} aria-hidden="true" />
@@ -120,9 +120,9 @@ export default function Payment() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.medium}>
+                <div className={styles.medium} data-border="true">
                   <div className={styles.container2}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/oUvN49Ctu2IChXmom9uSHgXwUE.svg" alt="" width={24} height={24} aria-hidden="true" />
@@ -147,9 +147,9 @@ export default function Payment() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.medium}>
+                <div className={styles.medium} data-border="true">
                   <div className={styles.container2}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/oUvN49Ctu2IChXmom9uSHgXwUE.svg" alt="" width={24} height={24} aria-hidden="true" />
@@ -174,9 +174,9 @@ export default function Payment() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r29}>
-                <div className={styles.medium2}>
+                <div className={styles.medium2} data-border="true">
                   <div className={styles.container4}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/oUvN49Ctu2IChXmom9uSHgXwUE.svg" alt="" width={24} height={24} aria-hidden="true" />
@@ -200,7 +200,7 @@ export default function Payment() {
               </div>
             </div>
           </div>
-          <div className={styles.card}>
+          <div className={styles.card} data-border="true">
             <div className={`${styles.container6} ${styles.onlyDesktop}`}>
               <div className={styles.textContainer2}>
                 <div className={styles.r1}>
@@ -239,7 +239,7 @@ export default function Payment() {
             <div className={`${styles.container7} ${styles.onlyDesktop}`}>
               <div className={styles.r1}>
                 <div className={styles.r52}>
-                  <div className={styles.pointer2}>
+                  <div className={styles.pointer2} data-border="true">
                     <div className={styles.iconWrap}>
                       <div className={styles.icon3}>
                         <div className={styles.r56}>
@@ -257,7 +257,7 @@ export default function Payment() {
               </div>
               <div className={styles.r1}>
                 <div className={styles.r52}>
-                  <div className={styles.pointer2}>
+                  <div className={styles.pointer2} data-border="true">
                     <div className={styles.iconWrap}>
                       <div className={styles.icon3}>
                         <div className={styles.r56}>
@@ -275,7 +275,7 @@ export default function Payment() {
               </div>
               <div className={styles.r1}>
                 <div className={styles.r52}>
-                  <div className={styles.pointer2}>
+                  <div className={styles.pointer2} data-border="true">
                     <div className={styles.iconWrap}>
                       <div className={styles.icon3}>
                         <div className={styles.r56}>
@@ -293,7 +293,7 @@ export default function Payment() {
               </div>
               <div className={styles.r1}>
                 <div className={styles.r52}>
-                  <div className={styles.pointer2}>
+                  <div className={styles.pointer2} data-border="true">
                     <div className={styles.iconWrap}>
                       <div className={styles.icon3}>
                         <div className={styles.r56}>
@@ -331,7 +331,7 @@ export default function Payment() {
             <div className={`${styles.container9} ${styles.onlyTablet}`}>
               <div className={styles.r62}>
                 <div className={styles.r68}>
-                  <div className={styles.pointer22}>
+                  <div className={styles.pointer22} data-border="true">
                     <div className={styles.iconWrap2}>
                       <div className={styles.icon4}>
                         <div className={styles.r72}>
@@ -349,7 +349,7 @@ export default function Payment() {
               </div>
               <div className={styles.r62}>
                 <div className={styles.r68}>
-                  <div className={styles.pointer22}>
+                  <div className={styles.pointer22} data-border="true">
                     <div className={styles.iconWrap2}>
                       <div className={styles.icon4}>
                         <div className={styles.r72}>
@@ -367,7 +367,7 @@ export default function Payment() {
               </div>
               <div className={styles.r62}>
                 <div className={styles.r68}>
-                  <div className={styles.pointer22}>
+                  <div className={styles.pointer22} data-border="true">
                     <div className={styles.iconWrap2}>
                       <div className={styles.icon4}>
                         <div className={styles.r72}>
@@ -385,7 +385,7 @@ export default function Payment() {
               </div>
               <div className={styles.r62}>
                 <div className={styles.r68}>
-                  <div className={styles.pointer22}>
+                  <div className={styles.pointer22} data-border="true">
                     <div className={styles.iconWrap2}>
                       <div className={styles.icon4}>
                         <div className={styles.r72}>
@@ -440,7 +440,7 @@ export default function Payment() {
             <div className={`${styles.container11} ${styles.onlyPhone}`}>
               <div className={styles.r87}>
                 <div className={styles.r93}>
-                  <div className={styles.pointer23}>
+                  <div className={styles.pointer23} data-border="true">
                     <div className={styles.iconWrap3}>
                       <div className={styles.icon6}>
                         <div className={styles.r97}>
@@ -458,7 +458,7 @@ export default function Payment() {
               </div>
               <div className={styles.r87}>
                 <div className={styles.r93}>
-                  <div className={styles.pointer23}>
+                  <div className={styles.pointer23} data-border="true">
                     <div className={styles.iconWrap3}>
                       <div className={styles.icon6}>
                         <div className={styles.r97}>
@@ -476,7 +476,7 @@ export default function Payment() {
               </div>
               <div className={styles.r87}>
                 <div className={styles.r101}>
-                  <div className={styles.pointer24}>
+                  <div className={styles.pointer24} data-border="true">
                     <div className={styles.iconWrap3}>
                       <div className={styles.icon6}>
                         <div className={styles.r97}>
@@ -494,7 +494,7 @@ export default function Payment() {
               </div>
               <div className={styles.r87}>
                 <div className={styles.r101}>
-                  <div className={styles.pointer24}>
+                  <div className={styles.pointer24} data-border="true">
                     <div className={styles.iconWrap3}>
                       <div className={styles.icon6}>
                         <div className={styles.r97}>

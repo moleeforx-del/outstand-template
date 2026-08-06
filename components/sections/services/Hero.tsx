@@ -20,7 +20,7 @@ export default function Hero() {
           <div className={`${styles.subContainer} ${styles.onlyDesktop}`}>
             <div className={styles.container2}>
               <div className={styles.subContainer2}>
-                <div className={styles.r9}>
+                <div className={styles.r9} data-border="true">
                   <div className={styles.subContainer3}>
                     <div className={styles.image}>
                       <div className={styles.r12}>
@@ -607,7 +607,7 @@ export default function Hero() {
           <div className={`${styles.subContainer5} ${styles.onlyTablet}`}>
             <div className={styles.container5}>
               <div className={styles.subContainer6}>
-                <div className={styles.r101}>
+                <div className={styles.r101} data-border="true">
                   <div className={styles.subContainer7}>
                     <div className={styles.image6}>
                       <div className={styles.r104}>
@@ -1130,7 +1130,7 @@ export default function Hero() {
           <div className={`${styles.subContainer8} ${styles.onlyPhone}`}>
             <div className={styles.container6}>
               <div className={styles.subContainer9}>
-                <div className={styles.r170}>
+                <div className={styles.r170} data-border="true">
                   <div className={styles.subContainer10}>
                     <div className={styles.image9}>
                       <div className={styles.r173}>

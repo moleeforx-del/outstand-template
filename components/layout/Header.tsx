@@ -56,7 +56,7 @@ export default function Header() {
     <>
       <div className={styles.wrap}>
         <nav className={styles.nav} aria-label="Main">
-          <div className={styles.bar}>
+          <div className={styles.bar} data-border="true">
             <Link href="/" className={styles.logo} aria-label={`${site.name} — home`}>
               <Image
                 src={site.logo.src}
@@ -74,6 +74,7 @@ export default function Header() {
                   href={link.href}
                   className={`${styles.tab} ${isActive(link.href) ? styles.tabActive : ''}`}
                   aria-current={isActive(link.href) ? 'page' : undefined}
+                  data-border={isActive(link.href) ? 'true' : undefined}
                 >
                   {link.label}
                 </Link>

@@ -7,7 +7,7 @@ export default function Features() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/tOUSKiDScbCYJS5U0JPEPSE0Q.svg" alt="Icon" width={20} height={20} />
@@ -37,9 +37,9 @@ export default function Features() {
         <div className={styles.subContainer}>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.medium}>
+              <div className={styles.medium} data-border="true">
                 <div className={styles.container}>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/xKI4dqZld5b68kPOBbeOdMrs54A.svg" alt="Icon" width={24} height={24} />
@@ -64,9 +64,9 @@ export default function Features() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.medium}>
+              <div className={styles.medium} data-border="true">
                 <div className={styles.container}>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/gHb2EEzXUnFYtmLqDHt4F2nQlBE.svg" alt="Icon" width={24} height={24} />
@@ -91,9 +91,9 @@ export default function Features() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r28}>
-              <div className={styles.medium2}>
+              <div className={styles.medium2} data-border="true">
                 <div className={styles.container3}>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/1za2KZAbXQ3Vdi3TPz3PO0P6IUg.svg" alt="Icon" width={24} height={24} />
@@ -118,9 +118,9 @@ export default function Features() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r28}>
-              <div className={styles.medium2}>
+              <div className={styles.medium2} data-border="true">
                 <div className={styles.container3}>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/oUvN49Ctu2IChXmom9uSHgXwUE.svg" alt="" width={24} height={24} aria-hidden="true" />
@@ -145,9 +145,9 @@ export default function Features() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r28}>
-              <div className={styles.medium2}>
+              <div className={styles.medium2} data-border="true">
                 <div className={styles.container3}>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/d8MM4ldUiwZLDBcWRxH763sOwPs.svg" alt="Icon" width={24} height={24} />
@@ -172,9 +172,9 @@ export default function Features() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r28}>
-              <div className={styles.medium2}>
+              <div className={styles.medium2} data-border="true">
                 <div className={styles.container3}>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/zgsf9HuO6ahvWmH7TiSlo603eU.svg" alt="Icon" width={24} height={24} />

@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -202,6 +208,12 @@
   background-color: rgb(20, 20, 20);
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .container2 {
   display: flex;
@@ -226,6 +238,12 @@
   flex-shrink: 0;
   padding: 12px;
   border-radius: 10px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon2 {
   position: relative;
@@ -265,6 +283,12 @@
   flex-shrink: 0;
   padding: 10px;
   border-radius: 8px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 .text2 {
   display: flex;
@@ -370,6 +394,12 @@
   background-color: rgb(20, 20, 20);
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .container3 {
   display: flex;
@@ -435,6 +465,12 @@
   background-color: rgb(20, 20, 20);
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .textContainer4 {
   display: flex;
@@ -484,6 +520,12 @@
   flex-shrink: 0;
   padding: 50px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: #191919;
+  --border-style: solid;
 }
 .textContainer5 {
   display: flex;

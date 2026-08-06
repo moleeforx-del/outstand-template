@@ -8,7 +8,7 @@ export default function PricingPlan() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/9DTJ5GS139lzKgnpozoPGAy2i0.svg" alt="Icon" width={20} height={20} />
@@ -44,7 +44,7 @@ export default function PricingPlan() {
                     Monthly
                   </p>
                 </div>
-                <div className={styles.toggle}>
+                <div className={styles.toggle} data-border="true">
                   <div className={styles.ellipse2} />
                 </div>
                 <div className={styles.yearly}>
@@ -71,7 +71,7 @@ export default function PricingPlan() {
                 </div>
               </div>
               <div className={styles.container2}>
-                <div className={styles.card}>
+                <div className={styles.card} data-border="true">
                   <div className={styles.textContainer2}>
                     <div className={styles.heading2}>
                       <h3 className={styles.r37}>
@@ -99,7 +99,7 @@ export default function PricingPlan() {
                   </div>
                   <div className={styles.itemsContainer}>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -115,7 +115,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -132,7 +132,7 @@ export default function PricingPlan() {
                     </div>
                   </div>
                   <div className={styles.r55}>
-                    <Link className={styles.hoverArrow} href="/contact">
+                    <Link className={styles.hoverArrow} data-border="true" href="/contact">
                       <div className={styles.text6}>
                         <p className={styles.r58}>
                           Get Started
@@ -148,7 +148,7 @@ export default function PricingPlan() {
                     </Link>
                   </div>
                 </div>
-                <div className={styles.card2}>
+                <div className={styles.card2} data-border="true">
                   <div className={styles.textContainer4}>
                     <div className={styles.heading2}>
                       <h3 className={styles.r37}>
@@ -176,7 +176,7 @@ export default function PricingPlan() {
                   </div>
                   <div className={styles.itemsContainer2}>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -192,7 +192,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -208,7 +208,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -224,7 +224,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -241,7 +241,7 @@ export default function PricingPlan() {
                     </div>
                   </div>
                   <div className={styles.r55}>
-                    <Link className={styles.hoverArrow} href="/contact">
+                    <Link className={styles.hoverArrow} data-border="true" href="/contact">
                       <div className={styles.text6}>
                         <p className={styles.r58}>
                           Get Started
@@ -257,7 +257,7 @@ export default function PricingPlan() {
                     </Link>
                   </div>
                 </div>
-                <div className={styles.card3}>
+                <div className={styles.card3} data-border="true">
                   <div className={styles.textContainer4}>
                     <div className={styles.heading2}>
                       <h3 className={styles.r37}>
@@ -285,7 +285,7 @@ export default function PricingPlan() {
                   </div>
                   <div className={styles.itemsContainer3}>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -301,7 +301,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -317,7 +317,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -333,7 +333,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -349,7 +349,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -365,7 +365,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -382,7 +382,7 @@ export default function PricingPlan() {
                     </div>
                   </div>
                   <div className={styles.r55}>
-                    <Link className={styles.hoverArrow} href="/contact">
+                    <Link className={styles.hoverArrow} data-border="true" href="/contact">
                       <div className={styles.text6}>
                         <p className={styles.r58}>
                           Get Started
@@ -398,7 +398,7 @@ export default function PricingPlan() {
                     </Link>
                   </div>
                 </div>
-                <div className={styles.card4}>
+                <div className={styles.card4} data-border="true">
                   <div className={styles.textContainer5}>
                     <div className={styles.heading2}>
                       <h3 className={styles.r70}>
@@ -421,7 +421,7 @@ export default function PricingPlan() {
                   </div>
                   <div className={styles.itemsContainer4}>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -437,7 +437,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -453,7 +453,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -469,7 +469,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -485,7 +485,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -501,7 +501,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -517,7 +517,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>
@@ -533,7 +533,7 @@ export default function PricingPlan() {
                       </div>
                     </div>
                     <div className={styles.r47}>
-                      <div className={styles.pointer1}>
+                      <div className={styles.pointer1} data-border="true">
                         <div className={styles.iconWrap}>
                           <div className={styles.icon2}>
                             <div className={styles.r51}>

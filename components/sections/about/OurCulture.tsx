@@ -7,7 +7,7 @@ export default function OurCulture() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/6k6txB4lPzOUCSkGFkVFMcgWM.svg" alt="Icon" width={21} height={20} />
@@ -65,7 +65,7 @@ export default function OurCulture() {
                   </div>
                 </div>
               </div>
-              <div className={styles.line} />
+              <div className={styles.line} data-border="true" />
               <div className={styles.card2}>
                 <div className={styles.r1}>
                   <div className={styles.icon2}>
@@ -88,7 +88,7 @@ export default function OurCulture() {
                 </div>
               </div>
             </div>
-            <div className={styles.line2} />
+            <div className={styles.line2} data-border="true" />
             <div className={styles.subContainer2}>
               <div className={styles.card2}>
                 <div className={styles.r1}>
@@ -111,7 +111,7 @@ export default function OurCulture() {
                   </div>
                 </div>
               </div>
-              <div className={styles.line} />
+              <div className={styles.line} data-border="true" />
               <div className={styles.card2}>
                 <div className={styles.r1}>
                   <div className={styles.icon2}>

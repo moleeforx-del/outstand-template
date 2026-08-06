@@ -8,7 +8,7 @@ export default function LetsWorkTogether() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/4XS5vDp7iKYKQZGldVch4zuiac4.svg" alt="Icon" width={20} height={20} />
@@ -35,7 +35,7 @@ export default function LetsWorkTogether() {
             </div>
           </div>
         </div>
-        <div className={styles.subContainer}>
+        <div className={styles.subContainer} data-border="true">
           <div className={styles.container}>
             <div className={styles.subContainer2}>
               <div className={styles.textContainer2}>
@@ -1106,7 +1106,7 @@ export default function LetsWorkTogether() {
               </div>
             </div>
           </div>
-          <div className={styles.line} />
+          <div className={styles.line} data-border="true" />
           <div className={styles.container3}>
             <div className={styles.r1}>
               <div className={styles.r54}>

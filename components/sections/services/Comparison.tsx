@@ -7,7 +7,7 @@ export default function Comparison() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/2389ppijLGOSFNlbVEzTnaSo.svg" alt="Icon" width={21} height={20} />
@@ -34,39 +34,39 @@ export default function Comparison() {
             </div>
           </div>
         </div>
-        <div className={styles.strokeContainer}>
+        <div className={styles.strokeContainer} data-border="true">
           <div className={styles.scrollContainer}>
-            <div className={styles.table}>
+            <div className={styles.table} data-border="true">
               <div className={styles.row}>
-                <div className={styles.column1}>
+                <div className={styles.column1} data-border="true">
                   <div className={styles.heading2}>
                     <h3 className={styles.r21}>
                       Features
                     </h3>
                   </div>
                 </div>
-                <div className={styles.column1}>
+                <div className={styles.column1} data-border="true">
                   <div className={styles.heading3}>
                     <h3 className={styles.r23}>
                       Basic Package
                     </h3>
                   </div>
                 </div>
-                <div className={styles.column3}>
+                <div className={styles.column3} data-border="true">
                   <div className={styles.heading4}>
                     <h3 className={styles.r26}>
                       Standard Package
                     </h3>
                   </div>
                 </div>
-                <div className={styles.column3}>
+                <div className={styles.column3} data-border="true">
                   <div className={styles.heading4}>
                     <h3 className={styles.r26}>
                       Premium package
                     </h3>
                   </div>
                 </div>
-                <div className={styles.column3}>
+                <div className={styles.column3} data-border="true">
                   <div className={styles.heading4}>
                     <h3 className={styles.r26}>
                       Custom Package
@@ -75,35 +75,35 @@ export default function Comparison() {
                 </div>
               </div>
               <div className={styles.row2}>
-                <div className={styles.column12}>
+                <div className={styles.column12} data-border="true">
                   <div className={styles.heading5}>
                     <p className={styles.r30}>
                       Web Design
                     </p>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
@@ -112,35 +112,35 @@ export default function Comparison() {
                 </div>
               </div>
               <div className={styles.row3}>
-                <div className={styles.column13}>
+                <div className={styles.column13} data-border="true">
                   <div className={styles.heading6}>
                     <p className={styles.r38}>
                       Digital Marketing
                     </p>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column22} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column22} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column22} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column22} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
@@ -149,35 +149,35 @@ export default function Comparison() {
                 </div>
               </div>
               <div className={styles.row2}>
-                <div className={styles.column12}>
+                <div className={styles.column12} data-border="true">
                   <div className={styles.heading5}>
                     <p className={styles.r30}>
                       Branding
                     </p>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
@@ -186,35 +186,35 @@ export default function Comparison() {
                 </div>
               </div>
               <div className={styles.row2}>
-                <div className={styles.column12}>
+                <div className={styles.column12} data-border="true">
                   <div className={styles.heading5}>
                     <p className={styles.r30}>
                       SEO
                     </p>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
@@ -223,35 +223,35 @@ export default function Comparison() {
                 </div>
               </div>
               <div className={styles.row3}>
-                <div className={styles.column13}>
+                <div className={styles.column13} data-border="true">
                   <div className={styles.heading6}>
                     <p className={styles.r38}>
                       Content Strategy
                     </p>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column22} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column22} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column22} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column22} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
@@ -260,35 +260,35 @@ export default function Comparison() {
                 </div>
               </div>
               <div className={styles.row2}>
-                <div className={styles.column12}>
+                <div className={styles.column12} data-border="true">
                   <div className={styles.heading5}>
                     <p className={styles.r30}>
                       UI Design
                     </p>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
@@ -297,35 +297,35 @@ export default function Comparison() {
                 </div>
               </div>
               <div className={styles.row2}>
-                <div className={styles.column12}>
+                <div className={styles.column12} data-border="true">
                   <div className={styles.heading5}>
                     <p className={styles.r30}>
                       UX Research
                     </p>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column2}>
+                <div className={styles.column2} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />
@@ -334,35 +334,35 @@ export default function Comparison() {
                 </div>
               </div>
               <div className={styles.row3}>
-                <div className={styles.column13}>
+                <div className={styles.column14} data-border="true">
                   <div className={styles.heading6}>
                     <p className={styles.r38}>
                       Security Features
                     </p>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column23} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column23} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column23} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/SLuIZXA4KbIw2wd9hyqsEtWGDE.svg" alt="Icon" width={100} height={100} />
                     </div>
                   </div>
                 </div>
-                <div className={styles.column22}>
+                <div className={styles.column23} data-border="true">
                   <div className={styles.tickIcon}>
                     <div className={styles.r33}>
                       <Image className={styles.r34} src="/assets/media/oUftBL1miexZcpuwoI9ULejss.svg" alt="Icon" width={100} height={100} />

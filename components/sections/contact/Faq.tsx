@@ -7,7 +7,7 @@ export default function Faq() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/9Fy6OwpnyuD8RM2TG1VObnDX4.svg" alt="Icon" width={21} height={20} />
@@ -37,8 +37,8 @@ export default function Faq() {
         <div className={styles.subContainer}>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.big}>
-                <div className={styles.subContainer2}>
+              <div className={styles.big} data-border="true">
+                <div className={styles.subContainer2} data-border="true">
                   <div className={styles.heading2}>
                     <p className={styles.r20}>
                       Design & Development Questions
@@ -156,8 +156,8 @@ export default function Faq() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r39}>
-              <div className={styles.big2}>
-                <div className={styles.subContainer2}>
+              <div className={styles.big2} data-border="true">
+                <div className={styles.subContainer2} data-border="true">
                   <div className={styles.heading2}>
                     <p className={styles.r20}>
                       Marketing Service Questions

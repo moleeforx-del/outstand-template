@@ -99,6 +99,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -421,14 +427,13 @@
   height: 360px;
   flex-shrink: 0;
 }
-.big2 {
+.big1 {
   position: relative;
   width: 1140px;
   height: 360px;
   overflow: hidden;
   overflow-x: hidden;
   overflow-y: hidden;
-  aspect-ratio: 3.16667 / 1;
   border-radius: 16px;
 }
 .image3 {
@@ -463,18 +468,6 @@
   aspect-ratio: auto 2280 / 720;
   border-radius: 16px;
 }
-.image2 {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  width: 1140px;
-  height: 360px;
-  opacity: 0.944064;
-  flex-shrink: 0;
-  border-radius: 16px;
-}
 .image {
   position: absolute;
   top: 0px;
@@ -483,7 +476,6 @@
   left: 0px;
   width: 1140px;
   height: 360px;
-  opacity: 0.0559363;
   flex-shrink: 0;
   border-radius: 16px;
 }
@@ -506,35 +498,30 @@
   transform: matrix(1, 0, 0, 1, -59, 0);
   flex-shrink: 0;
   padding: 12px 20px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 0px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .rectangle1909 {
   position: relative;
-  width: 12px;
-  height: 12px;
-  background-color: rgb(57, 64, 34);
-  transform: matrix(1.08617, 0, 0, 1, 0.517041, 0);
-  flex-shrink: 0;
-  cursor: pointer;
-  border-radius: 729.579% 792.449%;
-}
-.ellipse13 {
-  position: relative;
   width: 30px;
   height: 12px;
-  background-color: rgb(199, 234, 63);
-  transform: matrix(0.965531, 0, 0, 1, 0.517041, 0);
+  background-color: rgb(205, 241, 64);
   flex-shrink: 0;
   cursor: pointer;
-  border-radius: 48.7419% 117.655%;
+  border-radius: 12px;
 }
-.ellipse14 {
+.ellipse13 {
   position: relative;
   width: 12px;
   height: 12px;
   background-color: rgb(31, 31, 31);
   flex-shrink: 0;
   cursor: pointer;
-  border-radius: 97.2124px;
+  border-radius: 50px;
 }
 .container3 {
   display: flex;
@@ -564,7 +551,7 @@
   flex-shrink: 0;
   word-break: break-word;
 }
-.r73 {
+.r71 {
   width: 1140px;
   height: 24px;
   color: rgb(228, 229, 230);
@@ -575,14 +562,14 @@
   letter-spacing: 0.4px;
   text-align: center;
 }
-.r74 {
+.r72 {
   position: relative;
   width: 1140px;
   height: 70px;
   max-width: 1140px;
   flex-shrink: 0;
 }
-.r75 {
+.r73 {
   display: flex;
   width: 1140px;
   height: 70px;
@@ -595,7 +582,7 @@
   mask-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 12.5%, rgb(0, 0, 0) 87.5%, rgba(0, 0, 0, 0) 100%);
   list-style-type: none;
 }
-.r76 {
+.r74 {
   display: flex;
   position: relative;
   width: 1140px;
@@ -606,9 +593,9 @@
   gap: 14px;
   row-gap: 14px;
   column-gap: 14px;
-  transform: matrix(1, 0, 0, 1, -128.507, 0);
+  transform: matrix(1, 0, 0, 1, -78.0312, 0);
 }
-.r77 {
+.r75 {
   display: list-item;
   width: 114px;
   height: 38px;
@@ -622,7 +609,7 @@
   overflow-y: hidden;
   flex-shrink: 0;
 }
-.r79 {
+.r77 {
   position: absolute;
   top: 0px;
   right: 0px;
@@ -631,7 +618,7 @@
   width: 114px;
   height: 38px;
 }
-.r80 {
+.r78 {
   width: 114px;
   height: 38px;
   overflow: clip;
@@ -849,7 +836,7 @@
   .r60 {
     width: 900px;
   }
-  .big2 {
+  .big1 {
     width: 900px;
   }
   .image3 {
@@ -861,29 +848,12 @@
   .r64 {
     width: 900px;
   }
-  .image2 {
-    width: 900px;
-    opacity: 0;
-  }
   .image {
     width: 900px;
   }
   .indicatorContainer {
     right: 332px;
     left: 450px;
-  }
-  .rectangle1909 {
-    width: 30px;
-    background-color: rgb(205, 241, 64);
-    border-radius: 12px;
-  }
-  .ellipse13 {
-    width: 12px;
-    background-color: rgb(31, 31, 31);
-    border-radius: 50px;
-  }
-  .ellipse14 {
-    border-radius: 50px;
   }
   .container3 {
     width: 900px;
@@ -895,24 +865,24 @@
     width: 900px;
     height: 21.5938px;
   }
-  .r73 {
+  .r71 {
     width: 900px;
     height: 21.5938px;
     font-size: 18px;
     line-height: 21.6px;
     letter-spacing: 0.36px;
   }
+  .r72 {
+    width: 900px;
+  }
+  .r73 {
+    width: 900px;
+  }
   .r74 {
     width: 900px;
+    transform: matrix(1, 0, 0, 1, -75.4997, 0);
   }
-  .r75 {
-    width: 900px;
-  }
-  .r76 {
-    width: 900px;
-    transform: matrix(1, 0, 0, 1, -74.9992, 0);
-  }
-  .r81 {
+  .r79 {
     display: list-item;
     width: 114px;
     height: 38px;
@@ -926,7 +896,7 @@
     overflow-y: hidden;
     flex-shrink: 0;
   }
-  .r83 {
+  .r81 {
     position: absolute;
     top: 0px;
     right: 0px;
@@ -935,7 +905,7 @@
     width: 114px;
     height: 38px;
   }
-  .r84 {
+  .r82 {
     width: 114px;
     height: 38px;
     overflow: clip;
@@ -1065,7 +1035,7 @@
     width: 358px;
     height: 113.047px;
   }
-  .big2 {
+  .big1 {
     width: 358px;
     height: 113.047px;
     aspect-ratio: 3.16667 / 1;
@@ -1079,10 +1049,6 @@
     height: 113.047px;
   }
   .r64 {
-    width: 358px;
-    height: 113.047px;
-  }
-  .image2 {
     width: 358px;
     height: 113.047px;
   }
@@ -1108,14 +1074,16 @@
     width: 8px;
     height: 8px;
   }
-  .ellipse14 {
-    width: 8px;
-    height: 8px;
-  }
   .container3 {
     width: 358px;
   }
   .heading2 {
+    width: 358px;
+  }
+  .r71 {
+    width: 358px;
+  }
+  .r72 {
     width: 358px;
   }
   .r73 {
@@ -1123,15 +1091,9 @@
   }
   .r74 {
     width: 358px;
+    transform: matrix(1, 0, 0, 1, -75.9965, 0);
   }
-  .r75 {
-    width: 358px;
-  }
-  .r76 {
-    width: 358px;
-    transform: matrix(1, 0, 0, 1, -77.4946, 0);
-  }
-  .r85 {
+  .r83 {
     display: list-item;
     width: 114px;
     height: 38px;
@@ -1145,7 +1107,7 @@
     overflow-y: hidden;
     flex-shrink: 0;
   }
-  .r87 {
+  .r85 {
     position: absolute;
     top: 0px;
     right: 0px;
@@ -1154,7 +1116,7 @@
     width: 114px;
     height: 38px;
   }
-  .r88 {
+  .r86 {
     width: 114px;
     height: 38px;
     overflow: clip;

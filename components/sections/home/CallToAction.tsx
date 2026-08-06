@@ -30,7 +30,7 @@ export default function CallToAction() {
         </div>
         <div className={styles.subContainer}>
           <div className={styles.container}>
-            <div className={styles.container2}>
+            <div className={styles.container2} data-border="true">
               <div className={styles.icon}>
                 <div className={styles.r17}>
                   <Image className={styles.r18} src="/assets/media/yzy40kaDjKJu1eJE8ulSCjo.svg" alt="Icon" width={20} height={20} />
@@ -56,7 +56,7 @@ export default function CallToAction() {
             </div>
           </div>
           <div className={styles.tabsContainer}>
-            <div className={styles.container3}>
+            <div className={styles.container3} data-border="true">
               <div className={styles.icon}>
                 <div className={styles.r17}>
                   <Image className={styles.r28} src="/assets/media/Uyjp1jp3vIV4AePx5eG9LMOEiVg.svg" alt="Icon" width={21} height={20} />
@@ -68,7 +68,7 @@ export default function CallToAction() {
                 </p>
               </div>
             </div>
-            <div className={styles.container4}>
+            <div className={styles.container4} data-border="true">
               <div className={styles.icon}>
                 <div className={styles.r17}>
                   <Image className={styles.r28} src="/assets/media/dXVSIi1E6INhWLtAoEaLc39yA.svg" alt="Icon" width={21} height={20} />
@@ -80,7 +80,7 @@ export default function CallToAction() {
                 </p>
               </div>
             </div>
-            <div className={styles.container5}>
+            <div className={styles.container5} data-border="true">
               <div className={styles.icon}>
                 <div className={styles.r17}>
                   <Image className={styles.r28} src="/assets/media/xLHdWVejeZw8YrICKnTOlBu5EpQ.svg" alt="Icon" width={21} height={20} />

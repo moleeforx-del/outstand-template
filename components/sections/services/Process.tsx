@@ -8,7 +8,7 @@ export default function Process() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/YgL07mB2LboyYkJm8HS8kaxOFSs.svg" alt="Icon" width={20} height={20} />
@@ -39,16 +39,16 @@ export default function Process() {
           <div className={styles.container}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.processCard}>
+                <div className={styles.processCard} data-border="true">
                   <div className={styles.container2}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/I4qdMNXue1p7N7fimLTPeZE.svg" alt="Icon" width={24} height={24} />
                         </div>
                       </div>
                     </div>
-                    <div className={styles.subContainer2}>
+                    <div className={styles.subContainer2} data-border="true">
                       <div className={styles.text2}>
                         <p className={styles.r26}>
                           Week 01
@@ -73,16 +73,16 @@ export default function Process() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.processCard}>
+                <div className={styles.processCard} data-border="true">
                   <div className={styles.container2}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/hY7tjN0T8GAXzSXi4thY2IeLd0.svg" alt="Icon" width={25} height={24} />
                         </div>
                       </div>
                     </div>
-                    <div className={styles.subContainer2}>
+                    <div className={styles.subContainer2} data-border="true">
                       <div className={styles.text2}>
                         <p className={styles.r26}>
                           Week 02
@@ -107,16 +107,16 @@ export default function Process() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.processCard2}>
+                <div className={styles.processCard2} data-border="true">
                   <div className={styles.container3}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/Y917zvo2ALM8DB8WfZlf1MWAUE4.svg" alt="Icon" width={25} height={24} />
                         </div>
                       </div>
                     </div>
-                    <div className={styles.subContainer2}>
+                    <div className={styles.subContainer2} data-border="true">
                       <div className={styles.text2}>
                         <p className={styles.r26}>
                           Week 03
@@ -141,16 +141,16 @@ export default function Process() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.processCard}>
+                <div className={styles.processCard} data-border="true">
                   <div className={styles.container2}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/fgzxp2DC7PUET0DtyWv87GILM.svg" alt="Icon" width={24} height={24} />
                         </div>
                       </div>
                     </div>
-                    <div className={styles.subContainer2}>
+                    <div className={styles.subContainer2} data-border="true">
                       <div className={styles.text2}>
                         <p className={styles.r26}>
                           Week 04
@@ -175,16 +175,16 @@ export default function Process() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.processCard}>
+                <div className={styles.processCard} data-border="true">
                   <div className={styles.container2}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/mFks5VP9XJq3SkPECMmKqwYZ9TY.svg" alt="Icon" width={25} height={24} />
                         </div>
                       </div>
                     </div>
-                    <div className={styles.subContainer2}>
+                    <div className={styles.subContainer2} data-border="true">
                       <div className={styles.text2}>
                         <p className={styles.r26}>
                           Week 05
@@ -209,16 +209,16 @@ export default function Process() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r38}>
-                <div className={styles.processCard3}>
+                <div className={styles.processCard3} data-border="true">
                   <div className={styles.container3}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r22}>
                           <Image className={styles.r23} src="/assets/media/WeuuuvmV3GSPau8kNJw9vTsYXQ.svg" alt="Icon" width={25} height={24} />
                         </div>
                       </div>
                     </div>
-                    <div className={styles.subContainer2}>
+                    <div className={styles.subContainer2} data-border="true">
                       <div className={styles.text2}>
                         <p className={styles.r26}>
                           Week 06
@@ -242,7 +242,7 @@ export default function Process() {
               </div>
             </div>
           </div>
-          <div className={styles.card}>
+          <div className={styles.card} data-border="true">
             <div className={styles.textContainer5}>
               <div className={styles.text3}>
                 <p className={styles.r46}>

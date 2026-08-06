@@ -7,7 +7,7 @@ export default function OurExpertise() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/GZybkgizK0sv9yZlv13noJ7ClfY.svg" alt="Icon" width={21} height={20} />
@@ -37,7 +37,7 @@ export default function OurExpertise() {
         <div className={styles.subContainer}>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.desktop}>
+              <div className={styles.desktop} data-border="true">
                 <div className={styles.imageContainer}>
                   <div className={styles.image}>
                     <div className={styles.r20}>
@@ -48,7 +48,7 @@ export default function OurExpertise() {
                 <div className={styles.cardsOurExpertise}>
                   <div className={styles.subContainer2}>
                     <div className={styles.container}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon2} data-border="true">
                         <div className={styles.r26}>
                           <div className={styles.r27}>
                             <Image className={styles.r28} src="/assets/media/e9aRTho3oYzDWhcxoF9vS8YwPtw.svg" alt="Icon" width={24} height={24} />
@@ -67,7 +67,7 @@ export default function OurExpertise() {
                       </p>
                     </div>
                   </div>
-                  <div className={styles.subContainer3}>
+                  <div className={styles.subContainer3} data-border="true">
                     <div className={styles.textContainer2}>
                       <div className={styles.heading3}>
                         <h4 className={styles.r36}>
@@ -80,7 +80,7 @@ export default function OurExpertise() {
                         </p>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line} data-border="true" />
                     <div className={styles.textContainer3}>
                       <div className={styles.heading4}>
                         <h4 className={styles.r42}>
@@ -93,7 +93,7 @@ export default function OurExpertise() {
                         </p>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line} data-border="true" />
                     <div className={styles.textContainer4}>
                       <div className={styles.heading5}>
                         <h4 className={styles.r47}>
@@ -113,11 +113,11 @@ export default function OurExpertise() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r50}>
-              <div className={styles.desktop2}>
+              <div className={styles.desktop2} data-border="true">
                 <div className={styles.cardsOurExpertise}>
                   <div className={styles.subContainer2}>
                     <div className={styles.container}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon2} data-border="true">
                         <div className={styles.r26}>
                           <div className={styles.r27}>
                             <Image className={styles.r28} src="/assets/media/pKQCAUNBLSK3yDptrljRdTQ1764.svg" alt="Icon" width={24} height={24} />
@@ -136,7 +136,7 @@ export default function OurExpertise() {
                       </p>
                     </div>
                   </div>
-                  <div className={styles.subContainer3}>
+                  <div className={styles.subContainer3} data-border="true">
                     <div className={styles.textContainer5}>
                       <div className={styles.heading6}>
                         <h4 className={styles.r54}>
@@ -149,7 +149,7 @@ export default function OurExpertise() {
                         </p>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line} data-border="true" />
                     <div className={styles.textContainer6}>
                       <div className={styles.heading7}>
                         <h4 className={styles.r59}>
@@ -162,7 +162,7 @@ export default function OurExpertise() {
                         </p>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line} data-border="true" />
                     <div className={styles.textContainer7}>
                       <div className={styles.heading5}>
                         <h4 className={styles.r47}>
@@ -189,7 +189,7 @@ export default function OurExpertise() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r69}>
-              <div className={styles.desktop3}>
+              <div className={styles.desktop3} data-border="true">
                 <div className={styles.imageContainer}>
                   <div className={styles.image}>
                     <div className={styles.r20}>
@@ -200,7 +200,7 @@ export default function OurExpertise() {
                 <div className={styles.cardsOurExpertise2}>
                   <div className={styles.subContainer4}>
                     <div className={styles.container}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon2} data-border="true">
                         <div className={styles.r26}>
                           <div className={styles.r27}>
                             <Image className={styles.r28} src="/assets/media/MOwQISw9162CcEabjhBoOKaEA.svg" alt="Icon" width={24} height={24} />
@@ -219,7 +219,7 @@ export default function OurExpertise() {
                       </p>
                     </div>
                   </div>
-                  <div className={styles.subContainer3}>
+                  <div className={styles.subContainer3} data-border="true">
                     <div className={styles.textContainer8}>
                       <div className={styles.heading4}>
                         <h4 className={styles.r42}>
@@ -232,7 +232,7 @@ export default function OurExpertise() {
                         </p>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line} data-border="true" />
                     <div className={styles.textContainer9}>
                       <div className={styles.heading4}>
                         <h4 className={styles.r42}>
@@ -245,7 +245,7 @@ export default function OurExpertise() {
                         </p>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line} data-border="true" />
                     <div className={styles.textContainer10}>
                       <div className={styles.heading5}>
                         <h4 className={styles.r47}>
@@ -265,11 +265,11 @@ export default function OurExpertise() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r84}>
-              <div className={styles.desktop4}>
+              <div className={styles.desktop4} data-border="true">
                 <div className={styles.cardsOurExpertise2}>
                   <div className={styles.subContainer4}>
                     <div className={styles.container}>
-                      <div className={styles.icon2}>
+                      <div className={styles.icon2} data-border="true">
                         <div className={styles.r26}>
                           <div className={styles.r27}>
                             <Image className={styles.r28} src="/assets/media/5HhkuFkKZirhfDMkfezswn9ESvI.svg" alt="Icon" width={24} height={24} />
@@ -288,7 +288,7 @@ export default function OurExpertise() {
                       </p>
                     </div>
                   </div>
-                  <div className={styles.subContainer3}>
+                  <div className={styles.subContainer3} data-border="true">
                     <div className={styles.textContainer11}>
                       <div className={styles.heading8}>
                         <h4 className={styles.r88}>
@@ -301,7 +301,7 @@ export default function OurExpertise() {
                         </p>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line} data-border="true" />
                     <div className={styles.textContainer3}>
                       <div className={styles.heading4}>
                         <h4 className={styles.r42}>
@@ -314,7 +314,7 @@ export default function OurExpertise() {
                         </p>
                       </div>
                     </div>
-                    <div className={styles.line} />
+                    <div className={styles.line} data-border="true" />
                     <div className={styles.textContainer12}>
                       <div className={styles.heading5}>
                         <h4 className={styles.r47}>

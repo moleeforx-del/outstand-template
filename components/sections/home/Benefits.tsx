@@ -7,7 +7,7 @@ export default function Benefits() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/Qfc4BJeErxPlbpW68A6Pt6c261s.svg" alt="Icon" width={20} height={20} />
@@ -38,7 +38,7 @@ export default function Benefits() {
           <div className={styles.container}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.benefitsCard}>
+                <div className={styles.benefitsCard} data-border="true">
                   <div className={styles.container2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -62,7 +62,7 @@ export default function Benefits() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.benefitsCard}>
+                <div className={styles.benefitsCard} data-border="true">
                   <div className={styles.container2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -86,7 +86,7 @@ export default function Benefits() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.benefitsCard}>
+                <div className={styles.benefitsCard} data-border="true">
                   <div className={styles.container2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -119,7 +119,7 @@ export default function Benefits() {
           <div className={styles.container3}>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.benefitsCard2}>
+                <div className={styles.benefitsCard2} data-border="true">
                   <div className={styles.container4}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -143,7 +143,7 @@ export default function Benefits() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.benefitsCard2}>
+                <div className={styles.benefitsCard2} data-border="true">
                   <div className={styles.container4}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -167,7 +167,7 @@ export default function Benefits() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.benefitsCard2}>
+                <div className={styles.benefitsCard2} data-border="true">
                   <div className={styles.container4}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>

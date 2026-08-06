@@ -7,7 +7,7 @@ export default function WhyChooseUs() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/vVrF4Gbox7WuZ8u7CHXeXfy1A.svg" alt="Icon" width={20} height={20} />
@@ -37,8 +37,8 @@ export default function WhyChooseUs() {
         <div className={styles.container}>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.whyChooseUs2}>
-                <div className={styles.r18}>
+              <div className={styles.whyChooseUs2} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/PClIz6NpX3vJ3ZxSQg8uckaSRw.svg" alt="Icon" width={29} height={28} />
@@ -62,8 +62,8 @@ export default function WhyChooseUs() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r27}>
-              <div className={styles.whyChooseUs3}>
-                <div className={styles.r18}>
+              <div className={styles.whyChooseUs3} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/uFcAXfOmsLntM0Er5NDG9WsEJ5k.svg" alt="Icon" width={29} height={28} />
@@ -87,8 +87,8 @@ export default function WhyChooseUs() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.whyChooseUs2}>
-                <div className={styles.r18}>
+              <div className={styles.whyChooseUs2} data-border="true">
+                <div className={styles.r18} data-border="true">
                   <div className={styles.iconContainer}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/HAQfCWCgS2xxnKQeGg4apRvlvU.svg" alt="Icon" width={29} height={28} />

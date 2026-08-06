@@ -7,7 +7,7 @@ export default function Values() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/tfPRq1IqTCUh1vo4qpGTe6ouN4.svg" alt="Icon" width={20} height={20} />
@@ -38,7 +38,7 @@ export default function Values() {
           <div className={styles.container}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.subContainer2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -64,7 +64,7 @@ export default function Values() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.subContainer2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -90,7 +90,7 @@ export default function Values() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.subContainer2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -118,7 +118,7 @@ export default function Values() {
           <div className={styles.container}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.subContainer2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -144,7 +144,7 @@ export default function Values() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.subContainer2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
@@ -170,7 +170,7 @@ export default function Values() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.subContainer2}>
                     <div className={styles.icon2}>
                       <div className={styles.r21}>

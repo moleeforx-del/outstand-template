@@ -16,7 +16,7 @@ export default function Hero() {
         </div>
         <div className={styles.container}>
           <div className={styles.subContainer}>
-            <div className={styles.container2}>
+            <div className={styles.container2} data-border="true">
               <div className={styles.r1}>
                 <div className={styles.icon}>
                   <div className={styles.r9}>
@@ -585,13 +585,13 @@ export default function Hero() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r60}>
-              <div className={styles.big2}>
+              <div className={styles.big1}>
                 <div className={styles.image3}>
                   <div className={styles.r63}>
                     <Image className={styles.r64} src="/assets/media/z71d8hTglst42oM6W17PAT0wPcU.png" alt="" width={1140} height={360} aria-hidden="true" />
                   </div>
                 </div>
-                <div className={styles.image2}>
+                <div className={styles.image3}>
                   <div className={styles.r63}>
                     <Image className={styles.r64} src="/assets/media/9PmGqsaYvrr4otdK7tbJ34PeqKM.png" alt="" width={1140} height={360} aria-hidden="true" />
                   </div>
@@ -601,10 +601,10 @@ export default function Hero() {
                     <Image className={styles.r64} src="/assets/media/Afl3bUKV8FGIHXKytOOAfxRezo.png" alt="" width={1140} height={360} aria-hidden="true" />
                   </div>
                 </div>
-                <div className={styles.indicatorContainer}>
+                <div className={styles.indicatorContainer} data-border="true">
                   <div className={styles.rectangle1909} />
                   <div className={styles.ellipse13} />
-                  <div className={styles.ellipse14} />
+                  <div className={styles.ellipse13} />
                 </div>
               </div>
             </div>
@@ -612,682 +612,682 @@ export default function Hero() {
         </div>
         <div className={styles.container3}>
           <div className={styles.heading2}>
-            <h3 className={styles.r73}>
+            <h3 className={styles.r71}>
               Trusted by world leaders
             </h3>
           </div>
-          <div className={styles.r74}>
-            <section className={styles.r75}>
-              <ul className={styles.r76}>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+          <div className={styles.r72}>
+            <section className={styles.r73}>
+              <ul className={styles.r74}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r77} ${styles.onlyDesktop}`}>
+                <li className={`${styles.r75} ${styles.onlyDesktop}`}>
                   <div className={styles.logo}>
-                    <div className={styles.r79}>
-                      <Image className={styles.r80} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r77}>
+                      <Image className={styles.r78} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r81} ${styles.onlyTablet}`}>
+                <li className={`${styles.r79} ${styles.onlyTablet}`}>
                   <div className={styles.logo2}>
-                    <div className={styles.r83}>
-                      <Image className={styles.r84} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r81}>
+                      <Image className={styles.r82} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/i34B3Rk9rlvHy0drcYrL4UzVLk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/uCbpdEV5MVAa5EHBnBhL5REmM.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/RA2BKkySk6igYdsqVR2za8ukQ.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/C5jQVOEa63hIMq9GBCyV443xg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/8n35bNwaB8uqqivb2G3gJ1fuI4.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/FNVvQ9ERZEV5erTmjwyc5YEaCs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/LnMbTFYnzyEMJ0YKhtnO5SMq4Tg.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/Nt4TPXYONmgT2TBUgmU2o7uhDtU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/iXnzrObFuvfWhQU9XlVtyIdfU.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/ifyeoy9LIP70UDvCmnm8LfRIynk.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/mAAh8q1E33LJQdKi79F3TavTSs.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>
-                <li className={`${styles.r85} ${styles.onlyPhone}`}>
+                <li className={`${styles.r83} ${styles.onlyPhone}`}>
                   <div className={styles.logo3}>
-                    <div className={styles.r87}>
-                      <Image className={styles.r88} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
+                    <div className={styles.r85}>
+                      <Image className={styles.r86} src="/assets/media/F85HDI7XqItgxrE8Vd5oOCY76Yo.svg" alt="Logo" width={114} height={38} />
                     </div>
                   </div>
                 </li>

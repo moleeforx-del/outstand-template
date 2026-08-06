@@ -8,7 +8,7 @@ export default function FeaturesSection() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/GeiRPq7ay3bsEgoZEZhYSdzWk.png" alt="Icon" width={512} height={512} />
@@ -36,7 +36,7 @@ export default function FeaturesSection() {
           </div>
         </div>
         <div className={styles.subContainer}>
-          <div className={styles.card}>
+          <div className={styles.card} data-border="true">
             <div className={styles.container}>
               <div className={styles.textContainer2}>
                 <div className={styles.heading2}>
@@ -103,7 +103,7 @@ export default function FeaturesSection() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r39}>
-                <Link className={styles.iconLeftRight} href="/works">
+                <Link className={styles.iconLeftRight} data-border="true" href="/works">
                   <div className={styles.text6}>
                     <p className={styles.r42}>
                       Contact Us
@@ -143,7 +143,7 @@ export default function FeaturesSection() {
                   </div>
                 </div>
               </div>
-              <div className={styles.line} />
+              <div className={styles.line} data-border="true" />
               <div className={styles.card3}>
                 <div className={styles.icon3}>
                   <div className={styles.r49}>
@@ -166,7 +166,7 @@ export default function FeaturesSection() {
                 </div>
               </div>
             </div>
-            <div className={styles.line2} />
+            <div className={styles.line2} data-border="true" />
             <div className={styles.subContainer7}>
               <div className={styles.card4}>
                 <div className={styles.icon4}>
@@ -189,7 +189,7 @@ export default function FeaturesSection() {
                   </div>
                 </div>
               </div>
-              <div className={styles.line3} />
+              <div className={styles.line3} data-border="true" />
               <div className={styles.card3}>
                 <div className={styles.icon3}>
                   <div className={styles.r49}>

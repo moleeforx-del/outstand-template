@@ -8,7 +8,7 @@ export default function Support() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/HF8M5tPq0nwy3do9DLOgTcr1f2g.svg" alt="Icon" width={20} height={20} />
@@ -36,7 +36,7 @@ export default function Support() {
           </div>
         </div>
         <div className={styles.subContainer}>
-          <div className={styles.card}>
+          <div className={styles.card} data-border="true">
             <div className={styles.container}>
               <div className={styles.subContainer2}>
                 <div className={styles.icon2}>
@@ -58,7 +58,7 @@ export default function Support() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r26}>
-                <Link className={styles.hoverArrow} href="/contact#hero">
+                <Link className={styles.hoverArrow} data-border="true" href="/contact#hero">
                   <div className={styles.text2}>
                     <p className={styles.r29}>
                       Get in Touch
@@ -75,7 +75,7 @@ export default function Support() {
               </div>
             </div>
           </div>
-          <div className={styles.card2}>
+          <div className={styles.card2} data-border="true">
             <div className={styles.container2}>
               <div className={styles.subContainer3}>
                 <div className={styles.icon2}>
@@ -97,7 +97,7 @@ export default function Support() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r40}>
-                <Link className={styles.hoverArrow2} href="/contact#hero">
+                <Link className={styles.hoverArrow2} data-border="true" href="/contact#hero">
                   <div className={styles.text2}>
                     <p className={styles.r29}>
                       Get in Touch
@@ -114,7 +114,7 @@ export default function Support() {
               </div>
             </div>
           </div>
-          <div className={styles.card}>
+          <div className={styles.card} data-border="true">
             <div className={styles.container}>
               <div className={styles.subContainer4}>
                 <div className={styles.icon2}>
@@ -136,7 +136,7 @@ export default function Support() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r26}>
-                <Link className={styles.hoverArrow} href="/contact#hero">
+                <Link className={styles.hoverArrow} data-border="true" href="/contact#hero">
                   <div className={styles.text2}>
                     <p className={styles.r29}>
                       Get in Touch

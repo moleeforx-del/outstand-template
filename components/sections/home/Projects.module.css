@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -205,6 +211,12 @@
   overflow-y: hidden;
   padding: 30px 24px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .imageContainer {
   display: flex;
@@ -221,6 +233,12 @@
   overflow-y: hidden;
   flex-shrink: 0;
   border-radius: 12px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .r20 {
   position: absolute;
@@ -255,6 +273,12 @@
   border-radius: 12px 12px 0px 0px;
   flex-shrink: 0;
   padding: 8px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 0px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .image {
   position: relative;
@@ -265,6 +289,12 @@
   flex-basis: 0px;
   cursor: pointer;
   border-radius: 6px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(46, 46, 46);
+  --border-style: solid;
 }
 .r24 {
   position: absolute;
@@ -296,7 +326,17 @@
   flex-shrink: 0;
   border-radius: 6px;
 }
-.r27 {
+.image2 {
+  position: relative;
+  width: 76px;
+  height: 52px;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.r28 {
   width: 76px;
   height: 52px;
   overflow: clip;
@@ -348,7 +388,7 @@
   white-space: pre;
   flex-shrink: 0;
 }
-.r32 {
+.r33 {
   width: 59.625px;
   height: 30px;
   color: rgb(255, 255, 255);
@@ -357,7 +397,7 @@
   font-weight: 600;
   line-height: 30px;
 }
-.r33 {
+.r34 {
   position: relative;
   width: 97.5781px;
   height: 39px;
@@ -377,6 +417,12 @@
   cursor: pointer;
   padding: 6px 14px;
   border-radius: 53px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 .text2 {
   display: flex;
@@ -388,7 +434,7 @@
   white-space: pre;
   flex-shrink: 0;
 }
-.r36 {
+.r37 {
   width: 45.5781px;
   height: 27px;
   color: rgb(242, 242, 243);
@@ -409,7 +455,7 @@
   column-gap: 10px;
   flex-shrink: 0;
 }
-.r38 {
+.r39 {
   width: 20px;
   height: 20px;
   overflow: clip;
@@ -429,7 +475,7 @@
   flex-shrink: 0;
   word-break: break-word;
 }
-.r40 {
+.r41 {
   width: 321.328px;
   height: 27px;
   color: rgb(150, 151, 156);
@@ -437,7 +483,7 @@
   font-size: 18px;
   line-height: 27px;
 }
-.r41 {
+.r42 {
   position: relative;
   width: 369.344px;
   height: 398px;
@@ -462,6 +508,12 @@
   overflow-y: hidden;
   padding: 30px 24px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .imageContainer2 {
   display: flex;
@@ -478,8 +530,14 @@
   overflow-y: hidden;
   flex-shrink: 0;
   border-radius: 12px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
-.r44 {
+.r45 {
   position: absolute;
   top: 0px;
   right: 0px;
@@ -489,7 +547,7 @@
   height: 250px;
   border-radius: 12px;
 }
-.r45 {
+.r46 {
   width: 321.344px;
   height: 250px;
   overflow: clip;
@@ -530,7 +588,7 @@
   white-space: pre;
   flex-shrink: 0;
 }
-.r49 {
+.r50 {
   width: 80.4531px;
   height: 30px;
   color: rgb(255, 255, 255);
@@ -550,7 +608,7 @@
   flex-shrink: 0;
   word-break: break-word;
 }
-.r51 {
+.r52 {
   width: 321.344px;
   height: 27px;
   color: rgb(150, 151, 156);
@@ -568,7 +626,7 @@
   white-space: pre;
   flex-shrink: 0;
 }
-.r53 {
+.r54 {
   width: 78.0625px;
   height: 30px;
   color: rgb(255, 255, 255);
@@ -577,7 +635,7 @@
   font-weight: 600;
   line-height: 30px;
 }
-.r110 {
+.r113 {
   position: relative;
   width: 207.578px;
   height: 55px;
@@ -597,6 +655,12 @@
   cursor: pointer;
   padding: 14px 24px;
   border-radius: 53px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 .text5 {
   display: flex;
@@ -608,7 +672,7 @@
   white-space: pre;
   flex-shrink: 0;
 }
-.r113 {
+.r116 {
   width: 135.578px;
   height: 27px;
   color: rgb(242, 242, 243);
@@ -669,7 +733,7 @@
     width: 780px;
     height: 396.5px;
   }
-  .r54 {
+  .r55 {
     position: relative;
     width: 382px;
     height: 396.5px;
@@ -694,6 +758,12 @@
     overflow-y: hidden;
     padding: 30px 24px;
     border-radius: 16px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    --border-color: rgb(31, 31, 31);
+    --border-style: solid;
   }
   .imageContainer3 {
     display: flex;
@@ -710,8 +780,14 @@
     overflow-y: hidden;
     flex-shrink: 0;
     border-radius: 12px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    --border-color: rgb(30, 30, 30);
+    --border-style: solid;
   }
-  .r57 {
+  .r58 {
     position: absolute;
     top: 0px;
     right: 0px;
@@ -721,7 +797,7 @@
     height: 250px;
     border-radius: 12px;
   }
-  .r58 {
+  .r59 {
     width: 334px;
     height: 250px;
     overflow: clip;
@@ -744,8 +820,14 @@
     border-radius: 12px 12px 0px 0px;
     flex-shrink: 0;
     padding: 8px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 1px;
+    --border-color: rgb(31, 31, 31);
+    --border-style: solid;
   }
-  .image2 {
+  .image3 {
     position: relative;
     width: 76px;
     height: 52px;
@@ -754,8 +836,14 @@
     flex-basis: 0px;
     cursor: pointer;
     border-radius: 6px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    --border-color: rgb(46, 46, 46);
+    --border-style: solid;
   }
-  .r61 {
+  .r62 {
     position: absolute;
     top: 0px;
     right: 0px;
@@ -765,7 +853,7 @@
     height: 52px;
     border-radius: 6px;
   }
-  .r62 {
+  .r63 {
     width: 76px;
     height: 52px;
     overflow: clip;
@@ -785,7 +873,17 @@
     flex-shrink: 0;
     border-radius: 6px;
   }
-  .r64 {
+  .image4 {
+    position: relative;
+    width: 76px;
+    height: 52px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 0px;
+    cursor: pointer;
+    border-radius: 6px;
+  }
+  .r66 {
     width: 76px;
     height: 52px;
     overflow: clip;
@@ -837,7 +935,7 @@
     white-space: pre;
     flex-shrink: 0;
   }
-  .r69 {
+  .r71 {
     width: 59.625px;
     height: 30px;
     color: rgb(255, 255, 255);
@@ -846,7 +944,7 @@
     font-weight: 600;
     line-height: 30px;
   }
-  .r70 {
+  .r72 {
     position: relative;
     width: 95.0469px;
     height: 37.5px;
@@ -866,6 +964,12 @@
     cursor: pointer;
     padding: 6px 14px;
     border-radius: 53px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    --border-color: rgb(38, 38, 38);
+    --border-style: solid;
   }
   .text3 {
     display: flex;
@@ -877,7 +981,7 @@
     white-space: pre;
     flex-shrink: 0;
   }
-  .r73 {
+  .r75 {
     width: 43.0469px;
     height: 25.5px;
     color: rgb(242, 242, 243);
@@ -904,7 +1008,7 @@
     height: 20px;
     flex-shrink: 0;
   }
-  .r76 {
+  .r78 {
     position: absolute;
     top: 0px;
     right: 0px;
@@ -913,7 +1017,7 @@
     width: 20px;
     height: 20px;
   }
-  .r77 {
+  .r79 {
     width: 20px;
     height: 20px;
     overflow: clip;
@@ -933,7 +1037,7 @@
     flex-shrink: 0;
     word-break: break-word;
   }
-  .r79 {
+  .r81 {
     width: 334px;
     height: 27px;
     color: rgb(150, 151, 156);
@@ -951,7 +1055,7 @@
     white-space: pre;
     flex-shrink: 0;
   }
-  .r81 {
+  .r83 {
     width: 80.4531px;
     height: 30px;
     color: rgb(255, 255, 255);
@@ -960,7 +1064,7 @@
     font-weight: 600;
     line-height: 30px;
   }
-  .r110 {
+  .r113 {
     width: 200.047px;
     height: 53.5px;
   }
@@ -972,7 +1076,7 @@
     width: 128.047px;
     height: 25.5px;
   }
-  .r113 {
+  .r116 {
     width: 128.047px;
     height: 25.5px;
     font-size: 17px;
@@ -1031,7 +1135,7 @@
     height: 809px;
     flex-direction: column;
   }
-  .r82 {
+  .r84 {
     position: relative;
     width: 358px;
     height: 396.5px;
@@ -1054,6 +1158,12 @@
     overflow-y: hidden;
     padding: 30px 24px;
     border-radius: 16px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    --border-color: rgb(31, 31, 31);
+    --border-style: solid;
   }
   .imageContainer4 {
     display: flex;
@@ -1070,8 +1180,14 @@
     overflow-y: hidden;
     flex-shrink: 0;
     border-radius: 12px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    --border-color: rgb(30, 30, 30);
+    --border-style: solid;
   }
-  .r85 {
+  .r87 {
     position: absolute;
     top: 0px;
     right: 0px;
@@ -1081,7 +1197,7 @@
     height: 250px;
     border-radius: 12px;
   }
-  .r86 {
+  .r88 {
     width: 310px;
     height: 250px;
     overflow: clip;
@@ -1104,8 +1220,14 @@
     border-radius: 12px 12px 0px 0px;
     flex-shrink: 0;
     padding: 8px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 0px;
+    --border-left-width: 1px;
+    --border-color: rgb(31, 31, 31);
+    --border-style: solid;
   }
-  .image3 {
+  .image5 {
     position: relative;
     width: 76px;
     height: 52px;
@@ -1114,8 +1236,14 @@
     flex-basis: 0px;
     cursor: pointer;
     border-radius: 6px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    --border-color: rgb(46, 46, 46);
+    --border-style: solid;
   }
-  .r89 {
+  .r91 {
     position: absolute;
     top: 0px;
     right: 0px;
@@ -1125,7 +1253,7 @@
     height: 52px;
     border-radius: 6px;
   }
-  .r90 {
+  .r92 {
     width: 76px;
     height: 52px;
     overflow: clip;
@@ -1145,7 +1273,17 @@
     flex-shrink: 0;
     border-radius: 6px;
   }
-  .r92 {
+  .image6 {
+    position: relative;
+    width: 76px;
+    height: 52px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 0px;
+    cursor: pointer;
+    border-radius: 6px;
+  }
+  .r95 {
     width: 76px;
     height: 52px;
     overflow: clip;
@@ -1197,7 +1335,7 @@
     white-space: pre;
     flex-shrink: 0;
   }
-  .r97 {
+  .r100 {
     width: 59.625px;
     height: 30px;
     color: rgb(255, 255, 255);
@@ -1206,7 +1344,7 @@
     font-weight: 600;
     line-height: 30px;
   }
-  .r98 {
+  .r101 {
     position: relative;
     width: 95.0469px;
     height: 37.5px;
@@ -1226,6 +1364,12 @@
     cursor: pointer;
     padding: 6px 14px;
     border-radius: 53px;
+    --border-top-width: 1px;
+    --border-right-width: 1px;
+    --border-bottom-width: 1px;
+    --border-left-width: 1px;
+    --border-color: rgb(38, 38, 38);
+    --border-style: solid;
   }
   .text4 {
     display: flex;
@@ -1237,7 +1381,7 @@
     white-space: pre;
     flex-shrink: 0;
   }
-  .r101 {
+  .r104 {
     width: 43.0469px;
     height: 25.5px;
     color: rgb(242, 242, 243);
@@ -1264,7 +1408,7 @@
     height: 20px;
     flex-shrink: 0;
   }
-  .r104 {
+  .r107 {
     position: absolute;
     top: 0px;
     right: 0px;
@@ -1273,7 +1417,7 @@
     width: 20px;
     height: 20px;
   }
-  .r105 {
+  .r108 {
     width: 20px;
     height: 20px;
     overflow: clip;
@@ -1293,7 +1437,7 @@
     flex-shrink: 0;
     word-break: break-word;
   }
-  .r107 {
+  .r110 {
     width: 310px;
     height: 27px;
     color: rgb(150, 151, 156);
@@ -1311,7 +1455,7 @@
     white-space: pre;
     flex-shrink: 0;
   }
-  .r109 {
+  .r112 {
     width: 80.4531px;
     height: 30px;
     color: rgb(255, 255, 255);

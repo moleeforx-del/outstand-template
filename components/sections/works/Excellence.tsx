@@ -7,7 +7,7 @@ export default function Excellence() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/LcK8wI8w8P2db6VMeBsr9EfZRiI.svg" alt="Icon" width={21} height={20} />
@@ -37,8 +37,8 @@ export default function Excellence() {
         <div className={styles.subContainer}>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <a className={styles.awardCard} href="https://awardsinternational.com/" target="_blank" rel="noreferrer">
-                <div className={styles.iconWrap}>
+              <a className={styles.awardCard} data-border="true" href="https://awardsinternational.com/" target="_blank" rel="noreferrer">
+                <div className={styles.iconWrap} data-border="true">
                   <div className={styles.icon2}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/isNTtNJd2V8vOFeLhFvftNtZSI.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -57,7 +57,7 @@ export default function Excellence() {
                     </p>
                   </div>
                 </div>
-                <div className={styles.iconContainer}>
+                <div className={styles.iconContainer} data-border="true">
                   <div className={styles.iconWrap2}>
                     <div className={styles.icon3}>
                       <div className={styles.r6}>
@@ -76,8 +76,8 @@ export default function Excellence() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <a className={styles.awardCard} href="https://awardsinternational.com/" target="_blank" rel="noreferrer">
-                <div className={styles.iconWrap}>
+              <a className={styles.awardCard} data-border="true" href="https://awardsinternational.com/" target="_blank" rel="noreferrer">
+                <div className={styles.iconWrap} data-border="true">
                   <div className={styles.icon2}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/dYJ5SOM19UC13hjrZO6XNrZFY.svg" alt="Icon" width={29} height={28} />
@@ -96,7 +96,7 @@ export default function Excellence() {
                     </p>
                   </div>
                 </div>
-                <div className={styles.iconContainer}>
+                <div className={styles.iconContainer} data-border="true">
                   <div className={styles.iconWrap2}>
                     <div className={styles.icon3}>
                       <div className={styles.r6}>
@@ -115,8 +115,8 @@ export default function Excellence() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <a className={styles.awardCard} href="https://awardsinternational.com/" target="_blank" rel="noreferrer">
-                <div className={styles.iconWrap}>
+              <a className={styles.awardCard} data-border="true" href="https://awardsinternational.com/" target="_blank" rel="noreferrer">
+                <div className={styles.iconWrap} data-border="true">
                   <div className={styles.icon2}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/MjMbUt9NJPQ4Av2ixKxYGMExgU.svg" alt="Icon" width={29} height={28} />
@@ -135,7 +135,7 @@ export default function Excellence() {
                     </p>
                   </div>
                 </div>
-                <div className={styles.iconContainer}>
+                <div className={styles.iconContainer} data-border="true">
                   <div className={styles.iconWrap2}>
                     <div className={styles.icon3}>
                       <div className={styles.r6}>
@@ -154,8 +154,8 @@ export default function Excellence() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <a className={styles.awardCard} href="https://awardsinternational.com/" target="_blank" rel="noreferrer">
-                <div className={styles.iconWrap}>
+              <a className={styles.awardCard} data-border="true" href="https://awardsinternational.com/" target="_blank" rel="noreferrer">
+                <div className={styles.iconWrap} data-border="true">
                   <div className={styles.icon2}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/xdHFwM3DsDoLRcxz7VQyOVO4J9A.svg" alt="Icon" width={29} height={28} />
@@ -174,7 +174,7 @@ export default function Excellence() {
                     </p>
                   </div>
                 </div>
-                <div className={styles.iconContainer}>
+                <div className={styles.iconContainer} data-border="true">
                   <div className={styles.iconWrap2}>
                     <div className={styles.icon3}>
                       <div className={styles.r6}>

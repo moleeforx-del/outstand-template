@@ -7,7 +7,7 @@ export default function Careers() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/zpPFJWGaV8uPaBugMXDbdfE00.svg" alt="Icon" width={20} height={20} />
@@ -34,11 +34,11 @@ export default function Careers() {
             </div>
           </div>
         </div>
-        <div className={styles.subContainer}>
+        <div className={styles.subContainer} data-border="true">
           <div className={styles.subContainer2}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <a className={styles.careersCard} href="https://in.indeed.com/" target="_blank" rel="noreferrer">
+                <a className={styles.careersCard} data-border="true" href="https://in.indeed.com/" target="_blank" rel="noreferrer">
                   <div className={styles.textContainer2}>
                     <div className={styles.role}>
                       <h3 className={styles.r21}>
@@ -51,7 +51,7 @@ export default function Careers() {
                       </p>
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.iconWrap}>
                       <div className={styles.icon2}>
                         <div className={styles.r6}>
@@ -70,7 +70,7 @@ export default function Careers() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <a className={styles.careersCard} href="https://in.indeed.com/" target="_blank" rel="noreferrer">
+                <a className={styles.careersCard} data-border="true" href="https://in.indeed.com/" target="_blank" rel="noreferrer">
                   <div className={styles.textContainer2}>
                     <div className={styles.role}>
                       <h3 className={styles.r21}>
@@ -83,7 +83,7 @@ export default function Careers() {
                       </p>
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.iconWrap}>
                       <div className={styles.icon2}>
                         <div className={styles.r6}>
@@ -102,7 +102,7 @@ export default function Careers() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <a className={styles.careersCard} href="https://in.indeed.com/" target="_blank" rel="noreferrer">
+                <a className={styles.careersCard} data-border="true" href="https://in.indeed.com/" target="_blank" rel="noreferrer">
                   <div className={styles.textContainer2}>
                     <div className={styles.role}>
                       <h3 className={styles.r21}>
@@ -115,7 +115,7 @@ export default function Careers() {
                       </p>
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.iconWrap}>
                       <div className={styles.icon2}>
                         <div className={styles.r6}>
@@ -134,7 +134,7 @@ export default function Careers() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <a className={styles.careersCard} href="https://in.indeed.com/" target="_blank" rel="noreferrer">
+                <a className={styles.careersCard} data-border="true" href="https://in.indeed.com/" target="_blank" rel="noreferrer">
                   <div className={styles.textContainer2}>
                     <div className={styles.role}>
                       <h3 className={styles.r21}>
@@ -147,7 +147,7 @@ export default function Careers() {
                       </p>
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.iconWrap}>
                       <div className={styles.icon2}>
                         <div className={styles.r6}>

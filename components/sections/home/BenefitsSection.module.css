@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -190,6 +196,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   padding: 30px;
+  --border-top-width: 0px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 0px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
 }
 .r18 {
   display: flex;
@@ -208,6 +220,12 @@
   flex-shrink: 0;
   padding: 14px;
   border-radius: 10px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .iconContainer {
   position: relative;
@@ -291,6 +309,138 @@
   line-height: 27px;
   letter-spacing: 0.36px;
   text-align: center;
+}
+.desktopTablet2 {
+  display: flex;
+  position: relative;
+  width: 285px;
+  height: 253px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  row-gap: 24px;
+  column-gap: 24px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding: 30px;
+  --border-top-width: 0px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 0px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
+}
+.desktopTablet3 {
+  display: flex;
+  position: relative;
+  width: 285px;
+  height: 253px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  row-gap: 24px;
+  column-gap: 24px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding: 30px;
+  --border-top-width: 0px;
+  --border-right-width: 0px;
+  --border-bottom-width: 1px;
+  --border-left-width: 0px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
+}
+.desktopTablet4 {
+  display: flex;
+  position: relative;
+  width: 285px;
+  height: 253px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  row-gap: 24px;
+  column-gap: 24px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding: 30px;
+  --border-top-width: 0px;
+  --border-right-width: 1px;
+  --border-bottom-width: 0px;
+  --border-left-width: 0px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
+}
+.desktopTablet5 {
+  display: flex;
+  position: relative;
+  width: 285px;
+  height: 253px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  row-gap: 24px;
+  column-gap: 24px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding: 30px;
+  --border-top-width: 0px;
+  --border-right-width: 1px;
+  --border-bottom-width: 0px;
+  --border-left-width: 0px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
+}
+.desktopTablet6 {
+  display: flex;
+  position: relative;
+  width: 285px;
+  height: 253px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  row-gap: 24px;
+  column-gap: 24px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding: 30px;
+  --border-top-width: 0px;
+  --border-right-width: 1px;
+  --border-bottom-width: 0px;
+  --border-left-width: 0px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
+}
+.desktopTablet7 {
+  display: flex;
+  position: relative;
+  width: 285px;
+  height: 253px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  row-gap: 24px;
+  column-gap: 24px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding: 30px;
+  --border-top-width: 0px;
+  --border-right-width: 0px;
+  --border-bottom-width: 0px;
+  --border-left-width: 0px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
 }
 
 @media (max-width: 1319px) {
@@ -376,6 +526,34 @@
     line-height: 25.5px;
     letter-spacing: 0.34px;
   }
+  .desktopTablet2 {
+    width: 390px;
+    height: 220px;
+    --border-right-width: 0px;
+  }
+  .desktopTablet3 {
+    width: 390px;
+    height: 220px;
+  }
+  .desktopTablet4 {
+    width: 390px;
+    height: 220px;
+    --border-bottom-width: 1px;
+  }
+  .desktopTablet5 {
+    width: 390px;
+    height: 220px;
+    --border-right-width: 0px;
+    --border-bottom-width: 1px;
+  }
+  .desktopTablet6 {
+    width: 390px;
+    height: 220px;
+  }
+  .desktopTablet7 {
+    width: 390px;
+    height: 220px;
+  }
 }
 
 @media (max-width: 809px) {
@@ -428,6 +606,7 @@
   }
   .desktopTablet {
     width: 358px;
+    --border-right-width: 0px;
   }
   .textContainer2 {
     width: 298px;
@@ -443,5 +622,26 @@
   }
   .r26 {
     width: 298px;
+  }
+  .desktopTablet2 {
+    width: 358px;
+  }
+  .desktopTablet3 {
+    width: 358px;
+  }
+  .desktopTablet4 {
+    width: 358px;
+    --border-right-width: 0px;
+  }
+  .desktopTablet5 {
+    width: 358px;
+  }
+  .desktopTablet6 {
+    width: 358px;
+    --border-right-width: 0px;
+    --border-bottom-width: 1px;
+  }
+  .desktopTablet7 {
+    width: 358px;
   }
 }

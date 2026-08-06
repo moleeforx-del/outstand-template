@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -204,6 +210,12 @@
   overflow-y: hidden;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .container {
   display: flex;
@@ -236,6 +248,12 @@
   flex-shrink: 0;
   flex-basis: 0px;
   border-radius: 12px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .r21 {
   position: absolute;
@@ -270,6 +288,12 @@
   border-radius: 12px 12px 0px 0px;
   flex-shrink: 0;
   padding: 8px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 0px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .image {
   position: relative;
@@ -283,6 +307,12 @@
   flex-basis: 0px;
   cursor: pointer;
   border-radius: 6px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(45, 45, 45);
+  --border-style: solid;
 }
 .r25 {
   position: absolute;
@@ -364,6 +394,12 @@
   cursor: pointer;
   padding: 12px 20px;
   border-radius: 50px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .content {
   display: flex;
@@ -547,6 +583,12 @@
   flex-shrink: 0;
   padding: 8px 14px 8px 10px;
   border-radius: 100px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .r49 {
   width: 20px;
@@ -590,6 +632,12 @@
   flex-shrink: 0;
   padding: 20px 24px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .heading3 {
   display: flex;
@@ -655,6 +703,12 @@
   overflow-y: hidden;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .container6 {
   display: flex;
@@ -687,6 +741,12 @@
   flex-shrink: 0;
   flex-basis: 0px;
   border-radius: 12px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .r79 {
   position: absolute;
@@ -835,6 +895,12 @@
   flex-shrink: 0;
   padding: 8px 14px 8px 10px;
   border-radius: 100px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .text8 {
   display: flex;
@@ -876,6 +942,12 @@
   overflow-y: hidden;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .content3 {
   display: flex;
@@ -1004,6 +1076,12 @@
   flex-shrink: 0;
   padding: 8px 14px 8px 10px;
   border-radius: 100px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .text11 {
   display: flex;

@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -223,6 +229,12 @@
   cursor: pointer;
   padding: 6px 28px 6px 6px;
   border-radius: 50px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 .ellipse2 {
   position: relative;
@@ -383,6 +395,12 @@
   flex-basis: 0px;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .textContainer2 {
   display: flex;
@@ -530,6 +548,12 @@
   column-gap: 8px;
   background-color: rgba(20, 20, 20, 0);
   border-radius: 8px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgba(31, 31, 31, 0);
+  --border-style: solid;
 }
 .iconWrap {
   display: flex;
@@ -614,6 +638,12 @@
   cursor: pointer;
   padding: 14px 24px;
   border-radius: 53px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 .text6 {
   display: flex;
@@ -675,6 +705,12 @@
   flex-basis: 0px;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .textContainer4 {
   display: flex;
@@ -743,6 +779,12 @@
   flex-basis: 0px;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .itemsContainer3 {
   display: flex;
@@ -778,6 +820,12 @@
   flex-basis: 0px;
   padding: 30px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(205, 241, 64);
+  --border-style: solid;
 }
 .textContainer5 {
   display: flex;

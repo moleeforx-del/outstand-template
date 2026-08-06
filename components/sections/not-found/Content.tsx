@@ -17,7 +17,7 @@ export default function Content() {
           </div>
         </div>
         <div className={styles.container}>
-          <div className={styles.subContainer}>
+          <div className={styles.subContainer} data-border="true">
             <div className={styles.icon}>
               <div className={styles.r8}>
                 <Image className={styles.r9} src="/assets/media/9JbQup0JpXX2kHBRAM0xthpNZo.svg" alt="Icon" width={21} height={21} />

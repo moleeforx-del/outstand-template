@@ -7,7 +7,7 @@ export default function Portfolio() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/YgL07mB2LboyYkJm8HS8kaxOFSs.svg" alt="Icon" width={20} height={20} />
@@ -38,14 +38,14 @@ export default function Portfolio() {
           <div className={styles.r16}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.desktop1}>
+                <div className={styles.desktop1} data-border="true">
                   <div className={styles.container}>
-                    <div className={styles.imageContainer}>
+                    <div className={styles.imageContainer} data-border="true">
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={350} height={243} />
                       </div>
-                      <div className={styles.tabsContainer}>
-                        <div className={styles.image}>
+                      <div className={styles.tabsContainer} data-border="true">
+                        <div className={styles.image} data-border="true">
                           <div className={styles.r25}>
                             <Image className={styles.r26} src="/assets/media/p3la5ETXsyJiUSfxQ2dV6kWdpVs.png" alt="Project Image" width={76} height={52} />
                           </div>
@@ -66,7 +66,7 @@ export default function Portfolio() {
                       </div>
                     </div>
                     <div className={styles.r31}>
-                      <a className={styles.projectButton} href="https://gency.framer.website/" target="_blank" rel="noreferrer">
+                      <a className={styles.projectButton} data-border="true" href="https://gency.framer.website/" target="_blank" rel="noreferrer">
                         <div className={styles.content}>
                           <div className={styles.contentWrap}>
                             <div className={styles.icon}>
@@ -106,7 +106,7 @@ export default function Portfolio() {
                         </p>
                       </div>
                     </div>
-                    <div className={`${styles.subContainer4} ${styles.onlyDesktop}`}>
+                    <div className={`${styles.subContainer4} ${styles.onlyDesktop}`} data-border="true">
                       <div className={styles.icon}>
                         <div className={styles.r6}>
                           <Image className={styles.r49} src="/assets/media/G8AGAjAQzkvlkCobrX7VCBZbT70.svg" alt="Icon" width={20} height={20} />
@@ -118,7 +118,7 @@ export default function Portfolio() {
                         </p>
                       </div>
                     </div>
-                    <div className={`${styles.textContainer2} ${styles.onlyDesktop}`}>
+                    <div className={`${styles.textContainer2} ${styles.onlyDesktop}`} data-border="true">
                       <div className={styles.heading3}>
                         <h4 className={styles.r54}>
                           Result
@@ -178,14 +178,14 @@ export default function Portfolio() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r75}>
-                <div className={styles.desktop12}>
+                <div className={styles.desktop12} data-border="true">
                   <div className={styles.container6}>
-                    <div className={styles.imageContainer2}>
+                    <div className={styles.imageContainer2} data-border="true">
                       <div className={styles.r79}>
                         <Image className={styles.r80} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={350} height={243} />
                       </div>
-                      <div className={styles.tabsContainer}>
-                        <div className={styles.image}>
+                      <div className={styles.tabsContainer} data-border="true">
+                        <div className={styles.image} data-border="true">
                           <div className={styles.r25}>
                             <Image className={styles.r26} src="/assets/media/0YzCMxaSMGzVhwAth1njO5JLo.png" alt="Project Image" width={76} height={52} />
                           </div>
@@ -206,7 +206,7 @@ export default function Portfolio() {
                       </div>
                     </div>
                     <div className={styles.r31}>
-                      <a className={styles.projectButton} href="https://landfree.framer.website/" target="_blank" rel="noreferrer">
+                      <a className={styles.projectButton} data-border="true" href="https://landfree.framer.website/" target="_blank" rel="noreferrer">
                         <div className={styles.content2}>
                           <div className={styles.contentWrap2}>
                             <div className={styles.icon}>
@@ -246,7 +246,7 @@ export default function Portfolio() {
                         </p>
                       </div>
                     </div>
-                    <div className={`${styles.subContainer10} ${styles.onlyDesktop}`}>
+                    <div className={`${styles.subContainer10} ${styles.onlyDesktop}`} data-border="true">
                       <div className={styles.icon}>
                         <div className={styles.r6}>
                           <Image className={styles.r49} src="/assets/media/G8AGAjAQzkvlkCobrX7VCBZbT70.svg" alt="Icon" width={20} height={20} />
@@ -258,7 +258,7 @@ export default function Portfolio() {
                         </p>
                       </div>
                     </div>
-                    <div className={`${styles.textContainer2} ${styles.onlyDesktop}`}>
+                    <div className={`${styles.textContainer2} ${styles.onlyDesktop}`} data-border="true">
                       <div className={styles.heading3}>
                         <h4 className={styles.r54}>
                           Result
@@ -318,14 +318,14 @@ export default function Portfolio() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r98}>
-                <div className={styles.desktop13}>
+                <div className={styles.desktop13} data-border="true">
                   <div className={styles.container6}>
-                    <div className={styles.imageContainer2}>
+                    <div className={styles.imageContainer2} data-border="true">
                       <div className={styles.r79}>
                         <Image className={styles.r80} src="/assets/media/aanSMSnXl8oHQVUGs2YSODT7LhM.png" alt="Project Image" width={350} height={243} />
                       </div>
-                      <div className={styles.tabsContainer}>
-                        <div className={styles.image}>
+                      <div className={styles.tabsContainer} data-border="true">
+                        <div className={styles.image} data-border="true">
                           <div className={styles.r25}>
                             <Image className={styles.r26} src="/assets/media/aanSMSnXl8oHQVUGs2YSODT7LhM.png" alt="Project Image" width={76} height={52} />
                           </div>
@@ -346,7 +346,7 @@ export default function Portfolio() {
                       </div>
                     </div>
                     <div className={styles.r31}>
-                      <a className={styles.projectButton} href="https://waitlista.framer.website/" target="_blank" rel="noreferrer">
+                      <a className={styles.projectButton} data-border="true" href="https://waitlista.framer.website/" target="_blank" rel="noreferrer">
                         <div className={styles.content3}>
                           <div className={styles.contentWrap3}>
                             <div className={styles.icon}>
@@ -386,7 +386,7 @@ export default function Portfolio() {
                         </p>
                       </div>
                     </div>
-                    <div className={`${styles.subContainer12} ${styles.onlyDesktop}`}>
+                    <div className={`${styles.subContainer12} ${styles.onlyDesktop}`} data-border="true">
                       <div className={styles.icon}>
                         <div className={styles.r6}>
                           <Image className={styles.r49} src="/assets/media/G8AGAjAQzkvlkCobrX7VCBZbT70.svg" alt="Icon" width={20} height={20} />
@@ -398,7 +398,7 @@ export default function Portfolio() {
                         </p>
                       </div>
                     </div>
-                    <div className={`${styles.textContainer2} ${styles.onlyDesktop}`}>
+                    <div className={`${styles.textContainer2} ${styles.onlyDesktop}`} data-border="true">
                       <div className={styles.heading3}>
                         <h4 className={styles.r54}>
                           Result

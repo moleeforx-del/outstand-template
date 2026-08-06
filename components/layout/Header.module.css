@@ -25,10 +25,19 @@
 }
 
 .bar {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex: 1 0 0;
+  /* Border is painted by the [data-border] ::after rule in globals.css, so it
+   * sits inside the box and follows the 50px radius. */
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
   width: 936px;
   max-width: 936px;
   height: 83px;
@@ -90,8 +99,15 @@
 }
 
 .tabActive {
+  position: relative;
   background-color: var(--color-ink-850);
   color: var(--color-white);
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 
 /* ---- "All pages" dropdown ------------------------------------------ */

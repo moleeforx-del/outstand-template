@@ -7,7 +7,7 @@ export default function KeyFeatures() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/CATPIZzB7Cpdua0pawm4Rflc0.svg" alt="Icon" width={21} height={20} />
@@ -38,8 +38,8 @@ export default function KeyFeatures() {
           <div className={styles.container}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.tablet}>
-                  <div className={styles.iconContainer}>
+                <div className={styles.tablet} data-border="true">
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/CBmOgAnexNM95avuCV5yAqNY.svg" alt="Icon" width={24} height={24} />
@@ -69,8 +69,8 @@ export default function KeyFeatures() {
             <div className={styles.subContainer2}>
               <div className={styles.r1}>
                 <div className={styles.r32}>
-                  <div className={styles.noImage}>
-                    <div className={styles.iconContainer}>
+                  <div className={styles.noImage} data-border="true">
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r21}>
                           <Image className={styles.r22} src="/assets/media/EtUt4dE9Qq1CfTNHrv5GlJRIR4.svg" alt="Icon" width={24} height={24} />
@@ -94,8 +94,8 @@ export default function KeyFeatures() {
               </div>
               <div className={styles.r1}>
                 <div className={styles.r32}>
-                  <div className={styles.noImage}>
-                    <div className={styles.iconContainer}>
+                  <div className={styles.noImage} data-border="true">
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r21}>
                           <Image className={styles.r22} src="/assets/media/1za2KZAbXQ3Vdi3TPz3PO0P6IUg.svg" alt="Icon" width={24} height={24} />
@@ -123,8 +123,8 @@ export default function KeyFeatures() {
             <div className={styles.subContainer3}>
               <div className={styles.r1}>
                 <div className={styles.r41}>
-                  <div className={styles.noImage2}>
-                    <div className={styles.iconContainer}>
+                  <div className={styles.noImage2} data-border="true">
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r21}>
                           <Image className={styles.r22} src="/assets/media/zgsf9HuO6ahvWmH7TiSlo603eU.svg" alt="Icon" width={24} height={24} />
@@ -148,8 +148,8 @@ export default function KeyFeatures() {
               </div>
               <div className={styles.r1}>
                 <div className={styles.r46}>
-                  <div className={styles.noImage3}>
-                    <div className={styles.iconContainer}>
+                  <div className={styles.noImage3} data-border="true">
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r21}>
                           <Image className={styles.r22} src="/assets/media/oUvN49Ctu2IChXmom9uSHgXwUE.svg" alt="Icon" width={24} height={24} />
@@ -174,8 +174,8 @@ export default function KeyFeatures() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r48}>
-                <div className={styles.tablet2}>
-                  <div className={styles.iconContainer}>
+                <div className={styles.tablet2} data-border="true">
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/9S6VY8NoE6wgrzZwVwwEFY8ukQ.svg" alt="Icon" width={24} height={24} />

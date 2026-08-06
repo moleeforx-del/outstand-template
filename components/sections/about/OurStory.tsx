@@ -7,7 +7,7 @@ export default function OurStory() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/nHQWAkLjayQoAbLHLxTToqw5Yc.svg" alt="Icon" width={21} height={20} />
@@ -37,7 +37,7 @@ export default function OurStory() {
         <div className={styles.container}>
           <div className={styles.subContainer}>
             <div className={styles.container2}>
-              <div className={styles.card}>
+              <div className={styles.card} data-border="true">
                 <div className={styles.number}>
                   <p className={styles.r20}>
                     2002
@@ -56,7 +56,7 @@ export default function OurStory() {
                   </div>
                 </div>
               </div>
-              <div className={styles.card2}>
+              <div className={styles.card2} data-border="true">
                 <div className={styles.number2}>
                   <p className={styles.r28}>
                     2012
@@ -75,7 +75,7 @@ export default function OurStory() {
                   </div>
                 </div>
               </div>
-              <div className={styles.card}>
+              <div className={styles.card} data-border="true">
                 <div className={styles.number}>
                   <p className={styles.r20}>
                     2022

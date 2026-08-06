@@ -4,10 +4,10 @@ import styles from './ContactUs.module.css';
 export default function ContactUs() {
   return (
       <section className={styles.contactUs}>
-        <div className={styles.container}>
+        <div className={styles.container} data-border="true">
           <div className={styles.subContainer}>
             <div className={styles.container2}>
-              <div className={styles.subContainer2}>
+              <div className={styles.subContainer2} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/alurETgX7LlRhCOuHGL6QCmQzQ.svg" alt="Icon" width={100} height={100} />
@@ -85,9 +85,9 @@ export default function ContactUs() {
           <div className={styles.subContainer3}>
             <div className={styles.r11}>
               <div className={styles.r36}>
-                <a className={styles.big} href="https://x.com" target="_blank" rel="noreferrer">
+                <a className={styles.big} data-border="true" href="https://x.com" target="_blank" rel="noreferrer">
                   <div className={`${styles.container4} ${styles.onlyDesktop}`}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r41}>
                           <Image className={styles.r42} src="/assets/media/ElPLUeA4RWOXMjhJYzlFIyFIE.svg" alt="X Logo" width={24} height={24} />
@@ -122,7 +122,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                   <div className={`${styles.container5} ${styles.onlyTablet}`}>
-                    <div className={styles.iconContainer2}>
+                    <div className={styles.iconContainer2} data-border="true">
                       <div className={styles.icon5}>
                         <div className={styles.r55}>
                           <Image className={styles.r56} src="/assets/media/ElPLUeA4RWOXMjhJYzlFIyFIE.svg" alt="X Logo" width={24} height={24} />
@@ -157,7 +157,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                   <div className={`${styles.container6} ${styles.onlyPhone}`}>
-                    <div className={styles.iconContainer3}>
+                    <div className={styles.iconContainer3} data-border="true">
                       <div className={styles.icon8}>
                         <div className={styles.r70}>
                           <Image className={styles.r71} src="/assets/media/ElPLUeA4RWOXMjhJYzlFIyFIE.svg" alt="X Logo" width={24} height={24} />
@@ -170,9 +170,9 @@ export default function ContactUs() {
             </div>
             <div className={styles.r11}>
               <div className={styles.r36}>
-                <a className={styles.big} href="https://www.instagram.com/" target="_blank" rel="noreferrer">
+                <a className={styles.big} data-border="true" href="https://www.instagram.com/" target="_blank" rel="noreferrer">
                   <div className={`${styles.container4} ${styles.onlyDesktop}`}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r41}>
                           <Image className={styles.r42} src="/assets/media/nu1ulyKY4euAxK15RWC71p3oVE.svg" alt="Instagram Logo" width={24} height={24} />
@@ -207,7 +207,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                   <div className={`${styles.container5} ${styles.onlyTablet}`}>
-                    <div className={styles.iconContainer2}>
+                    <div className={styles.iconContainer2} data-border="true">
                       <div className={styles.icon5}>
                         <div className={styles.r55}>
                           <Image className={styles.r56} src="/assets/media/nu1ulyKY4euAxK15RWC71p3oVE.svg" alt="Instagram Logo" width={24} height={24} />
@@ -242,7 +242,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                   <div className={`${styles.container6} ${styles.onlyPhone}`}>
-                    <div className={styles.iconContainer3}>
+                    <div className={styles.iconContainer3} data-border="true">
                       <div className={styles.icon8}>
                         <div className={styles.r70}>
                           <Image className={styles.r71} src="/assets/media/nu1ulyKY4euAxK15RWC71p3oVE.svg" alt="Instagram Logo" width={24} height={24} />
@@ -255,9 +255,9 @@ export default function ContactUs() {
             </div>
             <div className={styles.r11}>
               <div className={styles.r36}>
-                <a className={styles.big} href="https://in.linkedin.com/" target="_blank" rel="noreferrer">
+                <a className={styles.big} data-border="true" href="https://in.linkedin.com/" target="_blank" rel="noreferrer">
                   <div className={`${styles.container4} ${styles.onlyDesktop}`}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r41}>
                           <Image className={styles.r42} src="/assets/media/nUE7eA6TM5rfZdcybrR7ANqD8.svg" alt="Linkdeln Logo" width={24} height={24} />
@@ -292,7 +292,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                   <div className={`${styles.container5} ${styles.onlyTablet}`}>
-                    <div className={styles.iconContainer2}>
+                    <div className={styles.iconContainer2} data-border="true">
                       <div className={styles.icon5}>
                         <div className={styles.r55}>
                           <Image className={styles.r56} src="/assets/media/nUE7eA6TM5rfZdcybrR7ANqD8.svg" alt="Linkdeln Logo" width={24} height={24} />
@@ -327,7 +327,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                   <div className={`${styles.container6} ${styles.onlyPhone}`}>
-                    <div className={styles.iconContainer3}>
+                    <div className={styles.iconContainer3} data-border="true">
                       <div className={styles.icon8}>
                         <div className={styles.r70}>
                           <Image className={styles.r71} src="/assets/media/nUE7eA6TM5rfZdcybrR7ANqD8.svg" alt="Linkdeln Logo" width={24} height={24} />
@@ -340,9 +340,9 @@ export default function ContactUs() {
             </div>
             <div className={styles.r11}>
               <div className={styles.r36}>
-                <a className={styles.big} href="https://www.facebook.com/" target="_blank" rel="noreferrer">
+                <a className={styles.big} data-border="true" href="https://www.facebook.com/" target="_blank" rel="noreferrer">
                   <div className={`${styles.container4} ${styles.onlyDesktop}`}>
-                    <div className={styles.iconContainer}>
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r41}>
                           <Image className={styles.r42} src="/assets/media/24iKj0UJV2woUKu6kGEcrZfF2g.svg" alt="Facbook Logo" width={24} height={24} />
@@ -377,7 +377,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                   <div className={`${styles.container5} ${styles.onlyTablet}`}>
-                    <div className={styles.iconContainer2}>
+                    <div className={styles.iconContainer2} data-border="true">
                       <div className={styles.icon5}>
                         <div className={styles.r55}>
                           <Image className={styles.r56} src="/assets/media/24iKj0UJV2woUKu6kGEcrZfF2g.svg" alt="Facbook Logo" width={24} height={24} />
@@ -412,7 +412,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                   <div className={`${styles.container6} ${styles.onlyPhone}`}>
-                    <div className={styles.iconContainer3}>
+                    <div className={styles.iconContainer3} data-border="true">
                       <div className={styles.icon8}>
                         <div className={styles.r70}>
                           <Image className={styles.r71} src="/assets/media/24iKj0UJV2woUKu6kGEcrZfF2g.svg" alt="Facbook Logo" width={24} height={24} />

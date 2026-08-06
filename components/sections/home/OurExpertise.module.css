@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -188,6 +194,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .imageContainer {
   display: flex;
@@ -294,6 +306,12 @@
   flex-shrink: 0;
   padding: 14px;
   border-radius: 10px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 .r26 {
   position: relative;
@@ -380,6 +398,12 @@
   flex-shrink: 0;
   padding: 16px 40px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 .textContainer2 {
   display: flex;
@@ -443,6 +467,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(64, 64, 64);
+  --border-style: dashed;
 }
 .textContainer3 {
   display: flex;
@@ -570,6 +600,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .textContainer5 {
   display: flex;
@@ -773,6 +809,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .cardsOurExpertise2 {
   display: flex;
@@ -947,6 +989,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .textContainer11 {
   display: flex;

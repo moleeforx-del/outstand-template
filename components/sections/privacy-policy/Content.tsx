@@ -18,7 +18,7 @@ export default function Content() {
         <div className={styles.privacyPolicy}>
           <div className={styles.subContainer}>
             <div className={styles.container}>
-              <div className={styles.subContainer2}>
+              <div className={styles.subContainer2} data-border="true">
                 <div className={styles.text}>
                   <p className={styles.r10}>
                     Privacy Policy
@@ -38,7 +38,7 @@ export default function Content() {
                 </div>
               </div>
             </div>
-            <div className={styles.container2}>
+            <div className={styles.container2} data-border="true">
               <div className={styles.icon}>
                 <div className={styles.r18}>
                   <Image className={styles.r19} src="/assets/media/yG8AFadFqhY2Dgkb8ijRb3zrxyQ.svg" alt="Icon" width={21} height={20} />
@@ -51,8 +51,8 @@ export default function Content() {
               </div>
             </div>
           </div>
-          <div className={styles.subContainer3}>
-            <div className={styles.textContainer2}>
+          <div className={styles.subContainer3} data-border="true">
+            <div className={styles.textContainer2} data-border="true">
               <div className={styles.heading2}>
                 <h3 className={styles.r25}>
                   Information We Collect
@@ -64,7 +64,7 @@ export default function Content() {
                 </p>
               </div>
             </div>
-            <div className={styles.textContainer3}>
+            <div className={styles.textContainer3} data-border="true">
               <div className={styles.textContainer4}>
                 <div className={styles.heading2}>
                   <h3 className={styles.r25}>
@@ -102,7 +102,7 @@ export default function Content() {
                 </ol>
               </div>
             </div>
-            <div className={styles.textContainer5}>
+            <div className={styles.textContainer5} data-border="true">
               <div className={styles.heading2}>
                 <h3 className={styles.r25}>
                   Data Security
@@ -114,7 +114,7 @@ export default function Content() {
                 </p>
               </div>
             </div>
-            <div className={styles.textContainer6}>
+            <div className={styles.textContainer6} data-border="true">
               <div className={styles.heading2}>
                 <h3 className={styles.r25}>
                   Third-Party Disclosure
@@ -126,7 +126,7 @@ export default function Content() {
                 </p>
               </div>
             </div>
-            <div className={styles.textContainer7}>
+            <div className={styles.textContainer7} data-border="true">
               <div className={styles.heading2}>
                 <h3 className={styles.r25}>
                   Cookies
@@ -138,7 +138,7 @@ export default function Content() {
                 </p>
               </div>
             </div>
-            <div className={styles.textContainer8}>
+            <div className={styles.textContainer8} data-border="true">
               <div className={styles.heading3}>
                 <h3 className={styles.r50}>
                   Changes to this Privacy Policy
@@ -150,7 +150,7 @@ export default function Content() {
                 </p>
               </div>
             </div>
-            <div className={styles.textContainer9}>
+            <div className={styles.textContainer9} data-border="true">
               <div className={styles.heading2}>
                 <h3 className={styles.r25}>
                   Contact Us

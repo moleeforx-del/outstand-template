@@ -7,7 +7,7 @@ export default function Testimonials() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/4UuHx1t2aKqjnvwYvTc4IPto.svg" alt="Icon" width={21} height={20} />
@@ -39,7 +39,7 @@ export default function Testimonials() {
             <section className={styles.desktop}>
               <div className={styles.container}>
                 <div className={styles.r18}>
-                  <div className={styles.variant1}>
+                  <div className={styles.variant1} data-border="true">
                     <div className={styles.tittle}>
                       <p className={styles.r21}>
                         Happy!
@@ -52,7 +52,7 @@ export default function Testimonials() {
                     </div>
                     <div className={styles.line} />
                     <div className={styles.container2}>
-                      <div className={styles.image}>
+                      <div className={styles.image} data-border="true">
                         <div className={styles.r27}>
                           <Image className={styles.r28} src="/assets/media/6mtoTMpLvqMoeOq4akIClTxRFrs.png" alt="" width={90} height={91} aria-hidden="true" />
                         </div>
@@ -70,7 +70,7 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <div className={styles.r34}>
-                        <a className={styles.socialButton} href="https://x.com" target="_blank" rel="noreferrer">
+                        <a className={styles.socialButton} data-border="true" href="https://x.com" target="_blank" rel="noreferrer">
                           <div className={styles.icon2}>
                             <div className={styles.r37}>
                               <Image className={styles.r38} src="/assets/media/sFefJjAWEIdmoQ3d1qjPS6arc.svg" alt="X Logo" width={20} height={20} />
@@ -82,7 +82,7 @@ export default function Testimonials() {
                   </div>
                 </div>
                 <div className={styles.r18}>
-                  <div className={styles.variant1}>
+                  <div className={styles.variant1} data-border="true">
                     <div className={styles.tittle}>
                       <p className={styles.r21}>
                         Awesome!
@@ -95,7 +95,7 @@ export default function Testimonials() {
                     </div>
                     <div className={styles.line} />
                     <div className={styles.container2}>
-                      <div className={styles.image}>
+                      <div className={styles.image} data-border="true">
                         <div className={styles.r27}>
                           <Image className={styles.r28} src="/assets/media/FoV73ZPtu0yNnc42PPEWZOqb2BE.png" alt="Profile Image" width={91} height={91} />
                         </div>
@@ -113,7 +113,7 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <div className={styles.r34}>
-                        <a className={styles.socialButton} href="https://x.com" target="_blank" rel="noreferrer">
+                        <a className={styles.socialButton} data-border="true" href="https://x.com" target="_blank" rel="noreferrer">
                           <div className={styles.icon2}>
                             <div className={styles.r37}>
                               <Image className={styles.r38} src="/assets/media/sFefJjAWEIdmoQ3d1qjPS6arc.svg" alt="X Logo" width={20} height={20} />
@@ -125,7 +125,7 @@ export default function Testimonials() {
                   </div>
                 </div>
                 <div className={styles.r39}>
-                  <div className={styles.variant12}>
+                  <div className={styles.variant12} data-border="true">
                     <div className={styles.tittle2}>
                       <p className={styles.r42}>
                         Satisfied!
@@ -138,7 +138,7 @@ export default function Testimonials() {
                     </div>
                     <div className={styles.line2} />
                     <div className={styles.container3}>
-                      <div className={styles.image}>
+                      <div className={styles.image} data-border="true">
                         <div className={styles.r27}>
                           <Image className={styles.r28} src="/assets/media/NJcffCsB9H0MzF7bIa9JjDYtHE.png" alt="Profile Image" width={91} height={91} />
                         </div>
@@ -156,7 +156,7 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <div className={styles.r34}>
-                        <a className={styles.socialButton} href="https://x.com" target="_blank" rel="noreferrer">
+                        <a className={styles.socialButton} data-border="true" href="https://x.com" target="_blank" rel="noreferrer">
                           <div className={styles.icon2}>
                             <div className={styles.r37}>
                               <Image className={styles.r38} src="/assets/media/sFefJjAWEIdmoQ3d1qjPS6arc.svg" alt="X Logo" width={20} height={20} />
@@ -168,7 +168,7 @@ export default function Testimonials() {
                   </div>
                 </div>
                 <div className={styles.r18}>
-                  <div className={styles.variant1}>
+                  <div className={styles.variant1} data-border="true">
                     <div className={styles.tittle}>
                       <p className={styles.r21}>
                         Great!
@@ -181,7 +181,7 @@ export default function Testimonials() {
                     </div>
                     <div className={styles.line} />
                     <div className={styles.container2}>
-                      <div className={styles.image}>
+                      <div className={styles.image} data-border="true">
                         <div className={styles.r27}>
                           <Image className={styles.r28} src="/assets/media/OiJBHjwLbeTUBt5BlT9vx8w53aQ.png" alt="Profile Image" width={90} height={91} />
                         </div>
@@ -199,7 +199,7 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <div className={styles.r34}>
-                        <a className={styles.socialButton} href="https://x.com" target="_blank" rel="noreferrer">
+                        <a className={styles.socialButton} data-border="true" href="https://x.com" target="_blank" rel="noreferrer">
                           <div className={styles.icon2}>
                             <div className={styles.r37}>
                               <Image className={styles.r38} src="/assets/media/sFefJjAWEIdmoQ3d1qjPS6arc.svg" alt="X Logo" width={20} height={20} />
@@ -211,7 +211,7 @@ export default function Testimonials() {
                   </div>
                 </div>
                 <div className={styles.r18}>
-                  <div className={styles.variant1}>
+                  <div className={styles.variant1} data-border="true">
                     <div className={styles.tittle}>
                       <p className={styles.r21}>
                         Super happy!
@@ -224,7 +224,7 @@ export default function Testimonials() {
                     </div>
                     <div className={styles.line} />
                     <div className={styles.container2}>
-                      <div className={styles.image}>
+                      <div className={styles.image} data-border="true">
                         <div className={styles.r27}>
                           <Image className={styles.r28} src="/assets/media/OK9rgG78UDLvfLyRl4s9pJyuPXs.png" alt="Profile Image" width={91} height={91} />
                         </div>
@@ -242,7 +242,7 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <div className={styles.r34}>
-                        <a className={styles.socialButton} href="https://x.com" target="_blank" rel="noreferrer">
+                        <a className={styles.socialButton} data-border="true" href="https://x.com" target="_blank" rel="noreferrer">
                           <div className={styles.icon2}>
                             <div className={styles.r37}>
                               <Image className={styles.r38} src="/assets/media/sFefJjAWEIdmoQ3d1qjPS6arc.svg" alt="X Logo" width={20} height={20} />
@@ -254,7 +254,7 @@ export default function Testimonials() {
                   </div>
                 </div>
                 <div className={styles.r39}>
-                  <div className={styles.variant12}>
+                  <div className={styles.variant12} data-border="true">
                     <div className={styles.tittle2}>
                       <p className={styles.r42}>
                         Excellent!
@@ -267,7 +267,7 @@ export default function Testimonials() {
                     </div>
                     <div className={styles.line2} />
                     <div className={styles.container3}>
-                      <div className={styles.image}>
+                      <div className={styles.image} data-border="true">
                         <div className={styles.r27}>
                           <Image className={styles.r28} src="/assets/media/94yqXHJ5IrvPKBGu3v6Pyia9SHs.png" alt="Profile Image" width={91} height={91} />
                         </div>
@@ -285,7 +285,7 @@ export default function Testimonials() {
                         </div>
                       </div>
                       <div className={styles.r34}>
-                        <a className={styles.socialButton} href="https://x.com" target="_blank" rel="noreferrer">
+                        <a className={styles.socialButton} data-border="true" href="https://x.com" target="_blank" rel="noreferrer">
                           <div className={styles.icon2}>
                             <div className={styles.r37}>
                               <Image className={styles.r38} src="/assets/media/sFefJjAWEIdmoQ3d1qjPS6arc.svg" alt="X Logo" width={20} height={20} />

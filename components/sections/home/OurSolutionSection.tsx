@@ -7,7 +7,7 @@ export default function OurSolutionSection() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/GdOqOnfzeQJ0zIgwQSNT2Pm3BQ.svg" alt="Icon" width={20} height={20} />
@@ -38,8 +38,8 @@ export default function OurSolutionSection() {
           <div className={styles.container}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.desktop}>
-                  <div className={styles.iconContainer}>
+                <div className={styles.desktop} data-border="true">
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/MnjpLyIUEC82E6LCfoqZrWa2hw8.svg" alt="Icon" width={28} height={28} />
@@ -70,8 +70,8 @@ export default function OurSolutionSection() {
               <div className={styles.container2}>
                 <div className={styles.r1}>
                   <div className={styles.r33}>
-                    <div className={styles.noImage}>
-                      <div className={styles.iconContainer}>
+                    <div className={styles.noImage} data-border="true">
+                      <div className={styles.iconContainer} data-border="true">
                         <div className={styles.icon2}>
                           <div className={styles.r21}>
                             <Image className={styles.r22} src="/assets/media/RMLMBoeg6AaBvvj9Ri5BysKkMc.svg" alt="Icon" width={28} height={28} />
@@ -95,8 +95,8 @@ export default function OurSolutionSection() {
                 </div>
                 <div className={styles.r1}>
                   <div className={styles.r40}>
-                    <div className={styles.noImage}>
-                      <div className={styles.iconContainer}>
+                    <div className={styles.noImage} data-border="true">
+                      <div className={styles.iconContainer} data-border="true">
                         <div className={styles.icon2}>
                           <div className={styles.r21}>
                             <Image className={styles.r22} src="/assets/media/0Dur4d2rG8qfu8zK1d9S3JR3E.svg" alt="Icon" width={28} height={28} />
@@ -122,8 +122,8 @@ export default function OurSolutionSection() {
               <div className={styles.container3}>
                 <div className={styles.r1}>
                   <div className={styles.r42}>
-                    <div className={styles.noImage2}>
-                      <div className={styles.iconContainer}>
+                    <div className={styles.noImage2} data-border="true">
+                      <div className={styles.iconContainer} data-border="true">
                         <div className={styles.icon2}>
                           <div className={styles.r21}>
                             <Image className={styles.r22} src="/assets/media/4SciwYsyXC0yLiPYsrnxSDjigic.svg" alt="Icon" width={28} height={28} />
@@ -147,8 +147,8 @@ export default function OurSolutionSection() {
                 </div>
                 <div className={styles.r1}>
                   <div className={styles.r47}>
-                    <div className={styles.noImage2}>
-                      <div className={styles.iconContainer}>
+                    <div className={styles.noImage2} data-border="true">
+                      <div className={styles.iconContainer} data-border="true">
                         <div className={styles.icon2}>
                           <div className={styles.r21}>
                             <Image className={styles.r22} src="/assets/media/nQbVHjQEyOn9PRs3XCGu7mS6qgU.svg" alt="Icon" width={28} height={28} />
@@ -177,8 +177,8 @@ export default function OurSolutionSection() {
             <div className={styles.subContainer3}>
               <div className={styles.r1}>
                 <div className={styles.r50}>
-                  <div className={styles.noImage3}>
-                    <div className={styles.iconContainer}>
+                  <div className={styles.noImage3} data-border="true">
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r21}>
                           <Image className={styles.r22} src="/assets/media/nGUf0SfYhzz7uk1mg5An9qw0yo.svg" alt="Icon" width={28} height={28} />
@@ -202,8 +202,8 @@ export default function OurSolutionSection() {
               </div>
               <div className={styles.r1}>
                 <div className={styles.r50}>
-                  <div className={styles.noImage3}>
-                    <div className={styles.iconContainer}>
+                  <div className={styles.noImage3} data-border="true">
+                    <div className={styles.iconContainer} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r21}>
                           <Image className={styles.r22} src="/assets/media/HOgyomO2bZmHfywbxIvwoLAYR1c.svg" alt="Icon" width={28} height={28} />
@@ -228,8 +228,8 @@ export default function OurSolutionSection() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r57}>
-                <div className={styles.tablet}>
-                  <div className={styles.iconContainer}>
+                <div className={styles.tablet} data-border="true">
+                  <div className={styles.iconContainer} data-border="true">
                     <div className={styles.icon2}>
                       <div className={styles.r21}>
                         <Image className={styles.r22} src="/assets/media/RMLMBoeg6AaBvvj9Ri5BysKkMc.svg" alt="Icon" width={28} height={28} />

@@ -7,7 +7,7 @@ export default function DigitalSolutions() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/4H4OAKgAIXILPuAJURXxJUgiXho.svg" alt="Icon" width={24} height={24} />
@@ -38,7 +38,7 @@ export default function DigitalSolutions() {
           <div className={styles.container}>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.container2}>
                     <div className={styles.container3}>
                       <div className={styles.iconWrapper}>
@@ -68,7 +68,7 @@ export default function DigitalSolutions() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.container2}>
                     <div className={styles.container3}>
                       <div className={styles.iconWrapper}>
@@ -98,7 +98,7 @@ export default function DigitalSolutions() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.big2}>
+                <div className={styles.big2} data-border="true">
                   <div className={styles.container4}>
                     <div className={styles.container5}>
                       <div className={styles.iconWrapper}>
@@ -128,7 +128,7 @@ export default function DigitalSolutions() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.container2}>
                     <div className={styles.container3}>
                       <div className={styles.iconWrapper}>
@@ -158,7 +158,7 @@ export default function DigitalSolutions() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r17}>
-                <div className={styles.big}>
+                <div className={styles.big} data-border="true">
                   <div className={styles.container2}>
                     <div className={styles.container3}>
                       <div className={styles.iconWrapper}>
@@ -188,7 +188,7 @@ export default function DigitalSolutions() {
             </div>
             <div className={styles.r1}>
               <div className={styles.r32}>
-                <div className={styles.big2}>
+                <div className={styles.big2} data-border="true">
                   <div className={styles.container4}>
                     <div className={styles.container5}>
                       <div className={styles.iconWrapper}>

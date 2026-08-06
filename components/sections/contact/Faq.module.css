@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -187,6 +193,12 @@
   column-gap: 0px;
   background-color: rgb(20, 20, 20);
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .subContainer2 {
   display: flex;
@@ -200,6 +212,12 @@
   column-gap: 12px;
   flex-shrink: 0;
   padding: 24px 30px;
+  --border-top-width: 0px;
+  --border-right-width: 0px;
+  --border-bottom-width: 1px;
+  --border-left-width: 0px;
+  --border-color: rgb(30, 30, 30);
+  --border-style: solid;
 }
 .heading2 {
   display: flex;
@@ -463,6 +481,12 @@
   column-gap: 0px;
   background-color: rgb(20, 20, 20);
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .container4 {
   display: flex;

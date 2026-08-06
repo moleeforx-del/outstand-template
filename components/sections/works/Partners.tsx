@@ -7,7 +7,7 @@ export default function Partners() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/D2KnRuG9mWnKOYKNRRO4h55JaU.svg" alt="Icon" width={20} height={20} />
@@ -37,15 +37,15 @@ export default function Partners() {
         <div className={styles.subContainer}>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.patnerCard}>
+              <div className={styles.patnerCard} data-border="true">
                 <div className={styles.topContainer}>
                   <div className={styles.background}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/MeIqKUl9C9xE0tTDE8JvOXFv84.svg" alt="Card Background" width={287} height={171} />
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
-                    <div className={styles.iconWrap}>
+                  <div className={styles.iconContainer} data-border="true">
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/HcS1Z4UgaMfGwuJQGDqT1bhIU.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -57,7 +57,7 @@ export default function Partners() {
                         <Image className={styles.r29} src="/assets/media/piaxp1ZhNd5afO1zjTHi4hUcwfU.svg" alt="" width={25} height={24} aria-hidden="true" />
                       </div>
                     </div>
-                    <div className={styles.iconWrap}>
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/eUrdCYXPxNSu2uetBfI0VaUJ0Qw.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -88,7 +88,7 @@ export default function Partners() {
                   </div>
                 </div>
                 <div className={styles.r39}>
-                  <a className={styles.hoverArrow} href="https://google.com" target="_blank" rel="noreferrer">
+                  <a className={styles.hoverArrow} data-border="true" href="https://google.com" target="_blank" rel="noreferrer">
                     <div className={styles.text3}>
                       <p className={styles.r42}>
                         Visit Website
@@ -108,15 +108,15 @@ export default function Partners() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r16}>
-              <div className={styles.patnerCard}>
+              <div className={styles.patnerCard} data-border="true">
                 <div className={styles.topContainer}>
                   <div className={styles.background}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/MeIqKUl9C9xE0tTDE8JvOXFv84.svg" alt="Card Background" width={287} height={171} />
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
-                    <div className={styles.iconWrap}>
+                  <div className={styles.iconContainer} data-border="true">
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/HcS1Z4UgaMfGwuJQGDqT1bhIU.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -128,7 +128,7 @@ export default function Partners() {
                         <Image className={styles.r29} src="/assets/media/piaxp1ZhNd5afO1zjTHi4hUcwfU.svg" alt="" width={25} height={24} aria-hidden="true" />
                       </div>
                     </div>
-                    <div className={styles.iconWrap}>
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/eUrdCYXPxNSu2uetBfI0VaUJ0Qw.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -159,7 +159,7 @@ export default function Partners() {
                   </div>
                 </div>
                 <div className={styles.r39}>
-                  <a className={styles.hoverArrow} href="https://google.com" target="_blank" rel="noreferrer">
+                  <a className={styles.hoverArrow} data-border="true" href="https://google.com" target="_blank" rel="noreferrer">
                     <div className={styles.text3}>
                       <p className={styles.r42}>
                         Visit Website
@@ -179,15 +179,15 @@ export default function Partners() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r50}>
-              <div className={styles.patnerCard2}>
+              <div className={styles.patnerCard2} data-border="true">
                 <div className={styles.topContainer2}>
                   <div className={styles.background2}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/MeIqKUl9C9xE0tTDE8JvOXFv84.svg" alt="Card Background" width={287} height={171} />
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
-                    <div className={styles.iconWrap}>
+                  <div className={styles.iconContainer} data-border="true">
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/HcS1Z4UgaMfGwuJQGDqT1bhIU.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -199,7 +199,7 @@ export default function Partners() {
                         <Image className={styles.r29} src="/assets/media/piaxp1ZhNd5afO1zjTHi4hUcwfU.svg" alt="" width={25} height={24} aria-hidden="true" />
                       </div>
                     </div>
-                    <div className={styles.iconWrap}>
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/eUrdCYXPxNSu2uetBfI0VaUJ0Qw.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -230,7 +230,7 @@ export default function Partners() {
                   </div>
                 </div>
                 <div className={styles.r60}>
-                  <a className={styles.hoverArrow2} href="https://google.com" target="_blank" rel="noreferrer">
+                  <a className={styles.hoverArrow2} data-border="true" href="https://google.com" target="_blank" rel="noreferrer">
                     <div className={styles.text3}>
                       <p className={styles.r42}>
                         Visit Website
@@ -250,15 +250,15 @@ export default function Partners() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r62}>
-              <div className={styles.patnerCard3}>
+              <div className={styles.patnerCard3} data-border="true">
                 <div className={styles.topContainer}>
                   <div className={styles.background}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/MeIqKUl9C9xE0tTDE8JvOXFv84.svg" alt="Card Background" width={287} height={171} />
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
-                    <div className={styles.iconWrap}>
+                  <div className={styles.iconContainer} data-border="true">
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/HcS1Z4UgaMfGwuJQGDqT1bhIU.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -270,7 +270,7 @@ export default function Partners() {
                         <Image className={styles.r29} src="/assets/media/piaxp1ZhNd5afO1zjTHi4hUcwfU.svg" alt="" width={25} height={24} aria-hidden="true" />
                       </div>
                     </div>
-                    <div className={styles.iconWrap}>
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/eUrdCYXPxNSu2uetBfI0VaUJ0Qw.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -301,7 +301,7 @@ export default function Partners() {
                   </div>
                 </div>
                 <div className={styles.r39}>
-                  <a className={styles.hoverArrow} href="https://google.com" target="_blank" rel="noreferrer">
+                  <a className={styles.hoverArrow} data-border="true" href="https://google.com" target="_blank" rel="noreferrer">
                     <div className={styles.text3}>
                       <p className={styles.r42}>
                         Visit Website
@@ -321,15 +321,15 @@ export default function Partners() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r62}>
-              <div className={styles.patnerCard3}>
+              <div className={styles.patnerCard3} data-border="true">
                 <div className={styles.topContainer}>
                   <div className={styles.background}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/MeIqKUl9C9xE0tTDE8JvOXFv84.svg" alt="Card Background" width={287} height={171} />
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
-                    <div className={styles.iconWrap}>
+                  <div className={styles.iconContainer} data-border="true">
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/HcS1Z4UgaMfGwuJQGDqT1bhIU.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -341,7 +341,7 @@ export default function Partners() {
                         <Image className={styles.r29} src="/assets/media/piaxp1ZhNd5afO1zjTHi4hUcwfU.svg" alt="" width={25} height={24} aria-hidden="true" />
                       </div>
                     </div>
-                    <div className={styles.iconWrap}>
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/eUrdCYXPxNSu2uetBfI0VaUJ0Qw.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -372,7 +372,7 @@ export default function Partners() {
                   </div>
                 </div>
                 <div className={styles.r39}>
-                  <a className={styles.hoverArrow} href="https://google.com" target="_blank" rel="noreferrer">
+                  <a className={styles.hoverArrow} data-border="true" href="https://google.com" target="_blank" rel="noreferrer">
                     <div className={styles.text3}>
                       <p className={styles.r42}>
                         Visit Website
@@ -392,15 +392,15 @@ export default function Partners() {
           </div>
           <div className={styles.r1}>
             <div className={styles.r72}>
-              <div className={styles.patnerCard4}>
+              <div className={styles.patnerCard4} data-border="true">
                 <div className={styles.topContainer2}>
                   <div className={styles.background2}>
                     <div className={styles.r20}>
                       <Image className={styles.r21} src="/assets/media/MeIqKUl9C9xE0tTDE8JvOXFv84.svg" alt="Card Background" width={287} height={171} />
                     </div>
                   </div>
-                  <div className={styles.iconContainer}>
-                    <div className={styles.iconWrap}>
+                  <div className={styles.iconContainer} data-border="true">
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/HcS1Z4UgaMfGwuJQGDqT1bhIU.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -412,7 +412,7 @@ export default function Partners() {
                         <Image className={styles.r29} src="/assets/media/piaxp1ZhNd5afO1zjTHi4hUcwfU.svg" alt="" width={25} height={24} aria-hidden="true" />
                       </div>
                     </div>
-                    <div className={styles.iconWrap}>
+                    <div className={styles.iconWrap} data-border="true">
                       <div className={styles.icon2}>
                         <div className={styles.r25}>
                           <Image className={styles.r26} src="/assets/media/eUrdCYXPxNSu2uetBfI0VaUJ0Qw.svg" alt="" width={29} height={28} aria-hidden="true" />
@@ -443,7 +443,7 @@ export default function Partners() {
                   </div>
                 </div>
                 <div className={styles.r60}>
-                  <a className={styles.hoverArrow2} href="https://google.com" target="_blank" rel="noreferrer">
+                  <a className={styles.hoverArrow2} data-border="true" href="https://google.com" target="_blank" rel="noreferrer">
                     <div className={styles.text3}>
                       <p className={styles.r42}>
                         Visit Website

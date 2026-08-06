@@ -52,6 +52,12 @@
   flex-shrink: 0;
   padding: 6px 12px;
   border-radius: 42px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon {
   position: relative;
@@ -180,6 +186,12 @@
   flex-shrink: 0;
   padding: 20px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .card {
   display: flex;
@@ -197,6 +209,12 @@
   flex-basis: 0px;
   padding: 30px;
   border-radius: 12px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .container2 {
   display: flex;
@@ -315,6 +333,12 @@
   cursor: pointer;
   padding: 14px 24px;
   border-radius: 53px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: solid;
 }
 .text2 {
   display: flex;
@@ -420,6 +444,12 @@
   flex-shrink: 0;
   padding: 14px;
   border-radius: 10px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .icon3 {
   position: relative;
@@ -469,6 +499,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
 }
 .card3 {
   display: flex;
@@ -569,6 +605,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
 }
 .container4 {
   display: flex;
@@ -595,6 +637,12 @@
   flex-shrink: 0;
   padding: 20px;
   border-radius: 16px;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(31, 31, 31);
+  --border-style: solid;
 }
 .r52 {
   width: 24px;
@@ -669,6 +717,12 @@
   overflow-x: hidden;
   overflow-y: hidden;
   flex-shrink: 0;
+  --border-top-width: 1px;
+  --border-right-width: 1px;
+  --border-bottom-width: 1px;
+  --border-left-width: 1px;
+  --border-color: rgb(38, 38, 38);
+  --border-style: dashed;
 }
 .subContainer5 {
   display: flex;

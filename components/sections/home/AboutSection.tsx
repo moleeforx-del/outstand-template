@@ -7,7 +7,7 @@ export default function AboutSection() {
         <div className={styles.r1}>
           <div className={styles.r2}>
             <div className={styles.dektop}>
-              <div className={styles.tag}>
+              <div className={styles.tag} data-border="true">
                 <div className={styles.icon}>
                   <div className={styles.r6}>
                     <Image className={styles.r7} src="/assets/media/kXzKnSo8AYBBiRWPv9cmra68Z38.svg" alt="Icon" width={20} height={20} />

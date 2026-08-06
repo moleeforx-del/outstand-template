@@ -66,6 +66,30 @@ svg {
 }
 
 /* ------------------------------------------------------------------ *
+ * Borders
+ *
+ * The original draws every border with an ::after pseudo-element rather
+ * than a real CSS border, so that the border sits inside the element's box
+ * and inherits its radius. Elements opt in with data-border="true" and set
+ * the --border-* custom properties. Carried over verbatim.
+ * ------------------------------------------------------------------ */
+[data-border='true']::after {
+  content: '';
+  border-width: var(--border-top-width, 0) var(--border-right-width, 0)
+    var(--border-bottom-width, 0) var(--border-left-width, 0);
+  border-color: var(--border-color, none);
+  border-style: var(--border-style, none);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  box-sizing: border-box;
+  left: 0;
+  top: 0;
+  border-radius: inherit;
+  pointer-events: none;
+}
+
+/* ------------------------------------------------------------------ *
  * Shared layout primitives
  * ------------------------------------------------------------------ */
 
