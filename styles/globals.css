@@ -281,6 +281,20 @@ textarea:-webkit-autofill {
   caret-color: var(--color-mist-200);
 }
 
+/* Keeps a section out of the phone layout entirely. `display: contents` above
+ * the breakpoint means the wrapper adds no box of its own, so the surrounding
+ * flex spacing is untouched; below it the section is removed outright, taking
+ * its gap with it. */
+.hidePhone {
+  display: contents;
+}
+
+@media (max-width: 809px) {
+  .hidePhone {
+    display: none;
+  }
+}
+
 /* ------------------------------------------------------------------ *
  * Accessibility
  * ------------------------------------------------------------------ */

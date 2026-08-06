@@ -31,7 +31,10 @@ export default function ServicesPage() {
       <Hero />
       <div className="pageShell">
         <Expertise />
-        <ServicesOverview />
+        {/* Hidden on phones: this section only lays out correctly above 810px. */}
+        <div className="hidePhone">
+          <ServicesOverview />
+        </div>
         <Services />
         <PricingPlan />
         <Comparison />
