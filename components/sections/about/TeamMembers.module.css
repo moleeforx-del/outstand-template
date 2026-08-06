@@ -340,6 +340,12 @@
   --border-color: rgb(38, 38, 38);
   --border-style: solid;
 }
+.socialButton {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.socialButton:hover {
+  background-color: rgb(38, 38, 38);
+}
 .icon2 {
   position: relative;
   width: 24px;

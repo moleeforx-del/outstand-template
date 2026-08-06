@@ -202,6 +202,12 @@
   --border-color: rgb(31, 31, 31);
   --border-style: solid;
 }
+.awardCard {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.awardCard:hover {
+  background-color: rgb(26, 26, 26);
+}
 .iconWrap {
   display: flex;
   position: relative;

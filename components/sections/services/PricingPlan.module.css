@@ -645,6 +645,13 @@
   --border-color: rgb(38, 38, 38);
   --border-style: solid;
 }
+.hoverArrow {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.hoverArrow:hover {
+  background-color: rgb(20, 20, 20);
+  gap: 6px;
+}
 .text6 {
   display: flex;
   position: relative;
@@ -654,6 +661,12 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+}
+.text6 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.text6:hover {
+  transform: matrix(1, 0, 0, 1, 0.0143091, 0);
 }
 .r58 {
   width: 96.0469px;
@@ -675,6 +688,12 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+}
+.iconRight {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.iconRight:hover {
+  transform: matrix(1, 0, 0, 1, -0.0141667, 0);
 }
 .r60 {
   width: 20px;
@@ -927,7 +946,17 @@
   padding: 14px 28px;
   border-radius: 53px;
 }
-.r78 {
+.text10 {
+  display: flex;
+  position: relative;
+  width: 96.0469px;
+  height: 27px;
+  flex-direction: column;
+  justify-content: flex-start;
+  white-space: pre;
+  flex-shrink: 0;
+}
+.r79 {
   width: 96.0469px;
   height: 27px;
   color: rgb(15, 15, 15);
@@ -954,7 +983,7 @@
   height: 24px;
   flex-shrink: 0;
 }
-.r81 {
+.r82 {
   position: absolute;
   top: 0px;
   right: 0px;
@@ -963,7 +992,7 @@
   width: 24px;
   height: 24px;
 }
-.r82 {
+.r83 {
   width: 24px;
   height: 24px;
   overflow: clip;
@@ -1180,7 +1209,11 @@
     width: 322px;
     height: 53.5px;
   }
-  .r78 {
+  .text10 {
+    width: 90.7188px;
+    height: 25.5px;
+  }
+  .r79 {
     width: 90.7188px;
     height: 25.5px;
     font-size: 17px;

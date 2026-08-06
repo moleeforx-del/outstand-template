@@ -551,15 +551,15 @@ export default function PricingPlan() {
                   </div>
                   <div className={styles.r55}>
                     <Link className={styles.iconLeftRight} href="/contact">
-                      <div className={styles.text6}>
-                        <p className={styles.r78}>
+                      <div className={styles.text10}>
+                        <p className={styles.r79}>
                           Get Started
                         </p>
                       </div>
                       <div className={styles.iconRight2}>
                         <div className={styles.icon3}>
-                          <div className={styles.r81}>
-                            <Image className={styles.r82} src="/assets/media/Z4EozQtdVmroG1HDLS4zKFJeGo.svg" alt="Icon" width={20} height={20} />
+                          <div className={styles.r82}>
+                            <Image className={styles.r83} src="/assets/media/Z4EozQtdVmroG1HDLS4zKFJeGo.svg" alt="Icon" width={20} height={20} />
                           </div>
                         </div>
                       </div>

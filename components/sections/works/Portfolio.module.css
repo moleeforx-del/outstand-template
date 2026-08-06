@@ -401,6 +401,12 @@
   --border-color: rgb(31, 31, 31);
   --border-style: solid;
 }
+.projectButton {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.projectButton:hover {
+  background-color: rgb(31, 31, 31);
+}
 .content {
   display: flex;
   position: relative;

@@ -424,6 +424,13 @@
   --border-color: rgb(38, 38, 38);
   --border-style: solid;
 }
+.iconLeftRight {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.iconLeftRight:hover {
+  background-color: rgb(20, 20, 20);
+  gap: 6px;
+}
 .text2 {
   display: flex;
   position: relative;
@@ -433,6 +440,12 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+}
+.text2 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.text2:hover {
+  transform: matrix(1, 0, 0, 1, 0.0143091, 0);
 }
 .r37 {
   width: 45.5781px;
@@ -454,6 +467,12 @@
   row-gap: 10px;
   column-gap: 10px;
   flex-shrink: 0;
+}
+.iconRight {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.iconRight:hover {
+  transform: matrix(1, 0, 0, 1, -0.0141667, 0);
 }
 .r39 {
   width: 20px;
@@ -635,6 +654,44 @@
   font-weight: 600;
   line-height: 30px;
 }
+.iconLeftRight2 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.iconLeftRight2:hover {
+  background-color: rgb(20, 20, 20);
+  gap: 6px;
+}
+.text3 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.text3:hover {
+  transform: matrix(1, 0, 0, 1, 0.0143091, 0);
+}
+.iconRight2 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.iconRight2:hover {
+  transform: matrix(1, 0, 0, 1, -0.0141667, 0);
+}
+.iconLeftRight3 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.iconLeftRight3:hover {
+  background-color: rgb(20, 20, 20);
+  gap: 6px;
+}
+.text4 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.text4:hover {
+  transform: matrix(1, 0, 0, 1, 0.0143091, 0);
+}
+.iconRight3 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.iconRight3:hover {
+  transform: matrix(1, 0, 0, 1, -0.0141667, 0);
+}
 .r113 {
   position: relative;
   width: 207.578px;
@@ -662,6 +719,13 @@
   --border-color: rgb(38, 38, 38);
   --border-style: solid;
 }
+.hoverArrow {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.hoverArrow:hover {
+  background-color: rgb(20, 20, 20);
+  gap: 6px;
+}
 .text5 {
   display: flex;
   position: relative;
@@ -671,6 +735,12 @@
   justify-content: flex-start;
   white-space: pre;
   flex-shrink: 0;
+}
+.text5 {
+  transition: background-color var(--duration-hover) var(--ease-out-framer), color var(--duration-hover) var(--ease-out-framer), opacity var(--duration-hover) var(--ease-out-framer), transform var(--duration-hover) var(--ease-out-framer), box-shadow var(--duration-hover) var(--ease-out-framer);
+}
+.text5:hover {
+  transform: matrix(1, 0, 0, 1, 0.0143091, 0);
 }
 .r116 {
   width: 135.578px;
