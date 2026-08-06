@@ -234,6 +234,54 @@ button:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'],
 }
 
 /* ------------------------------------------------------------------ *
+ * Form fields
+ *
+ * In the original the field itself is fully transparent — the dark rounded
+ * box you see is the wrapper behind it. Browsers paint inputs opaque white by
+ * default, which covered that wrapper completely.
+ *
+ * Values below are the original's computed styles.
+ * ------------------------------------------------------------------ */
+input,
+textarea,
+select {
+  width: 100%;
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 14px 20px;
+  font-family: var(--font-heading);
+  font-size: 15px;
+  font-weight: 400;
+  color: var(--color-mist-200);
+  box-shadow: none;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-mist-600);
+  font-size: 15px;
+  opacity: 1;
+}
+
+textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+/* Chrome's autofill re-paints the field white; keep it transparent. */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill {
+  -webkit-text-fill-color: var(--color-mist-200);
+  -webkit-box-shadow: 0 0 0 1000px var(--color-ink-900) inset;
+  caret-color: var(--color-mist-200);
+}
+
+/* ------------------------------------------------------------------ *
  * Accessibility
  * ------------------------------------------------------------------ */
 

@@ -68,17 +68,17 @@ export default function Hero() {
                 <div className={styles.container3}>
                   <label className={styles.r35}>
                     <div className={styles.r36}>
-                      <input className={styles.r37} />
+                      <input className={styles.r37} type="text" name="Name" placeholder="Name" required />
                     </div>
                   </label>
                   <label className={styles.r35}>
                     <div className={styles.r36}>
-                      <input className={styles.r37} />
+                      <input className={styles.r37} type="email" name="Email" placeholder="E-mail" required />
                     </div>
                   </label>
                   <label className={styles.r38}>
                     <div className={styles.r39}>
-                      <textarea className={styles.r40} />
+                      <textarea className={styles.r40} name="Message" placeholder="Tell us about your project." required />
                     </div>
                   </label>
                 </div>

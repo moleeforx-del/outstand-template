@@ -97,7 +97,7 @@ export default function CallToAction() {
         <form className={styles.r37}>
           <label className={styles.r38}>
             <div className={styles.r39}>
-              <input className={styles.r40} />
+              <input className={styles.r40} type="email" name="Email" placeholder="Enter your email" required />
             </div>
           </label>
           <div className={styles.r7}>

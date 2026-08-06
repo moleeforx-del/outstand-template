@@ -40,17 +40,17 @@ export default function ContactUs() {
               <div className={styles.container3}>
                 <label className={styles.r18}>
                   <div className={styles.r19}>
-                    <input className={styles.r20} />
+                    <input className={styles.r20} type="text" name="Name" placeholder="Name" />
                   </div>
                 </label>
                 <label className={styles.r18}>
                   <div className={styles.r19}>
-                    <input className={styles.r20} />
+                    <input className={styles.r20} type="email" name="Email" placeholder="E-mail" />
                   </div>
                 </label>
                 <label className={styles.r21}>
                   <div className={styles.r22}>
-                    <textarea className={styles.r23} />
+                    <textarea className={styles.r23} name="Message" placeholder="Message" />
                   </div>
                 </label>
               </div>
