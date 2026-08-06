@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import styles from './CallToAction.module.css';
+import CircularText from '@/components/ui/CircularText';
 
 export default function CallToAction() {
   return (
@@ -74,7 +75,7 @@ export default function CallToAction() {
                     </div>
                     <div className={styles.r35}>
                       <div className={styles.r36}>
-                        <svg className={styles.r37} />
+                        <CircularText className={styles.r37} text="Join Now | Join Now | Join Now | Join Now" />
                       </div>
                     </div>
                   </div>

@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import styles from './Hero.module.css';
+import CircularText from '@/components/ui/CircularText';
 
 export default function Hero() {
   return (
@@ -597,7 +598,7 @@ export default function Hero() {
                   </div>
                   <div className={styles.r95}>
                     <div className={styles.r96}>
-                      <svg className={styles.r97} />
+                      <CircularText className={styles.r97} text="Excel Designs | Code Excel | Design Excel" />
                     </div>
                   </div>
                 </div>
