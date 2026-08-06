@@ -164,6 +164,61 @@ svg {
 }
 
 /* ------------------------------------------------------------------ *
+ * Arrow morph
+ *
+ * The ↗ arrow buttons morph on hover: the glyph travels out through the
+ * top-right corner and a fresh one arrives from the bottom-left. The original
+ * did this with two stacked copies driven by Framer Motion; one element plus a
+ * keyframe reads identically and needs no extra markup.
+ *
+ * Matched by asset name so it applies to every arrow button site-wide without
+ * touching the section components. next/image keeps the filename inside its
+ * URL, so the substring match still holds.
+ * ------------------------------------------------------------------ */
+@keyframes arrow-morph {
+  0% {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+  40% {
+    transform: translate(150%, -150%);
+    opacity: 0;
+  }
+  41% {
+    transform: translate(-150%, 150%);
+    opacity: 0;
+  }
+  100% {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+}
+
+a:hover img[src*='o8sUeIHyFUmZSNFjpn4ePKPB9DY'],
+button:hover img[src*='o8sUeIHyFUmZSNFjpn4ePKPB9DY'],
+[class*='ard']:hover img[src*='o8sUeIHyFUmZSNFjpn4ePKPB9DY'],
+[class*='utton']:hover img[src*='o8sUeIHyFUmZSNFjpn4ePKPB9DY'],
+[class*='conWrap']:hover img[src*='o8sUeIHyFUmZSNFjpn4ePKPB9DY'],
+[class*='rrow']:hover img[src*='o8sUeIHyFUmZSNFjpn4ePKPB9DY'],
+a:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'],
+button:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'],
+[class*='ard']:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'],
+[class*='utton']:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'],
+[class*='conWrap']:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'],
+[class*='rrow']:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'] {
+  animation: arrow-morph 0.55s var(--ease-out-framer);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  a:hover img[src*='o8sUeIHyFUmZSNFjpn4ePKPB9DY'],
+  a:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'],
+  [class*='ard']:hover img[src*='o8sUeIHyFUmZSNFjpn4ePKPB9DY'],
+  [class*='ard']:hover img[src*='h29DxyfSDDNyTy6EiLnetnpzs'] {
+    animation: none;
+  }
+}
+
+/* ------------------------------------------------------------------ *
  * Accessibility
  * ------------------------------------------------------------------ */
 
