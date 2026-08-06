@@ -1498,3 +1498,34 @@
     right: 312px;
   }
 }
+
+/* --- billing toggle state (added post-generation) --- */
+.toggle {
+  cursor: pointer;
+}
+
+.ellipse2 {
+  transition: transform 0.3s var(--ease-out-framer);
+}
+
+/* Knob travels the track width minus its own size and padding. */
+.container[data-yearly='true'] .ellipse2 {
+  transform: translateX(22px);
+}
+
+.container[data-yearly='true'] .monthly p {
+  color: var(--color-mist-500);
+}
+
+.container[data-yearly='true'] .yearly p {
+  color: var(--color-accent);
+}
+
+.container .yearly p {
+  color: var(--color-mist-500);
+}
+
+.container[data-yearly='true'] .monthly p,
+.container .monthly p {
+  transition: color 0.3s var(--ease-out-framer);
+}

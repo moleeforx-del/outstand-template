@@ -1,8 +1,13 @@
+'use client';
+
+import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import styles from './PricingPlan.module.css';
 
 export default function PricingPlan() {
+  const [yearly, setYearly] = useState(false);
+
   return (
       <section className={styles.pricingPlan}>
         <div className={styles.r1}>
@@ -38,16 +43,30 @@ export default function PricingPlan() {
         <div className={styles.r1}>
           <div className={styles.r15}>
             <div className={styles.desktopMonthly}>
-              <div className={styles.container}>
-                <div className={styles.monthly}>
+              <div className={styles.container} data-yearly={yearly}>
+                <div className={styles.monthly} onClick={() => setYearly(false)}>
                   <p className={styles.r19}>
                     Monthly
                   </p>
                 </div>
-                <div className={styles.toggle} data-border="true">
+                <div
+                  className={styles.toggle}
+                  data-border="true"
+                  role="switch"
+                  aria-checked={yearly}
+                  aria-label="Bill yearly"
+                  tabIndex={0}
+                  onClick={() => setYearly((v) => !v)}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                      e.preventDefault();
+                      setYearly((v) => !v);
+                    }
+                  }}
+                >
                   <div className={styles.ellipse2} />
                 </div>
-                <div className={styles.yearly}>
+                <div className={styles.yearly} onClick={() => setYearly(true)}>
                   <p className={styles.r23}>
                     Yearly
                   </p>
@@ -88,7 +107,7 @@ export default function PricingPlan() {
                   <div className={styles.textContainer3}>
                     <div className={styles.number}>
                       <p className={styles.r43}>
-                        $299
+                        {yearly ? '$2999' : '$299'}
                       </p>
                     </div>
                     <div className={styles.text4}>
@@ -165,7 +184,7 @@ export default function PricingPlan() {
                   <div className={styles.textContainer3}>
                     <div className={styles.number}>
                       <p className={styles.r43}>
-                        $499
+                        {yearly ? '$4999' : '$499'}
                       </p>
                     </div>
                     <div className={styles.text4}>
@@ -274,7 +293,7 @@ export default function PricingPlan() {
                   <div className={styles.textContainer3}>
                     <div className={styles.number}>
                       <p className={styles.r43}>
-                        $999
+                        {yearly ? '$9999' : '$999'}
                       </p>
                     </div>
                     <div className={styles.text4}>
