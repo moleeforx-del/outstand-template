@@ -171,11 +171,30 @@
 }
 
 .backToTop {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   transition: color var(--duration-hover) var(--ease-out-framer);
 }
 
 .backToTop:hover {
   color: var(--color-accent);
+}
+
+/* Clips the arrow while it morphs on hover — see the arrow-morph rule in
+ * globals.css, which matches this asset site-wide. */
+.arrowContainer {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+
+.arrowContainer img {
+  width: 18px;
+  height: 18px;
 }
 
 /* ------------------------------------------------------------------ *

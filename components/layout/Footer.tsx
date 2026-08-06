@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 
 import { site } from '@/config/site';
@@ -62,6 +63,15 @@ export default function Footer() {
           </p>
           <Link href="/#hero" className={styles.backToTop}>
             Back to top
+            <span className={styles.arrowContainer}>
+              <Image
+                src="/assets/media/h29DxyfSDDNyTy6EiLnetnpzs.svg"
+                alt=""
+                width={18}
+                height={18}
+                aria-hidden="true"
+              />
+            </span>
           </Link>
         </div>
       </div>
