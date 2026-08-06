@@ -1,6 +1,14 @@
 import type { Metadata } from 'next';
 
-import AboutSections from '@/components/sections/generated/about';
+import Hero from '@/components/sections/about/Hero';
+import OurStory from '@/components/sections/about/OurStory';
+import Features from '@/components/sections/about/Features';
+import TeamMembers from '@/components/sections/about/TeamMembers';
+import OurCulture from '@/components/sections/about/OurCulture';
+import Excellence from '@/components/sections/about/Excellence';
+import Testimonials from '@/components/sections/about/Testimonials';
+import Careers from '@/components/sections/about/Careers';
+import CallToAction from '@/components/sections/about/CallToAction';
 
 export const metadata: Metadata = {
   title: 'About Us - Meet the Team',
@@ -16,5 +24,19 @@ export const metadata: Metadata = {
 };
 
 export default function AboutPage() {
-  return <AboutSections />;
+  return (
+    <>
+      <Hero />
+      <div className="pageShell">
+        <OurStory />
+        <Features />
+        <TeamMembers />
+        <OurCulture />
+        <Excellence />
+        <Testimonials />
+        <Careers />
+        <CallToAction />
+      </div>
+    </>
+  );
 }

@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import styles from './FaqS.module.css';
+import styles from './Faq.module.css';
 
-export default function FaqS() {
+export default function Faq() {
   return (
       <section className={styles.faqS}>
         <div className={styles.r1}>
@@ -22,7 +22,7 @@ export default function FaqS() {
               <div className={styles.textContainer}>
                 <div className={styles.heading}>
                   <h2 className={styles.r12}>
-                    Questions? We Have Answers
+                    Got Questions? We have got Answers
                   </h2>
                 </div>
                 <div className={styles.paragraph}>
@@ -211,8 +211,8 @@ export default function FaqS() {
                     <div className={styles.bigClosed2}>
                       <div className={styles.container3}>
                         <div className={styles.question2}>
-                          <div className={styles.r37}>
-                            <h3 className={styles.r38}>
+                          <div className={styles.r42}>
+                            <h3 className={styles.r43}>
                               How do you measure the success of your digital marketing campaigns?
                             </h3>
                           </div>
@@ -253,8 +253,8 @@ export default function FaqS() {
                     <div className={styles.bigClosed2}>
                       <div className={styles.container3}>
                         <div className={styles.question2}>
-                          <div className={styles.r37}>
-                            <h3 className={styles.r38}>
+                          <div className={styles.r42}>
+                            <h3 className={styles.r43}>
                               Can you provide examples of successful digital marketing campaigns?
                             </h3>
                           </div>

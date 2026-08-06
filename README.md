@@ -59,7 +59,8 @@ app/
 components/
   layout/    Header, MobileMenu, Footer
   motion/    Reveal — scroll/appear animation wrapper
-  sections/  Hero (hand-built) + generated/ (one folder per page)
+  sections/  Hero (hand-built) + one folder per page
+    home/ about/ services/ works/ contact/ privacy-policy/ not-found/
   ui/
 
 config/
@@ -80,11 +81,15 @@ public/assets/
   fonts/   24 woff2 files
 ```
 
-### Why some components are generated
+### How the sections are organised
+
+Each page's `page.tsx` lists its sections in order — open
+`app/(site)/page.tsx` and you can see the whole homepage at a glance, and
+reorder, remove or swap any section by editing that list.
 
 The original export contained roughly 3,300 named elements across 40+ sections.
 Those were converted mechanically from the captured computed styles into
-`components/sections/generated/<page>/<Section>.tsx` plus a matching CSS Module.
+`components/sections/<page>/<Section>.tsx` plus a matching CSS Module.
 
 They are ordinary, readable React and CSS — edit them directly. Class names come
 from the original Framer layer names (`heroContainer`, `benefitsCard`, `tag`),
@@ -139,7 +144,7 @@ stable before the webfont loads — don't delete them.
 
 ### Pricing, testimonials, FAQs, team
 These live in their generated section components
-(`components/sections/generated/index/PricingPlan.tsx`, `FaqS.tsx`,
+(`components/sections/home/PricingPlan.tsx`, `Faq.tsx`,
 `Testimonials.tsx`, `about/TeamMembers.tsx`, and so on). Each repeated card is a
 sibling block — copy one to add an entry, delete one to remove it. To make a set
 fully data-driven, extract it into `data/` following `data/hero.ts`.
@@ -237,15 +242,14 @@ heights. Everything below is either intentional or measured.
 
 | Page | Desktop | Tablet | Phone |
 | --- | --- | --- | --- |
-| about | −2.5% | −0.6% | −0.0% |
-| services | −1.7% | −0.4% | −0.0% |
+| about | −0.4% | −0.6% | −0.0% |
+| services | −0.3% | −0.4% | −0.0% |
 | works | −0.5% | +1.0% | +0.8% |
-| contact | −5.3% | −1.1% | −0.1% |
+| contact | −0.9% | −1.1% | −0.1% |
 | privacy-policy | −1.1% | +2.4% | +2.3% |
 | 404 | 0.0% | 0.0% | 0.0% |
 
-Residual deltas are concentrated at desktop and come from text wrapping at
-slightly different points, and from decorative layers the Framer runtime
+Residual deltas come from text wrapping at slightly different points, and from decorative layers the Framer runtime
 positions with JavaScript. No horizontal overflow at any tested width.
 
 **Not reproduced exactly**

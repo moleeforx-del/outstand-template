@@ -1,6 +1,9 @@
 import type { Metadata } from 'next';
 
-import ContactSections from '@/components/sections/generated/contact';
+import Hero from '@/components/sections/contact/Hero';
+import Support from '@/components/sections/contact/Support';
+import DigitalPresence from '@/components/sections/contact/DigitalPresence';
+import Faq from '@/components/sections/contact/Faq';
 
 export const metadata: Metadata = {
   title: 'Contact Us',
@@ -16,5 +19,14 @@ export const metadata: Metadata = {
 };
 
 export default function ContactPage() {
-  return <ContactSections />;
+  return (
+    <>
+      <Hero />
+      <div className="pageShell">
+        <Support />
+        <DigitalPresence />
+        <Faq />
+      </div>
+    </>
+  );
 }

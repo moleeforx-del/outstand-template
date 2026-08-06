@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 
-import NotFoundSections from '@/components/sections/generated/404';
+import Content from '@/components/sections/not-found/Content';
 
 export const metadata: Metadata = {
   title: '404 - Page Missing',
@@ -15,6 +15,10 @@ export const metadata: Metadata = {
   },
 };
 
-export default function NotFoundPage() {
-  return <NotFoundSections />;
+export default function NotFoundPreviewPage() {
+  return (
+    <>
+      <Content />
+    </>
+  );
 }

@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 
-import PrivacySections from '@/components/sections/generated/privacy-policy';
+import Content from '@/components/sections/privacy-policy/Content';
 
 export const metadata: Metadata = {
   title: 'Privacy and Security',
@@ -16,5 +16,9 @@ export const metadata: Metadata = {
 };
 
 export default function PrivacyPage() {
-  return <PrivacySections />;
+  return (
+    <>
+      <Content />
+    </>
+  );
 }

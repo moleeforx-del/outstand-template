@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import styles from './Container.module.css';
+import styles from './OurCulture.module.css';
 
-export default function Container() {
+export default function OurCulture() {
   return (
       <section className={styles.container}>
         <div className={styles.r1}>

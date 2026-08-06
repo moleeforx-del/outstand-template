@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import styles from './LetSWorkTogether.module.css';
+import styles from './LetsWorkTogether.module.css';
 
-export default function LetSWorkTogether() {
+export default function LetsWorkTogether() {
   return (
       <section className={styles.letSWorkTogether}>
         <div className={styles.r1}>

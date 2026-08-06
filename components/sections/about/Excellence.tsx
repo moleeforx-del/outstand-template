@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import styles from './Execllence.module.css';
+import styles from './Excellence.module.css';
 
-export default function Execllence() {
+export default function Excellence() {
   return (
       <section className={styles.execllence}>
         <div className={styles.r1}>

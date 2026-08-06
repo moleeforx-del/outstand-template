@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import styles from './Main.module.css';
+import styles from './Content.module.css';
 
-export default function Main() {
+export default function Content() {
   return (
       <section className={styles.main}>
         <div className={styles.r1}>

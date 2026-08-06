@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import styles from './FaqS.module.css';
+import styles from './Faq.module.css';
 
-export default function FaqS() {
+export default function Faq() {
   return (
       <section className={styles.faqS}>
         <div className={styles.r1}>
@@ -10,7 +10,7 @@ export default function FaqS() {
               <div className={styles.tag}>
                 <div className={styles.icon}>
                   <div className={styles.r6}>
-                    <Image className={styles.r7} src="/assets/media/n806fLLfwVbcz99FKpeYvQPlYU.svg" alt="Icon" width={21} height={20} />
+                    <Image className={styles.r7} src="/assets/media/9Fy6OwpnyuD8RM2TG1VObnDX4.svg" alt="Icon" width={21} height={20} />
                   </div>
                 </div>
                 <div className={styles.text}>
@@ -211,8 +211,8 @@ export default function FaqS() {
                     <div className={styles.bigClosed2}>
                       <div className={styles.container3}>
                         <div className={styles.question2}>
-                          <div className={styles.r42}>
-                            <h3 className={styles.r43}>
+                          <div className={styles.r37}>
+                            <h3 className={styles.r38}>
                               How do you measure the success of your digital marketing campaigns?
                             </h3>
                           </div>
@@ -253,8 +253,8 @@ export default function FaqS() {
                     <div className={styles.bigClosed2}>
                       <div className={styles.container3}>
                         <div className={styles.question2}>
-                          <div className={styles.r42}>
-                            <h3 className={styles.r43}>
+                          <div className={styles.r37}>
+                            <h3 className={styles.r38}>
                               Can you provide examples of successful digital marketing campaigns?
                             </h3>
                           </div>

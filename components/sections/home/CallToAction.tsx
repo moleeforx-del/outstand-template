@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import styles from './Cta.module.css';
+import styles from './CallToAction.module.css';
 
-export default function Cta() {
+export default function CallToAction() {
   return (
       <section className={styles.cta}>
         <div className={styles.gridBackground}>

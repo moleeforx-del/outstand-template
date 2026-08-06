@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import styles from './FaqS.module.css';
+import styles from './Faq.module.css';
 
-export default function FaqS() {
+export default function Faq() {
   return (
       <section className={styles.faqS}>
         <div className={styles.r1}>
@@ -10,7 +10,7 @@ export default function FaqS() {
               <div className={styles.tag}>
                 <div className={styles.icon}>
                   <div className={styles.r6}>
-                    <Image className={styles.r7} src="/assets/media/9Fy6OwpnyuD8RM2TG1VObnDX4.svg" alt="Icon" width={21} height={20} />
+                    <Image className={styles.r7} src="/assets/media/n806fLLfwVbcz99FKpeYvQPlYU.svg" alt="Icon" width={21} height={20} />
                   </div>
                 </div>
                 <div className={styles.text}>
@@ -22,7 +22,7 @@ export default function FaqS() {
               <div className={styles.textContainer}>
                 <div className={styles.heading}>
                   <h2 className={styles.r12}>
-                    Got Questions? We have got Answers
+                    Questions? We Have Answers
                   </h2>
                 </div>
                 <div className={styles.paragraph}>

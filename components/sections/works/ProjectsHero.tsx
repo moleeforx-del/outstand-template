@@ -1,6 +1,6 @@
-import styles from './Section0.module.css';
+import styles from './ProjectsHero.module.css';
 
-export default function Section0() {
+export default function ProjectsHero() {
   return (
       <div className={styles.r0}>
         <div className={styles.background}>

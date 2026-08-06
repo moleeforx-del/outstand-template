@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import styles from './Patners.module.css';
+import styles from './Partners.module.css';
 
-export default function Patners() {
+export default function Partners() {
   return (
       <section className={styles.patners}>
         <div className={styles.r1}>

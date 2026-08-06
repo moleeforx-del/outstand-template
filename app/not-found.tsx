@@ -1,5 +1,5 @@
-import NotFoundSections from '@/components/sections/generated/404';
+import Content from '@/components/sections/not-found/Content';
 
 export default function NotFound() {
-  return <NotFoundSections />;
+  return <Content />;
 }
